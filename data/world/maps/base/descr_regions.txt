@@ -1,0 +1,7129 @@
+;Britain
+Hibernia_Septentrionalis
+	legion: legion_Hibernia
+	Eblania
+	celts
+	Hibernians
+	175 43 30
+	none
+	5
+	2
+	christianity 10 pagan 90 
+Hibernia_Orientalis
+	legion: legion_Hibernia
+	Coriondia
+	celts
+	Hibernians
+	28 84 45
+	none
+	5
+	2
+	christianity 10 pagan 90 
+Hibernia_Meridionalis
+	legion: legion_Hibernia
+	Usdia
+	celts
+	Hibernians
+	14 41 75
+	none
+	5
+	3
+	christianity 10 pagan 90 
+
+Hibernia_Occidentalis
+	legion: legion_Hibernia
+	Autenia
+	celts
+	Hibernians
+	108 113 86
+	none
+	5
+	2
+	christianity 10 pagan 90 
+Caledonia
+	legion: legion_Caledonia
+	Caledonii
+	celts
+	Brigantes
+	166 94 46
+	none
+	5
+	1
+	christianity 10 pagan 90 
+Taexalia
+	legion: legion_Caledonia
+	Veluniate
+	celts
+	Brigantes
+	127 181 181
+	none
+	5
+	3
+	christianity 10 pagan 90 
+Votadinia
+	legion: legion_Caledonia
+	Fanum_Cocidi
+	celts
+	Brigantes
+	228 160 16
+	none
+	5
+	2
+	christianity 10 pagan 90 
+Brigantia
+	legion: legion_Britannia_Inferior
+	Brocavum
+	empire_west
+	Brigantes
+	108 59 42
+	britain
+	5
+	2
+	christianity 70 pagan 30 
+Coritania
+	legion: legion_Britannia_Inferior
+	Isurium
+	empire_west
+	Iceni
+	236 124 38
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+Cornovia
+	legion: legion_Britannia_Inferior
+	Deva
+	empire_west
+	Silures
+	49 127 67
+	britain
+	5
+	2
+	christianity 70 pagan 30 
+Icenia
+	legion: legion_Britannia_Superior
+	Venta_Icenorum
+	empire_west
+	Iceni
+	6 57 113
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+Trinovantia
+	legion: legion_Britannia_Superior
+	Camulodunum
+	empire_west
+	Trinovantes
+	237 20 91
+	britain
+	5
+	3
+	christianity 60 pagan 30 
+Cantiacia
+	legion: legion_Britannia_Superior
+	Durovernum
+	empire_west
+	Trinovantes
+	234 137 154
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+Durotrigia
+	legion: legion_Britannia_Superior
+	Calleva_Atrebatum
+	empire_west
+	Trinovantes
+	73 126 118
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+Dumnonia
+	legion: legion_Britannia_Superior
+	Isca_Dumnoniorum
+	empire_west
+	Trinovantes
+	220 157 0
+	britain
+	5
+	3
+	christianity 70 pagan 30
+Dobunnia
+	legion: legion_Britannia_Superior
+	Corinium
+	empire_west
+	Iceni
+	106 95 49
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+
+Ordovicia
+	legion: legion_Britannia_Superior
+	Levobrinta
+	empire_west
+	Silures
+	161 35 18
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+
+Demetia
+	legion: legion_Britannia_Superior
+	Glevum
+	empire_west
+	Silures
+	150 153 146
+	britain
+	5
+	3
+	christianity 70 pagan 30 
+
+;Gaul
+Osisimia
+	legion: legion_Lugdunensis
+	Tregoritum
+	empire_west
+	Veneti
+	207 52 118
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Armorica
+	legion: legion_Lugdunensis
+	Condate_Redonum
+	empire_west
+	Veneti
+	164 58 210
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Venellia
+	legion: legion_Lugdunensis
+	Crouciaconnum
+	empire_west
+	Veneti
+	107 245 255
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+Eburovicia
+	legion: legion_Lugdunensis
+	Lexoviorum
+	empire_west
+	Carnutes
+	37 40 80
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+Namnetia
+	legion: legion_Aquitania
+	Namnetum
+	empire_west
+	Pictones
+	96 219 15
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+Pictonia
+	legion: legion_Aquitania
+	Limonum
+	empire_west
+	Pictones
+	86 10 58
+	none
+	5
+	3
+	christianity 80 pagan 20
+
+Turonia
+	legion: legion_Aquitania
+	Caesarodunum
+	empire_west
+	Carnutes
+	124 150 138
+	none
+	5
+	3
+	christianity 80 pagan 30
+
+Carnutia
+	legion: legion_Aquitania
+	Cenabum
+	empire_west
+	Carnutes
+	32 65 71
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Parisia
+	legion: legion_Lugdunensis
+	Lutetia
+	empire_west
+	Senones
+	227 217 247
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Aquitania
+	legion: legion_Aquitania
+	Burdigala
+	empire_west
+	Ausci
+	158 109 141
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Santonia
+	legion: legion_Aquitania
+	Mediolanum_Santonum
+	empire_west
+	Pictones
+	124 150 85
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Nitrobrogia
+	legion: legion_Aquitania
+	Aginnum
+	empire_west
+	Ausci
+	191 4 224
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Auscia
+	legion: legion_Aquitania
+	Elimberrum
+	empire_west
+	Ausci
+	119 103 45
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Biggeronia
+	legion: legion_Aquitania
+	Lugdunum_Convenarum
+	empire_west
+	Volcae
+	41 3 68
+	none
+	5
+	3
+	arianism 80 christianity 10 pagan 10
+
+Volcatia
+	legion: legion_Aquitania
+	Tolosa
+	empire_west
+	Volcae
+	66 85 170
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Celtica
+	legion: legion_Gallia
+	Andecamulum
+	empire_west
+	Bituriges
+	107 112 196
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Biturigia
+	legion: legion_Gallia
+	Avaricum
+	empire_west
+	Bituriges
+	45 36 28
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Senonia
+	legion: legion_Gallia
+	Bibracte
+	empire_west
+	Senones
+	172 181 226
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Haeduia
+	legion: legion_Gallia
+	Alesia
+	empire_west
+	Aedui
+	181 1 91
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Cubia
+	legion: legion_Gallia
+	Ricomagus
+	empire_west
+	Arverni
+	99 88 99
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Arvernia
+	legion: legion_Gallia
+	Gergovia
+	empire_west
+	Arverni
+	255 255 0
+	none
+	5
+	1
+	arianism 80 christianity 10 pagan 10
+
+Lemovicia
+	legion: legion_Gallia
+	Vesunna
+	empire_west
+	Arverni
+	211 35 68
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Ambarria
+	legion: legion_Gallia
+	Decetia
+	empire_west
+	Aedui
+	43 19 20
+	none
+	5
+	3
+	arianism 80 christianity 10 pagan 10
+
+Sequania
+	legion: legion_Gallia
+	Vesontio
+	empire_west
+	Sequani
+	204 186 53
+	none
+	5
+	3
+	arianism 80 christianity 10 pagan 10
+
+Allobrogia
+	legion: legion_Gallia
+	Vienna
+	empire_west
+	Allobroges
+	133 178 134
+	none
+	5
+	3
+	arianism 80 christianity 10 pagan 10
+
+Vocontia
+	legion: legion_Gallia
+	Nemausus
+	empire_west
+	Vocontii
+	28 13 30
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Narbonensis
+	legion: legion_Gallia
+	Narbo
+	empire_west
+	Vocontii
+	165 255 185
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Alpes_Cottiae
+	legion: legion_Gallia
+	Vologatae
+	empire_west
+	Vocontii
+	150 155 94
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Verbogenia
+	legion: legion_Gallia
+	Lausonna
+	empire_west
+	Allobroges
+	71 70 107
+	none
+	5
+	1
+	arianism 70 christianity 20 pagan 10
+
+Leucia
+	legion: legion_Gallia
+	Divodurum
+	empire_west
+	Sequani
+	20 34 107
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Tribocia
+	legion: legion_Gallia
+	Brocomagus
+	empire_west
+	Helvetii
+	63 83 99
+	none
+	5
+	1
+	christianity 30 pagan 70
+
+Alpes_Maritimae
+	legion: legion_Gallia
+	Massalia
+	empire_west
+	Massaliote
+	23 102 102
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+;Belgae
+Veliocassia
+	legion: legion_Belgae
+	Samarobriva
+	empire_west
+	Belgae
+	220 53 34
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Morinia
+	legion: legion_Belgae
+	Tarvenna
+	empire_west
+	Belgae
+	6 41 56
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Bellovacia
+	legion: legion_Belgae
+	Bagacum
+	empire_west
+	Belgae
+	185 124 204
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Suaeuconia
+	legion: legion_Belgae
+	Durocortorum
+	empire_west
+	Belgae
+	140 175 79
+	none
+	5
+	1
+	christianity 25 pagan 75
+
+Treveria_Salutaris
+	legion: legion_Belgae
+	Verodunum
+	empire_west
+	Nervii
+	88 137 81
+	none
+	5
+	1
+	christianity 25 pagan 75
+
+Nervia
+	legion: legion_Belgae
+	Aduatuca
+	empire_west
+	Nervii
+	62 124 113
+	none
+	5
+	2
+	christianity 25 pagan 75
+
+Eburonia
+	legion: legion_Belgae
+	Asciburgium
+	empire_west
+	Treveri
+	10 110 204
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Treveria
+	legion: legion_Belgae
+	Treveria
+	empire_west
+	Treveri
+	214 137 122
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Mediomatricia
+	legion: legion_Belgae
+	Rouphiniana
+	empire_west
+	Treveri
+	48 3 6
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+;Germania
+Frisia
+	legion: legion_Germania
+	Flevum
+	saxons
+	Batavi
+	58 17 23
+	none
+	5
+	3
+	pagan 100
+
+Chasuaria
+	legion: legion_Germania
+	Corbulonis
+	saxons
+	Batavi
+	24 0 45
+	none
+	5
+	2
+	pagan 100
+
+Bructeria
+	legion: legion_Germania
+	Dulgia
+	saxons
+	Batavi
+	165 132 150
+	none
+	5
+	2
+	pagan 100
+
+Sicambria
+	legion: legion_Germania
+	Aquae_Mattiacorum
+	saxons
+	Chatti
+	184 216 173
+	none
+	5
+	2
+	pagan 100
+
+Chaucia
+	legion: legion_Germania
+	Treva
+	saxons
+	Saxones
+	244 70 17
+	none
+	5
+	3
+	pagan 100
+
+Anglia
+	legion: legion_Germania
+	Avionia
+	saxons
+	Saxones
+	192 69 204
+	none
+	5
+	3
+	pagan 100
+
+Langobardia
+	legion: legion_Germania
+	Leuphana
+	saxons
+	Saxones
+	32 216 176
+	none
+	5
+	2
+	pagan 100
+
+Cimbrica
+	legion: legion_Germania
+	Teutonia
+	saxons
+	Saxones
+	6 66 59
+	none
+	5
+	2
+	pagan 100
+
+Scandia_Insula
+	legion: legion_Germania
+	Reudingia
+	saxons
+	Goths
+	196 190 196
+	none
+	5
+	3
+	pagan 100
+
+Herulia
+	legion: legion_Germania
+	Uppakra
+	saxons
+	Goths
+	102 44 21
+	none
+	5
+	1
+	pagan 100
+
+East_Gothia
+	legion: legion_Germania
+	Theustia
+	saxons
+	Goths
+	178 178 178
+	none
+	5
+	1
+	pagan 100
+
+West_Gothia
+	legion: legion_Germania
+	Konghelle
+	saxons
+	Goths
+	99 255 221
+	none
+	5
+	1
+	pagan 100
+
+Ultima_Thule
+	legion: legion_Germania
+	Lingum
+	saxons
+	Goths
+	160 153 123
+	none
+	5
+	1
+	pagan 100
+
+Chamavia
+	legion: legion_Germania
+	Tulisurgium
+	saxons
+	Chatti
+	14 186 32
+	none
+	5
+	2
+	pagan 100
+
+Baluconia
+	legion: legion_Germania
+	Galaegia
+	saxons
+	Marcomanni
+	211 88 127
+	none
+	5
+	3
+	pagan 100
+
+Semnonia
+	legion: legion_Germania
+	Calancorum
+	saxons
+	Suebi
+	154 244 102
+	none
+	5
+	2
+	pagan 100
+
+Pharodenia
+	legion: legion_Germania
+	Virunum
+	saxons
+	Suebi
+	214 57 99
+	none
+	5
+	2
+	pagan 100
+
+Buria
+	legion: legion_Germania
+	Stragona
+	saxons
+	Suebi
+	111 217 252
+	none
+	5
+	2
+	pagan 100
+
+Marsignia
+	legion: legion_Germania
+	Srevinta
+	saxons
+	Suebi
+	93 170 20
+	none
+	5
+	2
+	pagan 100
+
+Rugia
+	legion: legion_Germania
+	Rhugium
+	saxons
+	Suebi
+	194 206 86
+	none
+	5
+	3
+	pagan 100
+
+Helveconia
+	legion: legion_Germania
+	Scurgum
+	saxons
+	Lugians
+	173 24 69
+	none
+	5
+	2
+	pagan 100
+
+Elysia
+	legion: legion_Germania
+	Setidava
+	saxons
+	Lugians
+	252 54 40
+	none
+	5
+	3
+	pagan 100
+
+Lugia
+	legion: legion_Germania
+	Calisia
+	saxons
+	Lugians
+	100 224 179
+	none
+	5
+	1
+	pagan 100
+
+Ciscarpathia
+	legion: legion_Germania
+	Asanca
+	saxons
+	Lugians
+	101 124 0
+	none
+	5
+	2
+	pagan 100
+
+Vangionia
+	legion: legion_Germania
+	Lopodunum
+	saxons
+	Chatti
+	188 30 43
+	none
+	5
+	2
+	pagan 100
+
+Chattia
+	legion: legion_Germania
+	Bergium
+	saxons
+	Chatti
+	206 121 24
+	none
+	5
+	1
+	pagan 100
+
+Hermunduria
+	legion: legion_Germania
+	Bibacum
+	saxons
+	Marcomanni
+	232 223 99
+	none
+	5
+	2
+	pagan 100
+
+Marcomannia
+	legion: legion_Germania
+	Setuacatum
+	saxons
+	Marcomanni
+	226 161 63
+	none
+	5
+	1
+	pagan 100
+
+;Boihaemia
+Naharvalia
+	legion: legion_Boihaemia
+	Nomisterium
+	saxons
+	Boii
+	183 69 49
+	none
+	5
+	3
+	pagan 100
+
+Boioa
+	legion: legion_Boihaemia
+	Budorgis
+	saxons
+	Boii
+	11 127 229
+	none
+	5
+	2
+	pagan 100
+
+Naristia
+	legion: legion_Boihaemia
+	Abilunum
+	saxons
+	Boii
+	42 191 74
+	none
+	5
+	2
+	pagan 100
+
+;Raetia et Noricum
+Noricum
+	legion: legion_Raetia_et_Noricum
+	Artobriga
+	empire_west
+	Boii
+	133 76 186
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Vindelicia
+	legion: legion_Raetia_et_Noricum
+	Augusta_Vindelicorum
+	empire_west
+	Helvetii
+	252 100 189
+	none
+	5
+	2
+	christianity 25 pagan 75
+
+Latobrigia
+	legion: legion_Raetia_et_Noricum
+	Sumelocenna
+	empire_west
+	Helvetii
+	43 188 41
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Breunia
+	legion: legion_Raetia_et_Noricum
+	Cambobunum
+	empire_west
+	Helvetii
+	179 209 83
+	none
+	5
+	3
+	christianity 25 pagan 75
+
+Helvetia
+	legion: legion_Raetia_et_Noricum
+	Vindonissa
+	empire_west
+	Helvetii
+	86 65 204
+	none
+	5
+	1
+	christianity 25 pagan 75
+
+;Venedia
+Sciria
+	legion: legion_Venedia
+	Anacureta
+	saxons
+	Venedae
+	96 36 181
+	none
+	5
+	2
+	pagan 100
+
+Chrononia
+	legion: legion_Venedia
+	Venedia
+	saxons
+	Venedae
+	183 36 41
+	none
+	5
+	2
+	pagan 100
+
+Turuntia
+	legion: legion_Venedia
+	Veltaea
+	saxons
+	Venedae
+	160 31 224
+	none
+	5
+	1
+	pagan 100
+
+Venedia_Inferior
+	legion: legion_Venedia
+	Kunegria
+	saxons
+	Gepids
+	226 247 66
+	none
+	5
+	2
+	pagan 100
+
+Ossioia
+	legion: legion_Venedia
+	Sentia
+	saxons
+	Gepids
+	194 8 211
+	none
+	5
+	2
+	pagan 100
+
+Vistulia
+	legion: legion_Venedia
+	Gorideva
+	saxons
+	Gepids
+	198 106 13
+	none
+	5
+	3
+	pagan 100
+
+;Amazonia
+Hyperboria
+	legion: legion_Barbaricorum
+	Themiskyra
+	empire_west
+	Amazons
+	146 39 143
+	none
+	5
+	2
+	pagan 100
+
+;Italy
+Liguria
+	legion: legion_Italy
+	Genua
+	empire_west
+	Ligurians
+	224 11 195
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Aemilla
+	legion: legion_Italy
+	Mutina
+	empire_west
+	Boii
+	44 206 22
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Transpadana
+	legion: legion_Italy
+	Taurasia
+	empire_west
+	Ligurians
+	204 12 41
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Insubria
+	legion: legion_Italy
+	Mediolanum
+	empire_west
+	Insubres
+	224 136 85
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Cenomannia
+	legion: legion_Italy
+	Verona
+	empire_west
+	Insubres
+	216 93 179
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Olana
+	legion: legion_Italy
+	Patavium
+	empire_west
+	Veneti
+	209 39 59
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Venetia
+	legion: legion_Italy
+	Altinum
+	empire_west
+	Veneti
+	247 76 173
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Vallis_Arni
+	legion: legion_Italy
+	Pisna
+	empire_west
+	Etruscans
+	244 68 103
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Dodecapolis
+	legion: legion_Italy
+	Arretium
+	empire_west
+	Etruscans
+	75 221 17
+	none
+	4
+	3
+	christianity 75 pagan 25
+
+Umbria
+	legion: legion_Italy
+	Ariminum
+	empire_west
+	Umbrians
+	39 221 167
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Tuscia
+	legion: legion_Italy
+	Spoletium
+	empire_west
+	Etruscans
+	252 108 178
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Latium
+	legion: legion_Italy
+	Roma
+	empire_west
+	Latins
+	242 101 34
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Picenum
+	legion: legion_Italy
+	Ankon
+	empire_west
+	Umbrians
+	122 55 173
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Aternum
+	legion: legion_Italy
+	Corfinium
+	empire_west
+	Campanians
+	115 244 51
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Apulia
+	legion: legion_Italy
+	Canusium
+	empire_west
+	Calabrians
+	205 224 65
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Campania
+	legion: legion_Italy
+	Capua
+	empire_west
+	Campanians
+	140 11 4
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Lucania
+	legion: legion_Italy
+	Metapontum
+	empire_west
+	Lucanians
+	131 242 58
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Bruttium
+	legion: legion_Italy
+	Croton
+	empire_west
+	Calabrians
+	232 189 71
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Tarentum
+	legion: legion_Italy
+	Taras
+	empire_west
+	Tarantine
+	198 88 33
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Siculia
+	legion: legion_Italy
+	Messana
+	empire_west
+	Mamertine
+	2 127 56
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Syracuse
+	legion: legion_Italy
+	Syrakousai
+	empire_west
+	Syracusans
+	13 32 145
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Sicania
+	legion: legion_Italy
+	Akragas
+	empire_west
+	Sicani
+	178 105 8
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Elimia
+	legion: legion_Italy
+	Lilybaeum
+	empire_west
+	Sicani
+	49 109 1
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Sardinia_Meridionalis
+	legion: legion_Italy
+	Karalis
+	empire_west
+	SardoPunic
+	220 226 43
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Sardinia_Septentrionalis
+	legion: legion_Italy
+	Olbia_Rasna
+	empire_west
+	SardoPunic
+	237 104 234
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Corsica
+	legion: legion_Italy
+	Alalia
+	empire_west
+	Etruscans
+	226 107 9
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+;Africa
+Carthago
+	legion: legion_Africa
+	Qart_Hadasht
+	empire_west
+	Poeni
+	244 12 51
+	none
+	5
+	4
+	arianism 70 pagan 10 christianity 20
+
+Zeugitana
+	legion: legion_Africa
+	Karash
+	empire_west
+	Poeni
+	104 216 75
+	none
+	5
+	3
+	arianism 70 pagan 10 christianity 20
+
+Byssatis
+	legion: legion_Africa
+	Tapsa
+	empire_west
+	Poeni
+	199 214 66
+	none
+	5
+	3
+	arianism 70 pagan 10 christianity 20
+Thabracania
+	legion: legion_Africa
+	Tabarkon
+	empire_west
+	Poeni
+	82 229 131
+	none
+	5
+	3
+	arianism 80 pagan 10 christianity 20
+
+Massylia
+	legion: legion_Africa
+	Rushikad
+	empire_west
+	Massylian
+	29 121 155
+	none
+	5
+	3
+	arianism 60 pagan 20 christianity 20
+
+Musulamia
+	legion: legion_Africa
+	Mactaris
+	empire_west
+	Musulamian
+	229 211 18
+	none
+	5
+	2
+	arianism 60 pagan 20 christianity 20
+
+Maxyesia
+	legion: legion_Africa
+	Tabira
+	empire_west
+	Musulamian
+	178 68 32
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Zaba
+	legion: legion_Africa
+	Thamugadi
+	empire_west
+	Gaetuli
+	94 198 219
+	none
+	5
+	1
+	pagan 60 christianity 30 arianism 10
+
+Aurasius
+	legion: legion_Africa
+	Ammaedara
+	empire_west
+	Massylian
+	244 122 97
+	none
+	5
+	1
+	arianism 50 pagan 30 christianity 20
+
+Cirtania
+	legion: legion_Africa
+	Kirta
+	empire_west
+	Massylian
+	216 177 4
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Sitifensia
+	legion: legion_Africa
+	Sitifis
+	empire_west
+	Massylian
+	149 8 214
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Gaetulia
+	legion: legion_Africa
+	Gemellae
+	empire_west
+	Gaetuli
+	204 20 35
+	none
+	5
+	2
+	pagan 70 arianism 30
+
+Iolia
+	legion: legion_Africa
+	Iol
+	empire_west
+	Poeni
+	188 141 47
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Machuria
+	legion: legion_Africa
+	Auzia
+	empire_west
+	Massaesylian
+	120 135 13
+	none
+	5
+	1
+	pagan 70 arianism 30
+
+Massaesylia
+	legion: legion_Africa
+	Qartan
+	empire_west
+	Massaesylian
+	249 178 62
+	none
+	5
+	2
+	pagan 70 arianism 30
+
+Metagonia
+	legion: legion_Africa
+	Siga
+	empire_west
+	Massaesylian
+	151 170 5
+	none
+	5
+	2
+	pagan 70 arianism 30
+
+Tingitania
+	legion: legion_Africa
+	Tinga
+	empire_west
+	Mauretanian
+	121 226 95
+	none
+	5
+	3
+	pagan 70 arianism 30
+
+Mauretania
+	legion: legion_Africa
+	Volubilis
+	empire_west
+	Mauretanian
+	95 194 216
+	none
+	5
+	2
+	pagan 100
+
+Rutubis
+	legion: legion_Africa
+	Rutubis
+	empire_west
+	Mauretanian
+	252 47 160
+	none
+	5
+	2
+	pagan 100
+
+Tadla
+	legion: legion_Africa
+	Tiflet
+	berbers
+	Mauretanian
+	76 211 78
+	none
+	5
+	2
+	christianity 100
+
+Mauretania_Ulterior
+	legion: legion_Africa
+	Essaoria
+	berbers
+	Mauretanian
+	255 135 195
+	none
+	5
+	2
+	christianity 100
+Lixiane
+	legion: legion_Africa
+	Gytta
+	berbers
+	Mauretanian
+	229 188 255
+	none
+	5
+	0
+	christianity 100
+
+Furtunatae_Insulae
+	legion: legion_Africa
+	Sertoria
+	berbers
+	Mauretanian
+	239 134 141
+	none
+	5
+	1
+	pagan 100
+
+Cerne
+	legion: legion_Africa
+	Kerne
+	berbers
+	Poeni
+	86 112 1
+	none
+	5
+	2
+	christianity 100
+
+Deserta_Mauretania
+	legion: legion_Africa
+	Mulucha
+	berbers
+	Mauretanian
+	11 142 116
+	none
+	5
+	0
+	christianity 100
+
+Madethubadus
+	legion: legion_Africa
+	Dimmidi
+	berbers
+	Gaetuli
+	12 91 122
+	none
+	5
+	0
+	christianity 100
+
+;Libya
+Emporia
+	legion: legion_Libya
+	Takapes
+	empire_west
+	Liby_Phoenician
+	6 122 101
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Tripolitania
+	legion: legion_Libya
+	Oyat
+	empire_west
+	Liby_Phoenician
+	165 4 34
+	none
+	5
+	2
+	arianism 50 pagan 30 christianity 20
+
+Syrtica
+	legion: legion_Libya
+	Macomada
+	berbers
+	Nasamones
+	95 10 135
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Nasamonia
+	legion: legion_Libya
+	Augila
+	berbers
+	Nasamones
+	211 113 14
+	none
+	5
+	0
+	christianity 70 pagan 30
+
+;Sahara
+Leonum_Trahentium
+	legion: legion_Sahara
+	Alasi
+	berbers
+	Troglodytian
+	12 33 124
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Nigritania
+	legion: legion_Sahara
+	Tondidaru
+	berbers
+	Nigritae
+	3 124 17
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Ougarta
+	legion: legion_Sahara
+	Ougartoum
+	berbers
+	Troglodytian
+	135 150 4
+	none
+	5
+	1
+	christianity 100
+
+Deserta_Tripolitania
+	legion: legion_Sahara
+	Myd
+	berbers
+	Garamantian
+	78 127 8
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Phazania
+	legion: legion_Sahara
+	Baracum
+	berbers
+	Garamantian
+	221 203 6
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Garamantia_Citerior
+	legion: legion_Sahara
+	Cydamus
+	berbers
+	Garamantian
+	211 16 159
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Garamantia_Ulterior
+	legion: legion_Sahara
+	Garama
+	berbers
+	Garamantian
+	165 165 165
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+Agisymba
+	legion: legion_Sahara
+	Magium
+	berbers
+	Agisymban
+	135 39 1
+	none
+	5
+	3
+	christianity 5 pagan 95
+
+Troglodytia
+	legion: legion_Sahara
+	Kossedaoum
+	berbers
+	Troglodytian
+	132 195 190
+	none
+	5
+	0
+	christianity 5 pagan 95
+
+;Hispania
+Indicetia
+	legion: legion_Hispania
+	Emporion
+	empire_west
+	Emporiote
+	47 112 1
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Balearides
+	legion: legion_Hispania
+	Palma
+	empire_west
+	Beronicensis
+	231 69 249
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Contestania
+	legion: legion_Hispania
+	Imeroskopeion
+	empire_west
+	Hemeroskopeiote
+	186 85 13
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Baetica_Gaditanus
+	legion: legion_Hispania
+	Agadir
+	empire_west
+	Poeni
+	54 14 142
+	none
+	5
+	3
+	arianism 60 christianity 20 pagan 20
+
+Mastiania
+	legion: legion_Hispania
+	Mastia
+	empire_west
+	Poeni
+	221 200 6
+	none
+	5
+	1
+	arianism 70 christianity 20 pagan 10
+
+Bastetania
+	legion: legion_Hispania
+	Urki
+	empire_west
+	Poeni
+	7 127 103
+	none
+	5
+	1
+	arianism 70 christianity 20 pagan 10
+
+Edetania
+	legion: legion_Hispania
+	Arse
+	empire_west
+	Iberians
+	116 147 11
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Ilercavonia
+	legion: legion_Hispania
+	Hibera
+	empire_west
+	Iberians
+	211 6 102
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Cessetania
+	legion: legion_Hispania
+	Kesse
+	empire_west
+	Iberians
+	130 147 2
+	none
+	5
+	2
+	arianism 80 christianity 10 pagan 10
+
+Ilergetia
+	legion: legion_Hispania
+	Iltrida
+	empire_west
+	Iberians
+	216 95 8
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Vasconia
+	legion: legion_Hispania
+	Osca
+	empire_west
+	Iberians
+	62 104 0
+	none
+	5
+	2
+	christianity 75 arianism 10 pagan 15
+
+Baetica_Hispalensis
+	legion: legion_Hispania
+	Karmo
+	empire_west
+	Turdetanian
+	121 130 2
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Malacitia
+	legion: legion_Hispania
+	Malaka
+	empire_west
+	Turdetanian
+	17 170 76
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Oretania
+	legion: legion_Hispania
+	Kastilo
+	empire_west
+	Turdetanian
+	145 43 2
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Baetica_Cordubensis
+	legion: legion_Hispania
+	Kartuba
+	empire_west
+	Turdetanian
+	166 12 209
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Turdetania
+	legion: legion_Hispania
+	Orippo
+	empire_west
+	Turdetanian
+	193 3 196
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Couneia
+	legion: legion_Hispania
+	Onuba
+	empire_west
+	Turdetanian
+	72 150 12
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Turdulia_Occidentalis
+	legion: legion_Hispania
+	Varna
+	empire_west
+	Turdetanian
+	163 53 6
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Turdulia_Orientalis
+	legion: legion_Hispania
+	Oretum
+	empire_west
+	Turdetanian
+	216 17 107
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Lobetania
+	legion: legion_Hispania
+	Mentesa
+	empire_west
+	Celtiberian
+	77 242 154
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Celtiberia_Meridionalis
+	legion: legion_Hispania
+	Valeria
+	empire_west
+	Celtiberian
+	224 47 209
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Celtiberia_Septentrionalis
+	legion: legion_Hispania
+	Salduie
+	empire_west
+	Celtiberian
+	81 221 26
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Celtiberia_Centralis
+	legion: legion_Hispania
+	Segontia
+	empire_west
+	Celtiberian
+	239 206 16
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Carpetania
+	legion: legion_Hispania
+	Toletum
+	empire_west
+	Celtiberian
+	12 209 74
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Vettonia_Meridionalis
+	legion: legion_Hispania
+	Augustobriga
+	empire_west
+	Celtiberian
+	219 119 48
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Vettonia_Septentrionalis
+	legion: legion_Hispania
+	Avila
+	empire_west
+	Celtiberian
+	77 34 158
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Vaccaeia_Meridionalis
+	legion: legion_Hispania
+	Segovia
+	empire_west
+	Cantabrian
+	188 53 50
+	none
+	5
+	3
+	christianity 45 pagan 55
+
+Vaccaeia_Septentrionalis
+	legion: legion_Hispania
+	Palantia
+	empire_west
+	Cantabrian
+	244 36 223
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Vardulia
+	legion: legion_Hispania
+	Pompelo
+	empire_west
+	Cantabrian
+	25 252 59
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Autrigonia
+	legion: legion_Hispania
+	Vindeleia
+	empire_west
+	Cantabrian
+	216 65 135
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Cantabria
+	legion: legion_Hispania
+	Lancia
+	empire_west
+	Cantabrian
+	86 234 70
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Celticia_Minoris
+	legion: legion_Hispania
+	Ebora
+	empire_west
+	Lusitanian
+	145 0 229
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Celticia_Maoioris
+	legion: legion_Hispania
+	Augusta_Emerita
+	empire_west
+	Lusitanian
+	67 183 9
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Lusitania
+	legion: legion_Hispania
+	Mirobriga
+	empire_west
+	Lusitanian
+	252 90 198
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Oppidania
+	legion: legion_Hispania
+	Conimbriga
+	empire_west
+	Lusitanian
+	219 138 87
+	none
+	5
+	3
+	christianity 70 arianism 20 pagan 10
+
+Asturia
+	legion: legion_Hispania
+	Lucus_Asturum
+	empire_west
+	Asturian
+	247 235 74
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Aebocosia
+	legion: legion_Hispania
+	Argentiolum
+	empire_west
+	Asturian
+	209 89 41
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Callaecia_Meridionalis
+	legion: legion_Hispania
+	Bracara_Augusta
+	empire_west
+	Asturian
+	28 206 94
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Callaecia_Septentrionalis
+	legion: legion_Hispania
+	Assegonia
+	empire_west
+	Asturian
+	237 28 36
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+;Dalmatia
+Histria
+	legion: legion_Italy
+	Polai
+	empire_east
+	Histrian
+	216 56 47
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Libernia
+	legion: legion_Dalmatia
+	Iader
+	empire_east
+	Libernian
+	221 97 159
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Dalmatia
+	legion: legion_Dalmatia
+	Salona
+	empire_east
+	Delmatae
+	66 237 4
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Daorsia
+	legion: legion_Dalmatia
+	Delminion
+	empire_east
+	Daorsian
+	205 234 86
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Deuria
+	legion: legion_Dalmatia
+	Segestika
+	empire_east
+	Breuci
+	120 221 86
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+;Pannonia
+Latobicia
+	legion: legion_Pannonia
+	Carnium
+	goths
+	Tauriscian
+	244 207 95
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Cataria
+	legion: legion_Pannonia
+	Varianis
+	goths
+	Tauriscian
+	35 186 90
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+Varciania
+	legion: legion_Pannonia
+	Vindobona
+	goths
+	Tauriscian
+	196 13 187
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Pannonia_Prima
+	legion: legion_Pannonia
+	Aquincum
+	goths
+	Eraviscian
+	90 255 35
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Carnuntia
+	legion: legion_Pannonia
+	Felicia
+	goths
+	Eraviscian
+	36 183 112
+	none
+	5
+	2
+	arianism 25 pagan 75
+
+Quadia
+	legion: legion_Pannonia
+	Amatria
+	goths
+	Eraviscian
+	107 26 165
+	none
+	5
+	2
+	arianism 25 pagan 75
+
+Valeria
+	legion: legion_Pannonia
+	Sopianai
+	goths
+	Pannonian
+	212 237 71
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Hercuniatia
+	legion: legion_Pannonia
+	Iazygiana
+	goths
+	Pannonian
+	65 198 125
+	none
+	5
+	3
+	arianism 25 pagan 75
+
+Pannonia_Secunda
+	legion: legion_Pannonia
+	Sirmium
+	goths
+	Scordisci
+	211 81 42
+	none
+	5
+	2
+	arianism 70 christianity 20 pagan 10
+
+;Dacia
+Albocensia
+	legion: legion_Dacia
+	Lixisis
+	goths
+	Pannonian
+	149 168 23
+	none
+	5
+	3
+	christianity 40 pagan 60
+
+Iazygia
+	legion: legion_Dacia
+	Crisia
+	goths
+	Pannonian
+	101 160 24
+	none
+	5
+	3
+	christianity 40 pagan 60
+
+Cotinia
+	legion: legion_Dacia
+	Oratis
+	goths
+	Pannonian
+	216 67 181
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Costobocia
+	legion: legion_Dacia
+	Vidava
+	goths
+	Carpi
+	165 51 16
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Potulatensia
+	legion: legion_Dacia
+	Apulum
+	goths
+	Daci
+	211 52 198
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Porolissensis
+	legion: legion_Dacia
+	Potaissa
+	goths
+	Daci
+	122 160 16
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Apulensis
+	legion: legion_Dacia
+	Media
+	goths
+	Daci
+	242 188 53
+	none
+	5
+	2
+	christianity 40 pagan 60
+
+Malvensis
+	legion: legion_Dacia
+	Buridava
+	goths
+	Daci
+	91 132 10
+	none
+	5
+	3
+	christianity 40 pagan 60
+
+Getia
+	legion: legion_Dacia
+	Popesti
+	goths
+	Getae
+	191 1 131
+	none
+	5
+	3
+	christianity 40 pagan 60
+
+Roxolania
+	legion: legion_Dacia
+	Polondava
+	goths
+	Getae
+	198 57 21
+	none
+	5
+	3
+	christianity 40 pagan 60
+
+;Moesia
+Scordiscia
+	legion: legion_Moesia
+	Singidunum
+	empire_east
+	Scordisci
+	232 2 166
+	none
+	5
+	3
+	arianism 70 christianity 20 pagan 10
+
+Tricornensia
+	legion: legion_Moesia
+	Naissus
+	empire_east
+	Scordisci
+	203 78 244
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Dindaria
+	legion: legion_Moesia
+	Risitia
+	empire_east
+	Dardanian
+	71 232 181
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Dardania
+	legion: legion_Moesia
+	Skoupoi
+	empire_east
+	Dardanian
+	46 186 11
+	none
+	5
+	2
+	christianity 70 arianism 20 pagan 10
+
+Picensia
+	legion: legion_Moesia
+	Ratiaria
+	empire_east
+	Triballian
+	95 252 129
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Saldensia
+	legion: legion_Moesia
+	Oescus
+	empire_east
+	Triballian
+	193 32 73
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Moesia
+	legion: legion_Moesia
+	Serdica
+	empire_east
+	Triballian
+	244 94 19
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Triballia
+	legion: legion_Moesia
+	Tylis
+	empire_east
+	Tyle
+	221 48 132
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Crobyzoia
+	legion: legion_Moesia
+	Odessos
+	empire_east
+	Moesian
+	109 234 84
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+Scythia_Minor
+	legion: legion_Moesia
+	Istros
+	empire_east
+	Moesian
+	229 32 65
+	none
+	5
+	3
+	christianity 60 pagan 40
+
+;Thrace
+Haemimontus
+	legion: legion_Thrace
+	Apollonia_Pontiki
+	empire_east
+	Odrysae
+	226 105 83
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Thracia
+	legion: legion_Thrace
+	Seuthopolis
+	empire_east
+	Odrysae
+	252 113 173
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Rhodope
+	legion: legion_Thrace
+	Abdira
+	empire_east
+	Odrysae
+	188 239 79
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Propontis
+	legion: legion_Thrace
+	Lysimacheia
+	empire_east
+	Chersonian
+	160 50 22
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Europa
+	legion: legion_Thrace
+	Byzantion
+	empire_east
+	Byzantine
+	110 211 69
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+;Macedonia
+Paeonia
+	legion: legion_Macedonia
+	Astraion
+	empire_east
+	Paionians
+	146 5 255
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Odomantike
+	legion: legion_Macedonia
+	Amphipolis
+	empire_east
+	Edones
+	64 160 28
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Chalkidiki
+	legion: legion_Macedonia
+	Thessaloniki
+	empire_east
+	Sithones
+	206 26 6
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Emathia
+	legion: legion_Macedonia
+	Pella
+	empire_east
+	Emathian
+	33 183 45
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Pelagonia
+	legion: legion_Macedonia
+	Lychnidos
+	empire_east
+	Pelagonian
+	255 53 231
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Thessalia
+	legion: legion_Macedonia
+	Larisa
+	empire_east
+	Thessalians
+	234 237 83
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+;Greece
+Illyria_Graeca
+	legion: legion_Greece
+	Apollonia
+	empire_east
+	Epirots
+	244 165 100
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Epirus
+	legion: legion_Greece
+	Passaron
+	empire_east
+	Epirots
+	51 175 42
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Aetolia
+	legion: legion_Greece
+	Thermos
+	empire_east
+	Aetolians
+	215 0 219
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Boeotia
+	legion: legion_Greece
+	Thibai
+	empire_east
+	Boeotian
+	97 163 16
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Attica
+	legion: legion_Greece
+	Athinai
+	empire_east
+	Athenians
+	247 77 51
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Euboea
+	legion: legion_Greece
+	Chalkis
+	empire_east
+	Euboean
+	255 175 79
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Achaea
+	legion: legion_Greece
+	Korinthos
+	empire_east
+	Achaeans
+	219 63 164
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Arcadia
+	legion: legion_Greece
+	Elis
+	empire_east
+	Arcadian
+	104 224 65
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Laconia
+	legion: legion_Greece
+	Sparta
+	empire_east
+	Helots
+	173 26 43
+	none
+	5
+	2
+	christianity 75 pagan 25
+
+Sporades
+	legion: legion_Greece
+	Rodos
+	empire_east
+	Rhodians
+	112 193 36
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Crete
+	legion: legion_Greece
+	Gortyna
+	empire_east
+	Cretans
+	166 80 216
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+;Crimea
+Chersonesos_Zenonis
+	legion: legion_Crimea
+	Pantikapaion
+	roxolani
+	Bosphorans
+	252 185 98
+	none
+	5
+	2
+	pagan 100
+
+Chersonesos_Heraclea
+	legion: legion_Crimea
+	Chersonisos
+	roxolani
+	Bosphorans
+	252 27 233
+	none
+	5
+	2
+	pagan 100
+
+Taurica
+	legion: legion_Crimea
+	Kimmeria
+	roxolani
+	Taurican
+	183 255 68
+	none
+	5
+	2
+	pagan 100
+
+Bosporus_Cimmerius
+	legion: legion_Crimea
+	Phanagoreia
+	roxolani
+	Bosphorans
+	198 21 107
+	none
+	5
+	3
+	pagan 100
+
+Sarmatia_Maritima
+	legion: legion_Crimea
+	Olbia
+	roxolani
+	Bosphorans
+	64 201 62
+	none
+	5
+	2
+	pagan 100
+
+Scythia_Harpitis
+	legion: legion_Crimea
+	Tyras
+	roxolani
+	Bosphorans
+	221 19 178
+	none
+	5
+	2
+	pagan 100
+
+;European Sarmatia
+Subcarpathia
+	legion: legion_Sarmatia
+	Castrana
+	roxolani
+	Harpian
+	199 249 72
+	none
+	5
+	0
+	pagan 100
+
+Zargidava
+	legion: legion_Sarmatia
+	Piroboridava
+	roxolani
+	Harpian
+	57 198 47
+	none
+	5
+	2
+	pagan 100
+
+Clepia
+	legion: legion_Sarmatia
+	Volumis
+	roxolani
+	Harpian
+	216 149 26
+	none
+	5
+	3
+	pagan 100
+
+Sarmatia
+	legion: legion_Sarmatia
+	Scyra
+	sarmatians
+	Iazyges
+	213 22 226
+	none
+	5
+	3
+	pagan 100
+
+Sarmatia_Superioris
+	legion: legion_Sarmatia
+	Ektonopolis
+	sarmatians
+	Iazyges
+	214 89 98
+	none
+	5
+	3
+	pagan 100
+
+Borysthenia
+	legion: legion_Sarmatia
+	Zeh
+	sarmatians
+	Iazyges
+	37 178 82
+	none
+	5
+	3
+	pagan 100
+
+Hypania
+	legion: legion_Sarmatia
+	Zetha
+	sarmatians
+	Iazyges
+	229 157 2
+	none
+	5
+	2
+	pagan 100
+
+Transborysthena
+	legion: legion_Sarmatia
+	Volg
+	sarmatians
+	Roxolani
+	182 221 82
+	none
+	5
+	2
+	pagan 100
+
+Transhypania
+	legion: legion_Sarmatia
+	Gelts
+	sarmatians
+	Agathyrsian
+	26 140 4
+	none
+	5
+	1
+	pagan 100
+
+Hypania_Minoris
+	legion: legion_Sarmatia
+	Lechta
+	sarmatians
+	Agathyrsian
+	232 123 55
+	none
+	5
+	1
+	pagan 100
+
+Bassetia
+	legion: legion_Sarmatia
+	Vurdant
+	sarmatians
+	Agathyrsian
+	226 183 90
+	none
+	5
+	2
+	pagan 100
+
+Vistulia_Inferioris
+	legion: legion_Sarmatia
+	Malica
+	sarmatians
+	Agathyrsian
+	216 71 100
+	none
+	5
+	2
+	pagan 100
+
+Amadocia
+	legion: legion_Sarmatia
+	Trakylli
+	sarmatians
+	Agathyrsian
+	166 247 86
+	none
+	5
+	1
+	pagan 100
+
+Neuri
+	legion: legion_Sarmatia
+	Azagarium
+	sarmatians
+	Agathyrsian
+	225 198 152
+	none
+	5
+	1
+	pagan 100
+
+Gelonia
+	legion: legion_Sarmatia
+	Gelonus
+	sarmatians
+	Agathyrsian
+	56 204 48
+	none
+	5
+	2
+	pagan 100
+
+;Asian Sarmatia
+Tauroscythia
+	legion: legion_Sarmatia
+	Pasyris
+	sarmatians
+	Roxolani
+	175 29 93
+	none
+	5
+	3
+	pagan 100
+
+Cimmero_Scythia
+	legion: legion_Sarmatia
+	Ruti
+	sarmatians
+	Roxolani
+	1 168 23
+	none
+	5
+	2
+	pagan 100
+
+Tanaica
+	legion: legion_Sarmatia
+	Tanais
+	sarmatians
+	Roxolani
+	204 89 51
+	none
+	5
+	3
+	pagan 100
+
+Borysthenia_Maioris
+	legion: legion_Sarmatia
+	Tahent
+	sarmatians
+	Roxolani
+	189 255 38
+	none
+	5
+	3
+	pagan 100
+
+Danaia
+	legion: legion_Sarmatia
+	Yakkant
+	sarmatians
+	Roxolani
+	61 219 82
+	none
+	5
+	3
+	pagan 100
+
+Mantessa
+	legion: legion_Sarmatia
+	Ishkent
+	sarmatians
+	Roxolani
+	183 67 55
+	none
+	5
+	3
+	pagan 100
+
+Confluenta
+	legion: legion_Sarmatia
+	Vyrni
+	sarmatians
+	Sarmatians
+	114 186 14
+	none
+	5
+	3
+	pagan 100
+
+Danaia_Superioris
+	legion: legion_Sarmatia
+	Shashcha
+	sarmatians
+	Sarmatians
+	255 114 109
+	none
+	5
+	2
+	pagan 100
+
+Melanchlenia
+	legion: legion_Sarmatia
+	Agathyrsica
+	sarmatians
+	Agathyrsian
+	232 167 39
+	none
+	5
+	1
+	pagan 100
+
+Thyssagetae
+	legion: legion_Sarmatia
+	Exapolis
+	sarmatians
+	Sarmatians
+	170 242 26
+	none
+	5
+	2
+	pagan 100
+
+Stumica
+	legion: legion_Sarmatia
+	Gaithasoura
+	sarmatians
+	Sarmatians
+	158 12 206
+	none
+	5
+	1
+	pagan 100
+
+;Circassia
+Maeotia
+	legion: legion_Circassia
+	Iados
+	sarmatians
+	Maeotae
+	252 168 90
+	none
+	5
+	2
+	pagan 100
+
+Sindica
+	legion: legion_Circassia
+	Sabiranum
+	sarmatians
+	Siraces
+	183 52 219
+	none
+	5
+	3
+	pagan 100
+
+Scythia_Transmontem
+	legion: legion_Circassia
+	Valent
+	sarmatians
+	Siraces
+	140 209 83
+	none
+	5
+	0
+	pagan 100
+
+Tanaissa
+	legion: legion_Circassia
+	Katys
+	sarmatians
+	Siraces
+	60 1 163
+	none
+	5
+	3
+	pagan 100
+
+Sarmatia_Hyrcania
+	legion: legion_Circassia
+	Zabender
+	sarmatians
+	Siraces
+	183 57 34
+	none
+	5
+	2
+	pagan 100
+
+Sattara
+	legion: legion_Circassia
+	Vynikka
+	sarmatians
+	Siraces
+	232 198 48
+	none
+	5
+	3
+	pagan 100
+
+Hyrcania_Superioris
+	legion: legion_Circassia
+	Chroda
+	sarmatians
+	Siraces
+	94 229 164
+	none
+	5
+	2
+	pagan 100
+
+Alania
+	legion: legion_Circassia
+	Zhev
+	huns
+	Alans
+	188 88 16
+	none
+	5
+	2
+	pagan 100
+
+Alania_Orientalis
+	legion: legion_Circassia
+	Mennichak
+	huns
+	Alans
+	94 183 45
+	none
+	5
+	2
+	pagan 100
+
+Atara
+	legion: legion_Circassia
+	Gyashech
+	huns
+	Alans
+	130 80 183
+	none
+	5
+	2
+	pagan 100
+
+;Far Sarmatia
+Nesietis
+	legion: legion_Sarmatia
+	Nesitotis
+	huns
+	Alans
+	216 184 67
+	none
+	5
+	1
+	pagan 100
+
+Transhyrcania
+	legion: legion_Sarmatia
+	Zale
+	huns
+	Alans
+	239 0 11
+	none
+	5
+	1
+	pagan 100
+
+Darn
+	legion: legion_Sarmatia
+	Satticha
+	huns
+	Alans
+	173 201 32
+	none
+	5
+	1
+	pagan 100
+
+Scythia_Magna
+	legion: legion_Sarmatia
+	Alanica
+	huns
+	Alans
+	124 204 20
+	none
+	5
+	1
+	pagan 100
+
+Deserta_Scythia
+	legion: legion_Sarmatia
+	Vyache
+	huns
+	Alans
+	229 57 94
+	none
+	5
+	1
+	pagan 100
+
+Abzoa
+	legion: legion_Sarmatia
+	Aorsia
+	huns
+	Alans
+	133 66 191
+	none
+	5
+	2
+	pagan 100
+
+Alanorsia
+	legion: legion_Sarmatia
+	Tengiz
+	huns
+	Alans
+	181 12 32
+	none
+	5
+	2
+	pagan 100
+
+;Southern Siberia
+Busu
+	legion: legion_Siberia
+	Arimaspia
+	huns
+	Saka
+	216 182 71
+	none
+	5
+	1
+	pagan 100
+
+Septem_Flumina
+	legion: legion_Siberia
+	Ili
+	huns
+	Saka
+	11 127 81
+	none
+	5
+	1
+	pagan 100
+
+Sacasene
+	legion: legion_Siberia
+	Kujin
+	huns
+	Saka
+	237 101 178
+	none
+	5
+	2
+	pagan 100
+
+Hongnia
+	legion: legion_Siberia
+	Artey
+	huns
+	Hunni
+	160 57 28
+	none
+	5
+	2
+	pagan 100
+
+;Tanim
+Gushia
+	legion: legion_Tanim
+	Turfan
+	sarmatians
+	Asii
+	156 201 72
+	none
+	5
+	2
+	pagan 100
+
+Hamich
+	legion: legion_Tanim
+	Cumuda
+	sarmatians
+	Asii
+	209 170 73
+	none
+	5
+	2
+	pagan 100
+
+Agni
+	legion: legion_Tanim
+	Arsi
+	sarmatians
+	Tocharian
+	242 231 29
+	none
+	5
+	2
+	pagan 100
+
+Kroraina
+	legion: legion_Tanim
+	Kroran
+	sarmatians
+	Tocharian
+	198 3 39
+	none
+	5
+	2
+	pagan 100
+
+Portae_Ferraea
+	legion: legion_Tanim
+	Korla
+	sarmatians
+	Tocharian
+	43 242 56
+	none
+	5
+	1
+	pagan 100
+
+Kushine
+	legion: legion_Tanim
+	Kucha
+	sarmatians
+	Tocharian
+	244 78 192
+	none
+	5
+	3
+	pagan 100
+
+Calmadana
+	legion: legion_Tanim
+	Qarqan
+	sarmatians
+	Tocharian
+	37 186 3
+	none
+	5
+	3
+	pagan 100
+
+Gumo
+	legion: legion_Tanim
+	Aqsu
+	sarmatians
+	Tocharian
+	189 201 22
+	none
+	5
+	3
+	pagan 100
+
+Kasia
+	legion: legion_Tanim
+	Kasi
+	sarmatians
+	Khotanese
+	216 75 85
+	none
+	5
+	3
+	pagan 100
+
+Gosthana
+	legion: legion_Tanim
+	Godana
+	sarmatians
+	Khotanese
+	63 35 132
+	none
+	5
+	3
+	pagan 100
+
+Cadot
+	legion: legion_Tanim
+	Cadota
+	sarmatians
+	Khotanese
+	216 213 49
+	none
+	5
+	3
+	pagan 100
+
+;China
+Paelex_Porta
+	legion: legion_China
+	Throana
+	sassanids
+	Seres
+	244 22 189
+	none
+	5
+	2
+	pagan 100
+
+Serica
+	legion: legion_China
+	Sera
+	sassanids
+	Seres
+	181 32 42
+	none
+	5
+	2
+	pagan 100
+
+Serica_Asmiraii
+	legion: legion_China
+	Asmira
+	sassanids
+	Asmiraian
+	127 183 49
+	none
+	5
+	0
+	pagan 100
+
+Serica_Coconorum
+	legion: legion_China
+	Quilan
+	sassanids
+	Seres
+	88 18 145
+	none
+	5
+	0
+	pagan 100
+
+;Jaxarta
+Issedonia
+	legion: legion_Jaxarta
+	Issedon
+	huns
+	Issedones
+	209 115 14
+	none
+	5
+	2
+	pagan 100
+
+Talas
+	legion: legion_Jaxarta
+	Yul
+	huns
+	Issedones
+	90 10 130
+	none
+	5
+	1
+	pagan 100
+
+Chach
+	legion: legion_Jaxarta
+	Turris_Lapidea
+	huns
+	Sogdian
+	14 160 65
+	none
+	5
+	2
+	pagan 100
+
+Jaxartes_Superior
+	legion: legion_Jaxarta
+	Poshkar
+	huns
+	Massagetae
+	155 27 10
+	none
+	5
+	3
+	pagan 100
+
+Jaxartes_Inferior
+	legion: legion_Jaxarta
+	Iaxartoum
+	huns
+	Massagetae
+	224 184 8
+	none
+	5
+	3
+	pagan 100
+
+Dzankath
+	legion: legion_Jaxarta
+	Yakhsha_Arta
+	huns
+	Massagetae
+	88 153 10
+	none
+	5
+	2
+	pagan 100
+
+;Ferghana
+Ferghana
+	legion: legion_Ferghana
+	Andukan
+	huns
+	Sogdian
+	127 32 1
+	none
+	5
+	3
+	pagan 100
+
+Kyreschata
+	legion: legion_Ferghana
+	Alexandreia_Eschati
+	huns
+	Baktrian
+	206 184 20
+	none
+	5
+	3
+	pagan 100
+
+Pamir
+	legion: legion_Ferghana
+	Baskata
+	huns
+	Sogdian
+	0 119 79
+	none
+	5
+	0
+	pagan 100
+
+;Sogdian Desert
+Sakastan
+	legion: legion_Sogdian
+	Kashram
+	huns
+	Massagetae
+	87 6 124
+	none
+	5
+	2
+	pagan 100
+
+Sogdiana_Deserta
+	legion: legion_Sogdian
+	Palisha
+	huns
+	Massagetae
+	13 137 9
+	none
+	5
+	0
+	pagan 100
+
+Tigraxauda
+	legion: legion_Sogdian
+	Amul
+	huns
+	Massagetae
+	229 145 0
+	none
+	5
+	1
+	pagan 100
+
+Oxia_Deserta
+	legion: legion_Sogdian
+	Eorta
+	huns
+	Massagetae
+	206 2 107
+	none
+	5
+	2
+	pagan 100
+
+;Chorasmia
+Chorasmia_Ostia
+	legion: legion_Chorasmia
+	Cammei
+	huns
+	Chorasmian
+	221 176 13
+	none
+	5
+	2
+	pagan 100
+
+Chorasmia_Inferior
+	legion: legion_Chorasmia
+	Gurganj
+	huns
+	Chorasmian
+	75 1 122
+	none
+	5
+	2
+	pagan 100
+
+Chorasmia_Superior
+	legion: legion_Chorasmia
+	Kath
+	huns
+	Chorasmian
+	158 18 6
+	none
+	5
+	3
+	pagan 100
+
+;Amardia
+Chorasmia_Deserta
+	legion: legion_Amardia
+	Sechoria
+	huns
+	Amardian
+	2 117 48
+	none
+	5
+	1
+	pagan 100
+
+Mardastan
+	legion: legion_Amardia
+	Karon
+	huns
+	Amardian
+	57 9 153
+	none
+	5
+	0
+	pagan 100
+
+Scythia_Ultima
+	legion: legion_Amardia
+	Yetteka
+	huns
+	Amardian
+	204 143 12
+	none
+	5
+	0
+	pagan 100
+
+;Dahaea
+Scythia_Pontica
+	legion: legion_Dahaea
+	Suna
+	huns
+	Dahae
+	172 22 226
+	none
+	5
+	2
+	pagan 100
+
+Dahaestan
+	legion: legion_Dahaea
+	Gdy_Kala
+	huns
+	Dahae
+	219 215 8
+	none
+	5
+	2
+	pagan 100
+
+Massagetica
+	legion: legion_Dahaea
+	Yatsha
+	huns
+	Dahae
+	142 5 65
+	none
+	5
+	2
+	pagan 100
+
+Parnia
+	legion: legion_Dahaea
+	Abaskun
+	huns
+	Parni
+	247 169 145
+	none
+	5
+	3
+	pagan 100
+
+Siracene
+	legion: legion_Dahaea
+	Gathar
+	huns
+	Parni
+	178 114 224
+	none
+	5
+	2
+	pagan 100
+
+;Margiana
+Margiana
+	legion: legion_Margiana
+	Alexandreia_Margiana
+	huns
+	Margian
+	221 211 68
+	none
+	5
+	3
+	pagan 100
+
+Sarmagana
+	legion: legion_Margiana
+	Marvrot
+	huns
+	Margian
+	224 93 76
+	none
+	5
+	3
+	pagan 100
+
+Attene
+	legion: legion_Margiana
+	Charracarta
+	huns
+	Margian
+	93 196 64
+	none
+	5
+	3
+	pagan 100
+
+;Bactria
+Bactriana
+	legion: legion_Bactria
+	Baktra
+	huns
+	Baktrian
+	116 57 198
+	none
+	5
+	3
+	pagan 100
+
+Chomaria
+	legion: legion_Bactria
+	Rhoitia
+	huns
+	Baktrian
+	249 54 152
+	none
+	5
+	3
+	pagan 100
+
+Candara
+	legion: legion_Bactria
+	Drapsaka
+	huns
+	Baktrian
+	153 4 39
+	none
+	5
+	2
+	pagan 100
+
+;Oxiana
+Transoxus
+	legion: legion_Oxiana
+	Phratroua
+	huns
+	Sogdian
+	14 242 181
+	none
+	5
+	3
+	pagan 100
+
+Sogdiana
+	legion: legion_Oxiana
+	Maracanda
+	huns
+	Sogdian
+	101 46 204
+	none
+	5
+	3
+	pagan 100
+
+Oxiana
+	legion: legion_Oxiana
+	Eukratideia
+	huns
+	Baktrian
+	216 202 0
+	none
+	5
+	3
+	pagan 100
+
+Tarmita
+	legion: legion_Oxiana
+	Alexandreia_Oxou
+	huns
+	Baktrian
+	82 147 16
+	none
+	5
+	3
+	pagan 100
+
+;Cyrenaica
+Barka
+	legion: legion_Cyrenaica
+	Serapeion
+	empire_east
+	Cyrenaican
+	155 32 40
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Cyrenaica
+	legion: legion_Cyrenaica
+	Kyrini
+	empire_east
+	Cyrenaican
+	42 193 188
+	none
+	5
+	3
+	christianity 75 pagan 25
+
+Marmarica
+	legion: legion_Cyrenaica
+	Plynos_Limen
+	empire_east
+	Libyans
+	169 58 255
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Libya
+	legion: legion_Cyrenaica
+	Paraitonion
+	empire_east
+	Libyans
+	229 212 84
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+Ammon
+	legion: legion_Cyrenaica
+	Ammonion
+	empire_east
+	Libyans
+	250 210 1
+	none
+	5
+	1
+	christianity 75 pagan 25
+
+;Aegytpus
+Delta_Occidentalis
+	legion: legion_Aegytpus
+	Alexandreia
+	empire_east
+	Egyptian
+	76 206 87
+	miaphysite
+	5
+	4
+	christianity 10 miaphysitism 90
+
+Delta_Orientalis
+	legion: legion_Aegytpus
+	Leontopolis
+	empire_east
+	Egyptian
+	239 59 68
+	miaphysite
+	5
+	3
+	christianity 20 miaphysitism 80
+
+Aegyptis
+	legion: legion_Aegytpus
+	Memphis
+	empire_east
+	Egyptian
+	249 213 67
+	miaphysite
+	5
+	3
+	christianity 20 miaphysitism 80
+
+Saracena
+	legion: legion_Aegytpus
+	Bubastis
+	empire_east
+	Egyptian
+	237 92 200
+	miaphysite
+	5
+	1
+	christianity 30 miaphysitism 70
+
+Heptanomis
+	legion: legion_Aegytpus
+	Arsinoe
+	empire_east
+	Egyptian
+	211 69 131
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Asyut
+	legion: legion_Aegytpus
+	Ptolemais_Ermiou
+	empire_east
+	Egyptian
+	62 193 136
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Luxor
+	legion: legion_Aegytpus
+	Thibai_Ekatompyloi
+	empire_east
+	Egyptian
+	229 183 32
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Aswan
+	legion: legion_Aegytpus
+	Syene
+	empire_east
+	Egyptian
+	19 247 88
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Parva
+	legion: legion_Aegytpus
+	Oasis_Mikro
+	empire_east
+	Libyans
+	219 76 81
+	none
+	5
+	0
+	christianity 85 pagan 15
+
+Farfara
+	legion: legion_Aegytpus
+	Siwa
+	empire_east
+	Libyans
+	252 218 106
+	none
+	5
+	0
+	christianity 85 pagan 15
+
+Kharga
+	legion: legion_Aegytpus
+	Amoura
+	empire_east
+	Egyptian
+	14 142 104
+	none
+	5
+	0
+	christianity 85 pagan 15
+
+Khargana
+	legion: legion_Aegytpus
+	Parammon
+	empire_east
+	Egyptian
+	209 2 50
+	none
+	5
+	0
+	christianity 85 pagan 15
+
+Porphyritis_Mons
+	legion: legion_Aegytpus
+	Myos_Hormos
+	empire_east
+	Egyptian
+	216 34 77
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+Troglodytica
+	legion: legion_Aegytpus
+	Bereniki_Troglodytiki
+	empire_east
+	Egyptian
+	32 173 159
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+Ptolemais_Epithera
+	legion: legion_Aegytpus
+	Ptolemais_Theron
+	empire_east
+	Blemmyan
+	227 232 97
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+;Nubia
+Nubia_Septentrionalis
+	legion: legion_Nubia
+	Pachora
+	sassanids
+	Nubian
+	237 219 101
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Nubia_Centralis
+	legion: legion_Nubia
+	Patigga
+	sassanids
+	Nubian
+	211 79 52
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Nubia_Meridionalis
+	legion: legion_Nubia
+	Napata
+	sassanids
+	Nubian
+	101 249 32
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+Alana
+	legion: legion_Nubia
+	Darou
+	sassanids
+	Nubian
+	244 116 110
+	none
+	5
+	2
+	christianity 85 pagan 15
+
+;Meroe
+Meroe_Insula
+	legion: legion_Meroe
+	Meroe
+	sassanids
+	Meroitian
+	221 213 93
+	none
+	5
+	3
+	christianity 85 pagan 15
+
+Alut
+	legion: legion_Meroe
+	Soba
+	sassanids
+	Meroitian
+	158 44 0
+	none
+	5
+	2
+	christianity 85 pagan 15
+
+Atbaras
+	legion: legion_Meroe
+	Kassala
+	sassanids
+	Meroitian
+	58 170 27
+	none
+	5
+	0
+	christianity 85 pagan 15
+
+Attiroia
+	legion: legion_Meroe
+	Hide
+	sassanids
+	Meroitian
+	186 109 53
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+;Daamat
+Bega
+	legion: legion_Daamat
+	Hawulti_Melazo
+	sassanids
+	Daamat
+	211 106 93
+	none
+	5
+	1
+	christianity 85 pagan 15
+
+Tangiatae
+	legion: legion_Daamat
+	Adoulis
+	sassanids
+	Daamat
+	47 183 54
+	none
+	5
+	2
+	christianity 85 pagan 15
+
+Daamat
+	legion: legion_Daamat
+	Yeha
+	sassanids
+	Daamat
+	104 39 244
+	none
+	5
+	3
+	christianity 50 pagan 50
+
+Punt
+	legion: legion_Daamat
+	Arsinoe_Epidires
+	sassanids
+	Daamat
+	226 155 2
+	none
+	5
+	1
+	christianity 50 pagan 50
+
+;Erythrae
+Asayta
+	legion: legion_Erythrae
+	Awsa
+	sassanids
+	Macrobian
+	154 219 89
+	none
+	5
+	2
+	christianity 50 pagan 50
+
+Akridophagia
+	legion: legion_Erythrae
+	Gidaya
+	sassanids
+	Macrobian
+	196 174 7
+	none
+	5
+	1
+	christianity 50 pagan 50
+
+Rhausae
+	legion: legion_Erythrae
+	Avalites
+	sassanids
+	Macrobian
+	181 57 23
+	none
+	5
+	2
+	christianity 50 pagan 50
+
+Barbaria
+	legion: legion_Erythrae
+	Malao
+	sassanids
+	Macrobian
+	224 184 40
+	none
+	5
+	1
+	christianity 50 pagan 50
+
+Cinnamonifora
+	legion: legion_Erythrae
+	Mundus
+	sassanids
+	Macrobian
+	80 229 39
+	none
+	5
+	0
+	christianity 50 pagan 50
+
+Aromatica
+	legion: legion_Erythrae
+	Mosylon
+	sassanids
+	Macrobian
+	242 225 101
+	none
+	5
+	0
+	christianity 50 pagan 50
+
+Elephas
+	legion: legion_Erythrae
+	Opone
+	sassanids
+	Macrobian
+	51 6 124
+	none
+	5
+	0
+	christianity 50 pagan 50
+
+Azania
+	legion: legion_Erythrae
+	Serapion
+	sassanids
+	Macrobian
+	134 224 96
+	none
+	5
+	2
+	christianity 50 pagan 50
+
+;Aethiopia
+Axomitarum
+	legion: legion_Aethiopia
+	Axum
+	sassanids
+	Aksumite
+	216 37 2
+	none
+	5
+	3
+	christianity 50 pagan 50
+
+Tiama
+	legion: legion_Aethiopia
+	Sembobitis
+	sassanids
+	Aksumite
+	221 204 8
+	none
+	5
+	3
+	christianity 50 pagan 50
+
+Atalmo
+	legion: legion_Aethiopia
+	Tissisat
+	sassanids
+	Aksumite
+	156 81 247
+	none
+	5
+	2
+	christianity 50 pagan 50
+
+Ssasu
+	legion: legion_Aethiopia
+	Showa
+	sassanids
+	Aksumite
+	90 237 134
+	none
+	5
+	1
+	christianity 50 pagan 50
+
+Melanokhrotoi
+	legion: legion_Aethiopia
+	Maste
+	sassanids
+	Aksumite
+	104 48 168
+	none
+	5
+	4
+	christianity 50 pagan 50
+
+Gambala
+	legion: legion_Aethiopia
+	Tziamo
+	sassanids
+	Aksumite
+	198 185 0
+	none
+	5
+	3
+	christianity 50 pagan 50
+
+; CYENEUM
+Calaa
+	legion: legion_Cyeneum
+	Sannar
+	sassanids
+	Cyenean
+	242 217 106
+	none
+	5
+	2
+	pagan 100
+
+Astasobas
+	legion: legion_Cyeneum
+	Uatara
+	sassanids
+	Cyenean
+	155 1 47
+	none
+	5
+	2
+	pagan 100
+
+Golaissae
+	legion: legion_Cyeneum
+	Belaya
+	sassanids
+	Cyenean
+	161 97 221
+	none
+	5
+	3
+	pagan 100
+
+Artabatita
+	legion: legion_Cyeneum
+	Astapus
+	sassanids
+	Cyenean
+	216 71 119
+	none
+	5
+	1
+	pagan 100
+
+Syrbotia
+	legion: legion_Cyeneum
+	Zankor
+	sassanids
+	Cyenean
+	21 239 68
+	none
+	5
+	2
+	pagan 100
+
+Cyeneum
+	legion: legion_Cyeneum
+	Barditon
+	sassanids
+	Cyenean
+	252 240 78
+	none
+	5
+	1
+	pagan 100
+
+;Arabia Felix
+Mapharitis
+	legion: legion_Arabia_Felix
+	Mouza
+	sassanids
+	Sabaean
+	221 48 74
+	none
+	5
+	3
+	zoroastrian 100
+
+Himyar
+	legion: legion_Arabia_Felix
+	Raida
+	sassanids
+	Sabaean
+	29 229 149
+	none
+	5
+	3
+	zoroastrian 100
+
+Saba
+	legion: legion_Arabia_Felix
+	Tamna
+	sassanids
+	Sabaean
+	229 232 62
+	none
+	5
+	1
+	zoroastrian 100
+
+Qataban
+	legion: legion_Arabia_Felix
+	Firai
+	sassanids
+	Sabaean
+	66 168 11
+	none
+	5
+	2
+	zoroastrian 100
+
+Myrrhifera
+	legion: legion_Arabia_Felix
+	Yathill
+	sassanids
+	Sabaean
+	175 44 35
+	none
+	5
+	1
+	zoroastrian 100
+
+Hadhramut_Occidentalis
+	legion: legion_Arabia_Felix
+	Shabwa
+	sassanids
+	Hadhramut
+	249 115 94
+	none
+	5
+	1
+	zoroastrian 100
+
+Hadhramut_Orientalis
+	legion: legion_Arabia_Felix
+	Thialematt
+	sassanids
+	Hadhramut
+	219 216 63
+	none
+	5
+	1
+	zoroastrian 100
+
+;Western Arabia
+Taifa
+	legion: legion_Arabia
+	Makarabah
+	sassanids
+	Lihyan
+	244 244 85
+	none
+	5
+	1
+	zoroastrian 100
+
+Cinaedocolpitis
+	legion: legion_Arabia
+	Baitus
+	sassanids
+	Lihyan
+	95 132 7
+	none
+	5
+	3
+	zoroastrian 100
+
+Arabia_Ad_Sinus
+	legion: legion_Arabia
+	Raunathou_Kome
+	sassanids
+	Lihyan
+	211 76 116
+	none
+	5
+	1
+	zoroastrian 100
+
+Iathrippa
+	legion: legion_Arabia
+	Ausara
+	sassanids
+	Lihyan
+	71 21 153
+	none
+	5
+	0
+	christianity 50 pagan 50
+
+Hegra
+	legion: legion_Arabia
+	Dedan
+	sassanids
+	Lihyan
+	211 189 48
+	none
+	5
+	2
+	christianity 50 pagan 50
+
+Arabia_Relicta
+	legion: legion_Arabia
+	Madiama
+	sassanids
+	Nabataeans
+	249 27 249
+	none
+	5
+	0
+	christianity 75 pagan 25
+
+Arabia_Petrea
+	legion: legion_Arabia
+	Reqemo
+	sassanids
+	Nabataeans
+	234 221 77
+	none
+	5
+	3
+	christianity 100
+
+Sinai
+	legion: legion_Arabia
+	Nuweiba
+	sassanids
+	Nabataeans
+	180 214 12
+	none
+	5
+	0
+	christianity 100
+
+;Eastern Arabia
+Omanitis_Orientalis
+	legion: legion_Arabia
+	Kryptos_Limen
+	sassanids
+	Maka
+	252 196 218
+	none
+	5
+	1
+	zoroastrian 100
+
+Omanitis_Occidentalis
+	legion: legion_Arabia
+	Omana
+	sassanids
+	Maka
+	98 12 137
+	none
+	5
+	2
+	zoroastrian 100
+
+Gerrha_Orientalis
+	legion: legion_Arabia
+	Gerrha
+	sassanids
+	Gerrhan
+	144 37 232
+	none
+	5
+	2
+	zoroastrian 100
+
+Tylos_Insula
+	legion: legion_Arabia
+	Tylos
+	sassanids
+	Gerrhan
+	77 209 180
+	none
+	5
+	2
+	zoroastrian 100
+
+Gerrha_Occidentalis
+	legion: legion_Arabia
+	Teredon
+	sassanids
+	Gerrhan
+	255 130 175
+	none
+	5
+	2
+	zoroastrian 100
+
+;Central Arabia
+Dumatha
+	legion: legion_Arabia
+	Dumah
+	sassanids
+	Qedarite
+	160 20 27
+	none
+	5
+	1
+	zoroastrian 100
+
+Arabia_Magna
+	legion: legion_Arabia
+	Alata
+	sassanids
+	Qedarite
+	204 180 6
+	none
+	5
+	0
+	zoroastrian 100
+
+;God's Country
+Rhicocorura
+	legion: legion_Judaea
+	Pilousion
+	empire_east
+	Egyptian
+	188 188 188
+	miaphysite
+	5
+	1
+	christianity 20 miaphysitism 80
+
+Philistia
+	legion: legion_Judaea
+	Gaza
+	empire_east
+	Judaeans
+	252 150 148
+	miaphysite
+	5
+	2
+	christianity 30 miaphysitism 70
+
+Judea
+	legion: legion_Judaea
+	Hierosolyma
+	empire_east
+	Judaeans
+	252 250 123
+	miaphysite
+	5
+	2
+	christianity 20 miaphysitism 80
+
+Peraea
+	legion: legion_Judaea
+	Dibon
+	empire_east
+	Judaeans
+	117 234 148
+	miaphysite
+	5
+	2
+	christianity 50 miaphysitism 50
+
+Decapolis
+	legion: legion_Judaea
+	Gadara
+	empire_east
+	Decapoliote
+	190 139 237
+	miaphysite
+	5
+	2
+	christianity 30 miaphysitism 70
+
+Phoeniciae_Meridionalis
+	legion: legion_Judaea
+	Tyros
+	empire_east
+	Phoenicians
+	237 106 121
+	miaphysite
+	5
+	3
+	christianity 30 miaphysitism 70
+
+;Syria
+Coele_Syria
+	legion: legion_Syria
+	Damaskos
+	empire_east
+	Syrians
+	244 222 168
+	miaphysite
+	5
+	2
+	christianity 30 miaphysitism 70
+
+Phoeniciae_Septentrionalis
+	legion: legion_Syria
+	Tripolis
+	empire_east
+	Phoenicians
+	185 161 237
+	miaphysite
+	5
+	2
+	christianity 30 miaphysitism 70
+
+Apamene
+	legion: legion_Syria
+	Emesa
+	empire_east
+	Syrians
+	255 240 188
+	miaphysite
+	5
+	2
+	christianity 30 miaphysitism 70
+
+Palmyrene
+	legion: legion_Syria
+	Palmyra
+	empire_east
+	Palmyrans
+	236 201 255
+	miaphysite
+	5
+	2
+	christianity 40 miaphysitism 60
+
+Syria
+	legion: legion_Syria
+	Antiocheia
+	empire_east
+	Syrians
+	242 130 113
+	miaphysite
+	5
+	2
+	christianity 60 miaphysitism 40
+
+Commagene
+	legion: legion_Syria
+	Nisibyn
+	empire_east
+	Syrians
+	252 239 121
+	miaphysite
+	5
+	2
+	christianity 40 miaphysitism 60
+
+;Assyria
+Osroene
+	legion: legion_Mesopotamia
+	Adma
+	sassanids
+	Syrians
+	148 247 179
+	sughdian
+	5
+	2
+	zoroastrian 75 christianity 25
+
+Coruene
+	legion: legion_Mesopotamia
+	Chlomaron
+	sassanids
+	Assyrian
+	252 241 181
+	sughdian
+	5
+	2
+	zoroastrian 75 christianity 25
+
+Mesopotamia
+	legion: legion_Mesopotamia
+	Antiocheia_Mygdonias
+	sassanids
+	Assyrian
+	168 13 67
+	sughdian
+	5
+	2
+	zoroastrian 75 christianity 25
+
+Assyria
+	legion: legion_Mesopotamia
+	Ninos
+	sassanids
+	Assyrian
+	71 31 150
+	sughdian
+	5
+	3
+	zoroastrian 75 christianity 25
+
+Apolloniatos
+	legion: legion_Mesopotamia
+	Kainai
+	sassanids
+	Assyrian
+	255 233 35
+	sughdian
+	5
+	3
+	zoroastrian 75 christianity 25
+
+Adiabene
+	legion: legion_Mesopotamia
+	Arbela
+	sassanids
+	Assyrian
+	234 39 25
+	sughdian
+	5
+	3
+	zoroastrian 75 christianity 25
+
+Garamaea
+	legion: legion_Mesopotamia
+	Chala
+	sassanids
+	Assyrian
+	167 191 11
+	sughdian
+	5
+	2
+	zoroastrian 75 christianity 25
+
+;Babylonia
+Aramaea
+	legion: legion_Mesopotamia
+	Doura_Europos
+	sassanids
+	Qedarite
+	230 103 234
+	sughdian
+	5
+	0
+	zoroastrian 75 christianity 25
+
+Babylonia
+	legion: legion_Mesopotamia
+	Babylon
+	sassanids
+	Babylonian
+	191 221 93
+	sughdian
+	5
+	4
+	zoroastrian 75 christianity 25
+
+Sittacene
+	legion: legion_Mesopotamia
+	Seleukeia
+	sassanids
+	Babylonian
+	206 24 42
+	sughdian
+	5
+	4
+	zoroastrian 75 christianity 25
+Sumer
+	legion: legion_Mesopotamia
+	Orchoi
+	sassanids
+	Sumerian
+	211 229 45
+	sughdian
+	5
+	4
+	zoroastrian 75 christianity 25
+
+Chaldaea
+	legion: legion_Mesopotamia
+	Apameia_Tigridos
+	sassanids
+	Babylonian
+	157 88 216
+	sughdian
+	5
+	4
+	zoroastrian 75 christianity 25
+
+Characene
+	legion: legion_Mesopotamia
+	Alexandreia_Sousianis
+	sassanids
+	Babylonian
+	47 16 124
+	sughdian
+	5
+	3
+	zoroastrian 75 christianity 25
+
+Susiana
+	legion: legion_Mesopotamia
+	Seleukeia_Eulaios
+	sassanids
+	Elamites
+	196 66 118
+	sughdian
+	5
+	3
+	zoroastrian 75 christianity 25
+
+;Aegean Anatolia
+Bithynia_Inferioris
+	legion: legion_Asia
+	Nicomedia
+	empire_east
+	Bithynians
+	203 145 247
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Mysia_Inferioris
+	legion: legion_Asia
+	Kysikos
+	empire_east
+	Pergamene
+	103 136 145
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Troad
+	legion: legion_Asia
+	Ilion
+	empire_east
+	Pergamene
+	5 89 94
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Mysia_Superioris
+	legion: legion_Asia
+	Pergamon
+	empire_east
+	Pergamene
+	158 216 119
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Ionia
+	legion: legion_Asia
+	Ephesos
+	empire_east
+	Ionians
+	179 150 204
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Caria
+	legion: legion_Asia
+	Halikarnassos
+	empire_east
+	Carian
+	206 113 181
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+;Southern Anatolia
+Lycia
+	legion: legion_Lycia_et_Pamphylia
+	Xanthos
+	empire_east
+	Lycians
+	10 153 105
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Pamphylia
+	legion: legion_Lycia_et_Pamphylia
+	Sidi
+	empire_east
+	Pamphylian
+	130 19 45
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Cilicia_Trachea
+	legion: legion_Cilicia
+	Tarsos
+	empire_east
+	Cilicians
+	112 88 40
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Cilicia_Pedias
+	legion: legion_Cilicia
+	Anazarbos
+	empire_east
+	Cilicians
+	61 66 57
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Cyprus
+	legion: legion_Cyprus
+	Salamis
+	empire_east
+	Cypriots
+	135 123 35
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+;Western Anatolia
+Lydia
+	legion: legion_Galatia
+	Sardeis
+	empire_east
+	Lydian
+	90 105 147
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Phrygia_Ripensis
+	legion: legion_Galatia
+	Kolossai
+	empire_east
+	Phrygian
+	175 156 147
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Pisidia
+	legion: legion_Galatia
+	Sagalassos
+	empire_east
+	Pamphylian
+	54 25 66
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Phrygia_Parorea
+	legion: legion_Galatia
+	Synnada
+	empire_east
+	Phrygian
+	66 181 48
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Phyrgia_Minoris
+	legion: legion_Galatia
+	Dorylaion
+	empire_east
+	Phrygian
+	244 209 190
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Bithynia_Superioris
+	legion: legion_Galatia
+	Kabia
+	empire_east
+	Bithynians
+	188 57 239
+	none
+	5
+	1
+	christianity 70 pagan 30
+	;64, grain, 2, timber, 4
+
+;Central Anatolia
+Isauria
+	legion: legion_Galatia
+	Laranda
+	empire_east
+	Lycaonian
+	59 198 92
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Lycaonia
+	legion: legion_Galatia
+	Ikonion
+	empire_east
+	Lycaonian
+	107 72 69
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Tyanitis
+	legion: legion_Galatia
+	Tyana
+	empire_east
+	Cappadocians
+	112 37 70
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Saravene
+	legion: legion_Galatia
+	Pteria
+	empire_east
+	Cappadocians
+	186 106 183
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Galatia
+	legion: legion_Galatia
+	Ankyra
+	empire_east
+	Galatians
+	137 168 26
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Phrygia_Maoris
+	legion: legion_Galatia
+	Gordion
+	empire_east
+	Galatians
+	124 112 124
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+;Northern Anatolia
+Mariandynia
+	legion: legion_Bithynia_et_Pontus
+	Irakleia_Pontiki
+	empire_east
+	Paphlagonians
+	68 37 43
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Paphlagonia_Superioris
+	legion: legion_Bithynia_et_Pontus
+	Gangra
+	empire_east
+	Paphlagonians
+	41 28 58
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Paphlagonia_Inferioris
+	legion: legion_Bithynia_et_Pontus
+	Sinope
+	empire_east
+	Paphlagonians
+	158 102 25
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Iris_Inferioris
+	legion: legion_Bithynia_et_Pontus
+	Amaseia
+	empire_east
+	Cappadocians
+	145 183 154
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Iris_Superioris
+	legion: legion_Bithynia_et_Pontus
+	Komana_Pontike
+	empire_east
+	Cappadocians
+	52 211 137
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Helenopontus
+	legion: legion_Bithynia_et_Pontus
+	Amisos
+	empire_east
+	Trapezuntine
+	202 119 216
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Paryadres
+	legion: legion_Bithynia_et_Pontus
+	Trapezous
+	empire_east
+	Trapezuntine
+	122 111 114
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+;Eastern Anatolia
+Cappadocia
+	legion: legion_Cappadocia
+	Mazaka
+	empire_east
+	Cappadocians
+	188 28 140
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+Cataonia
+	legion: legion_Cappadocia
+	Komana_Ierapolis
+	empire_east
+	Cappadocians
+	109 123 142
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Melitene
+	legion: legion_Cappadocia
+	Militia
+	empire_east
+	Suppani
+	43 147 14
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Armenia_Maioris
+	legion: legion_Cappadocia
+	Kamisa
+	empire_east
+	Suppani
+	234 108 4
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Armenia_Minoris
+	legion: legion_Cappadocia
+	Ani
+	empire_east
+	Suppani
+	65 89 45
+	none
+	5
+	2
+	christianity 70 pagan 30
+
+Armenia_Superioris
+	legion: legion_Cappadocia
+	Baiberdon
+	empire_east
+	Suppani
+	91 58 85
+	none
+	5
+	1
+	christianity 70 pagan 30
+
+Sophene
+	legion: legion_Cappadocia
+	Arsamosata
+	empire_east
+	Suppani
+	255 0 0
+	none
+	5
+	3
+	christianity 70 pagan 30
+
+;Armenia
+Tarawn
+	legion: legion_Armenia
+	Ashtishat
+	sassanids
+	Urartian
+	27 96 19
+	miaphysite, sughdian
+	5
+	3
+	miaphysitism 100
+
+Vaspurakan
+	legion: legion_Armenia
+	Tushpa
+	sassanids
+	Urartian
+	86 74 64
+	miaphysite, sughdian
+	5
+	2
+	miaphysitism 100
+
+Syracene
+	legion: legion_Armenia
+	Armavir
+	sassanids
+	Urartian
+	123 209 167	
+	miaphysite, sughdian
+	5
+	3
+	miaphysitism 100
+
+Soducene
+	legion: legion_Armenia
+	Nvarsak
+	sassanids
+	Urartian
+	147 7 21
+	miaphysite, sughdian
+	5
+	2
+	miaphysitism 100
+
+Ayrarat
+	legion: legion_Armenia
+	Artashat
+	sassanids
+	Alarodian
+	142 142 142
+	miaphysite, sughdian
+	5
+	4
+	christianity 20 miaphysitism 80
+
+Parsatunik
+	legion: legion_Armenia
+	Zarawak
+	sassanids
+	Alarodian
+	89 102 124
+	miaphysite, sughdian
+	5
+	3
+	christianity 20 miaphysitism 80
+
+Syunik
+	legion: legion_Armenia
+	Nakhchevan
+	sassanids
+	Alarodian
+	165 64 89
+	miaphysite, sughdian
+	5
+	2
+	christianity 20 miaphysitism 80
+
+Artsakh
+	legion: legion_Armenia
+	Sotk
+	sassanids
+	Alarodian
+	152 137 211
+	miaphysite, sughdian
+	5
+	1
+	miaphysitism 100
+
+;Colchis
+Tayk
+	legion: legion_Colchis
+	Apsaros
+	empire_east
+	Colchians
+	244 93 216
+	none
+	5
+	3
+	miaphysitism 100
+
+Colchis
+	legion: legion_Colchis
+	Phasis
+	empire_east
+	Colchians
+	6 163 110
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+Abasgoi
+	legion: legion_Colchis
+	Dioskourias
+	empire_east
+	Colchians
+	0 128 128
+	none
+	5
+	0
+	christianity 90 pagan 10
+
+Suaneti
+	legion: legion_Colchis
+	Kutaisi
+	empire_east
+	Colchians
+	196 27 182
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+;Caucasian Iberia
+Gugark
+	legion: legion_Iberia
+	Sarapana
+	sassanids
+	Iberian
+	48 95 109
+	miaphysite
+	5
+	1
+	miaphysitism 100
+
+Iberia
+	legion: legion_Iberia
+	Armazistsikhe
+	sassanids
+	Iberian
+	130 163 162
+	none
+	5
+	3
+	christianity 90 pagan 10
+
+Kahetia
+	legion: legion_Iberia
+	Sagarejo
+	sassanids
+	Iberian
+	117 44 15
+	none
+	5
+	2
+	christianity 90 pagan 10
+
+;Albania
+Arran
+	legion: legion_Iberia
+	Partaw
+	sassanids
+	Albanian
+	22 91 81
+	none
+	5
+	2
+	christianity 20 miaphysitism 80
+
+Albania
+	legion: legion_Iberia
+	Chabala
+	sassanids
+	Albanian
+	104 53 78
+	none
+	5
+	2
+	christianity 90 pagan 10
+
+;Atropatene
+Parskahayk
+	legion: legion_Atropatene
+	Ormi
+	sassanids
+	Atropatene
+	205 211 33
+	sughdian
+	5
+	3
+	zoroastrian 90 pagan 10
+
+Media_Atropatene
+	legion: legion_Atropatene
+	Ganzak
+	sassanids
+	Atropatene
+	68 81 70
+	sughdian
+	5
+	3
+	zoroastrian 90 pagan 10
+
+Kadousioi
+	legion: legion_Atropatene
+	Miyana
+	sassanids
+	Atropatene
+	89 167 204
+	sughdian
+	5
+	3
+	zoroastrian 90 pagan 10
+
+Paytankert
+	legion: legion_Atropatene
+	Talish
+	sassanids
+	Atropatene
+	179 221 159
+	sughdian
+	5
+	3
+	christianity 20 miaphysitism 80
+
+;Media
+Media
+	legion: legion_Media
+	Apahr
+	sassanids
+	Medes
+	188 182 128
+	sughdian
+	5
+	1
+	zoroastrian 100
+
+Amardioi
+	legion: legion_Media
+	Kuruschata
+	sassanids
+	Medes
+	177 221 55
+	sughdian
+	5
+	4
+	zoroastrian 100
+
+Kossioi
+	legion: legion_Media
+	Irakleia_Midias
+	sassanids
+	Medes
+	16 63 79
+	sughdian
+	5
+	2
+	zoroastrian 100
+
+Media_Magna
+	legion: legion_Media
+	Ektabana
+	sassanids
+	Medes
+	11 114 102
+	sughdian
+	5
+	2
+	zoroastrian 100
+
+Media_Choromithrene
+	legion: legion_Media
+	Choana
+	sassanids
+	Medes
+	181 96 255
+	sughdian
+	5
+	2
+	zoroastrian 100
+
+Choarene
+	legion: legion_Media
+	Europos_Rhagai
+	sassanids
+	Medes
+	141 145 130
+	sughdian
+	5
+	4
+	zoroastrian 100
+
+Gabiene
+	legion: legion_Media
+	Aspadana
+	sassanids
+	Medes
+	45 71 52
+	sughdian
+	5
+	2
+	zoroastrian 100
+
+Artacene
+	legion: legion_Media
+	Goziris
+	sassanids
+	Medes
+	42 64 102
+	sughdian
+	5
+	0
+	zoroastrian 100
+
+;Persia
+Mardiane
+	legion: legion_Persia
+	Margastana
+	sassanids
+	Elamites
+	57 58 14
+	none
+	5
+	2
+	zoroastrian 100
+
+Taocene
+	legion: legion_Persia
+	Tragoniki
+	sassanids
+	Persian
+	191 154 141
+	none
+	5
+	1
+	zoroastrian 100
+
+Persis
+	legion: legion_Persia
+	Persopolis
+	sassanids
+	Persian
+	104 147 87
+	none
+	5
+	3
+	zoroastrian 100
+
+Media_Felix
+	legion: legion_Persia
+	Artakana
+	sassanids
+	Persian
+	174 170 181
+	none
+	5
+	1
+	zoroastrian 100
+
+Paraetacene
+	legion: legion_Persia
+	Arbua
+	sassanids
+	Persian
+	193 171 110
+	none
+	5
+	0
+	zoroastrian 100
+
+Utia
+	legion: legion_Persia
+	Zetis
+	sassanids
+	Persian
+	164 185 196
+	none
+	5
+	0
+	zoroastrian 100
+
+Rudiane
+	legion: legion_Persia
+	Organa
+	sassanids
+	Persian
+	219 221 220
+	none
+	5
+	0
+	zoroastrian 100
+
+;Parthia
+Articene
+	legion: legion_Parthia
+	Chadormalou
+	sassanids
+	Persian
+	173 219 166
+	none
+	5
+	0
+	zoroastrian 100
+
+Comisene
+	legion: legion_Parthia
+	Ekatompylos
+	sassanids
+	Parthian
+	119 92 17
+	none
+	5
+	3
+	zoroastrian 100
+
+Hyrcania
+	legion: legion_Parthia
+	Samariane
+	sassanids
+	Parthian
+	96 160 64
+	none
+	5
+	3
+	zoroastrian 100
+
+Parthia
+	legion: legion_Parthia
+	Patigrabana
+	sassanids
+	Parthian
+	132 126 124
+	none
+	5
+	3
+	zoroastrian 100
+
+Tapuria
+	legion: legion_Parthia
+	Rhagaou
+	sassanids
+	Parthian
+	39 53 34
+	none
+	5
+	3
+	zoroastrian 100
+
+Traxiane
+	legion: legion_Parthia
+	Vishpauzatis
+	sassanids
+	Parthian
+	170 157 8
+	none
+	5
+	3
+	zoroastrian 100
+
+Desertum_Salinum
+	legion: legion_Parthia
+	Masina
+	sassanids
+	Parthian
+	239 172 218
+	none
+	5
+	3
+	zoroastrian 100
+
+;Ariana
+Aria
+	legion: legion_Ariana
+	Alexandreia_Areios
+	sassanids
+	Arian
+	104 61 65
+	none
+	5
+	1
+	zoroastrian 100
+
+Pactya
+	legion: legion_Ariana
+	Alexandreia_Sakastenes
+	sassanids
+	Arian
+	94 10 50
+	none
+	5
+	0
+	zoroastrian 100
+
+Sagartia
+	legion: legion_Ariana
+	Barda
+	sassanids
+	Arian
+	232 213 199
+	none
+	5
+	1
+	zoroastrian 100
+
+Parsiene
+	legion: legion_Ariana
+	Bulya
+	sassanids
+	Carmanian
+	99 16 242
+	none
+	5
+	1
+	zoroastrian 100
+
+Carmania
+	legion: legion_Ariana
+	Alexandreia_Karmanias
+	sassanids
+	Carmanian
+	87 51 104
+	none
+	5
+	1
+	zoroastrian 100
+
+Tabiene
+	legion: legion_Ariana
+	Kaoumata
+	sassanids
+	Parthian
+	206 216 130
+	none
+	5
+	0
+	zoroastrian 100
+
+Agdinitis
+	legion: legion_Ariana
+	Armozeia
+	sassanids
+	Carmanian
+	153 147 88
+	none
+	5
+	2
+	zoroastrian 100
+
+;Arachosia
+Paropamisadae
+	legion: legion_Arachosia
+	Alexandreia_Kaoukaso
+	sassanids
+	Paropamisidaen
+	124 11 72
+	none
+	5
+	1
+	zoroastrian 100
+
+Sattagydia
+	legion: legion_Arachosia
+	Alexandreia_Opiane
+	sassanids
+	Arachosian
+	221 201 197
+	none
+	5
+	1
+	zoroastrian 100
+
+Arachosia
+	legion: legion_Arachosia
+	Alexandreia_Arachosia
+	sassanids
+	Arachosian
+	97 104 96
+	none
+	5
+	0
+	zoroastrian 100
+
+Paradene
+	legion: legion_Arachosia
+	Bandara
+	sassanids
+	Arachosian
+	9 33 14	
+	none
+	5
+	0
+	zoroastrian 100
+
+Drangiana
+	legion: legion_Arachosia
+	Bitaxa
+	sassanids
+	Arachosian
+	116 175 172
+	none
+	5
+	0
+	zoroastrian 100
+
+Gedrosia
+	legion: legion_Arachosia
+	Alexandreia_Rambhakias
+	sassanids
+	Arachosian
+	66 206 94
+	none
+	5
+	0
+	zoroastrian 100
+
+;Gandhara
+Gandhara
+	legion: legion_Gandhara
+	Pushkalavati
+	sassanids;india
+	Gandhara
+	41 119 31
+	none
+	5
+	2
+	zoroastrian 100
+
+Kasmira
+	legion: legion_Gandhara
+	Embadina
+	sassanids;india
+	Asvaka
+	42 52 61
+	none
+	5
+	1
+	zoroastrian 100
+
+Glausae
+	legion: legion_Gandhara
+	Taksasila
+	sassanids;india
+	Taxilan
+	193 48 125
+	none
+	5
+	3
+	zoroastrian 100
+
+Hydaspes
+	legion: legion_Gandhara
+	Nicaea
+	sassanids
+	Indo_Greek
+	2 84 73
+	none
+	5
+	2
+	zoroastrian 100
+
+
+Madra
+	legion: legion_Gandhara
+	Sagada
+	sassanids;india
+	Purus
+	99 0 22
+	none
+	5
+	4
+	zoroastrian 100
+
+Panchanada
+	legion: legion_Gandhara
+	Malloi
+	sassanids;india
+	Purus
+	206 167 82
+	none
+	5
+	3
+	zoroastrian 100
+
+Sibae
+	legion: legion_Gandhara
+	Mulasthanapura
+	sassanids;india
+	Taxilan
+	19 96 51
+	none
+	5
+	3
+	zoroastrian 100
+
+Trigata
+	legion: legion_Gandhara
+	Alexandreia_Hyphasis
+	sassanids;india
+	Yaudheya
+	140 60 69
+	none
+	5
+	3
+	zoroastrian 100
+
+Sivi
+	legion: legion_Gandhara
+	Alexandreia_Indus
+	sassanids;india
+	Sivi
+	216 134 142
+	none
+	5
+	4
+	zoroastrian 100
+
+;Hindu Caucasus
+India_Alba
+	legion: legion_Sindh
+	Artoarta
+	sassanids
+	Arachosian
+	141 211 176
+	none
+	5
+	1
+	zoroastrian 100
+
+Oxydracae
+	legion: legion_Sindh
+	Singhapura
+	sassanids;india
+	Sauviran
+	179 242 62
+	none
+	5
+	2
+	zoroastrian 100
+
+Prasiane
+	legion: legion_Sindh
+	Sindo
+	sassanids;india
+	Sauviran
+	88 91 75
+	none
+	5
+	3
+	zoroastrian 100
+
+Saranga
+	legion: legion_Sindh
+	Alexandreia_Orietai
+	sassanids
+	Arachosian
+	96 137 97
+	none
+	5
+	1
+	zoroastrian 100
+
+;Sindh
+Patalene
+	legion: legion_Sindh
+	Patala
+	sassanids;india
+	Patalene
+	252 135 85
+	none
+	5
+	3
+	zoroastrian 100
+
+Aporapa
+	legion: legion_Sindh
+	Roruka
+	sassanids;india
+	Sauviran
+	64 153 99
+	none
+	5
+	3
+	zoroastrian 100
+
+Sauvira
+	legion: legion_Sindh
+	Parabali
+	sassanids;india
+	Sauviran
+	99 226 104
+	none
+	5
+	3
+	zoroastrian 100
+
+;Maru
+Kaccha
+	legion: legion_Maru
+	Maltecoria
+	sassanids;india
+	Kaccha
+	122 44 130
+	none
+	5
+	3
+	zoroastrian 100
+
+Abhira
+	legion: legion_Maru
+	Detta
+	sassanids;india
+	Kaccha
+	137 147 81
+	none
+	5
+	1
+	zoroastrian 100
+
+Deserta_Indica
+	legion: legion_Maru
+	Dadrewa
+	sassanids;india
+	Kaccha
+	135 123 110
+	none
+	5
+	0
+	zoroastrian 100
+
+Saurashtra_Meridionalis
+	legion: legion_Maru
+	Prabhasa
+	sassanids;india
+	Saurastra
+	165 67 152
+	none
+	5
+	4
+	zoroastrian 100
+
+Saurashtra_Centralis
+	legion: legion_Maru
+	Kheta
+	sassanids;india
+	Saurastra
+	38 175 59
+	none
+	5
+	4
+	zoroastrian 100
+
+Saurashtra_Septentrionalis
+	legion: legion_Maru
+	Mehsana
+	sassanids;india
+	Saurastra
+	158 156 157
+	none
+	5
+	2
+	zoroastrian 100
+
+Maru
+	legion: legion_Maru
+	Abuyya
+	sassanids;india
+	Avanti
+	57 99 40
+	none
+	5
+	2
+	zoroastrian 100
+
+;Aparanta
+Aparanta
+	legion: legion_Aparanta
+	Minnagara
+	sassanids;india
+	Aparanta
+	71 49 20
+	none
+	5
+	3
+	zoroastrian 100
+
+Sahyadri_Septentrionalis
+	legion: legion_Aparanta
+	Nasikya
+	sassanids;india
+	Aparanta
+	117 113 91
+	none
+	5
+	3
+	zoroastrian 100
+
+Sahyadri_Meridionalis
+	legion: legion_Aparanta
+	Malvan
+	sassanids;india
+	Aparanta
+	242 194 75
+	none
+	5
+	3
+	zoroastrian 100
+
+Mulaka
+	legion: legion_Aparanta
+	Pattithana
+	sassanids;india
+	Mulaka
+	187 237 175
+	none
+	5
+	4
+	zoroastrian 100
+
+Vindhya
+	legion: legion_Aparanta
+	Tapia
+	sassanids;india
+	Dandaka
+	196 226 45
+	none
+	5
+	3
+	zoroastrian 100
+
+Anupa
+	legion: legion_Aparanta
+	Mahismati
+	sassanids;india
+	Avanti
+	193 75 46
+	none
+	5
+	3
+	zoroastrian 100
+
+Asika
+	legion: legion_Aparanta
+	Kalyani_Asika
+	sassanids;india
+	Kuntala
+	73 31 8
+	none
+	5
+	3
+	zoroastrian 100
+	;128+12, textiles, 4, copper, 1, gold, 1, elephants, 1
+
+Kuntala
+	legion: legion_Aparanta
+	Raichur
+	sassanids;india
+	Kuntala
+	145 252 78
+	none
+	5
+	4
+	zoroastrian 100
+	;187, furs, 3, purple_dye, 3, glass, 1, elephants, 3
+
+;Avanti
+Anartta
+	legion: legion_Avanti
+	Devnimori
+	sassanids;india
+	Avanti
+	237 37 217
+	none
+	5
+	3
+	zoroastrian 100
+
+Avanti_Meridionalis
+	legion: legion_Avanti
+	Ujjayini
+	sassanids;india
+	Avanti
+	214 174 64
+	none
+	5
+	3
+	zoroastrian 100
+
+Avanti_Septentrionalis
+	legion: legion_Avanti
+	Madhyamika
+	sassanids;india
+	Avanti
+	255 169 145
+	none
+	5
+	3
+	zoroastrian 100
+
+Dasarna
+	legion: legion_Avanti
+	Vidisha
+	sassanids;india
+	Avanti
+	23 58 33
+	none
+	5
+	2
+	zoroastrian 100
+
+Dahala
+	legion: legion_Avanti
+	Chauragarh
+	sassanids;india
+	Avanti
+	191 80 216
+	none
+	5
+	0
+	zoroastrian 100
+
+Matsya
+	legion: legion_Avanti
+	Viratanagara
+	sassanids;india
+	Matsya
+	170 160 167
+	none
+	5
+	5
+	zoroastrian 100
+
+Shurasena
+	legion: legion_Avanti
+	Sripatha
+	sassanids;india
+	Shurasena
+	95 124 59
+	none
+	5
+	2
+	zoroastrian 100
+
+;Madhyadesa
+Kamyaka
+	legion: legion_Madhyadesa
+	Salwa
+	sassanids;india
+	Yaudheya
+	181 129 226
+	none
+	5
+	3
+	zoroastrian 100
+
+Bahudhanyaka
+	legion: legion_Madhyadesa
+	Sthanisvara
+	sassanids;india
+	Yaudheya
+	46 249 27
+	none
+	5
+	4
+	zoroastrian 100
+
+Kuru
+	legion: legion_Madhyadesa
+	Indraprastha
+	sassanids;india
+	Kuru
+	119 46 13
+	none
+	5
+	3
+	zoroastrian 100
+
+Pancala
+	legion: legion_Madhyadesa
+	Kanyakubja
+	sassanids;india
+	Pancala
+	186 140 120
+	none
+	5
+	3
+	zoroastrian 100
+
+Turvashas
+	legion: legion_Madhyadesa
+	Ahicchatra
+	sassanids;india
+	Pancala
+	44 73 22
+	none
+	5
+	3
+	zoroastrian 100
+
+Cedi_Occidentalis
+	legion: legion_Madhyadesa
+	Erakaccha
+	sassanids;india
+	Cedi
+	136 82 216
+	none
+	5
+	2
+	zoroastrian 100
+
+Cedi_Orientalis
+	legion: legion_Madhyadesa
+	Suktimati
+	sassanids;india
+	Cedi
+	186 171 180
+	none
+	5
+	3
+	zoroastrian 100
+
+Kosala
+	legion: legion_Madhyadesa
+	Ayodhya
+	sassanids;india
+	Kosola
+	249 7 213
+	none
+	5
+	3
+	zoroastrian 100
+
+Kasi
+	legion: legion_Madhyadesa
+	Varanasi
+	sassanids;india
+	Kasi
+	196 175 113
+	none
+	5
+	3
+	zoroastrian 100
+
+Malla
+	legion: legion_Madhyadesa
+	Kusinagara
+	sassanids;india
+	Malla
+	75 63 114
+	none
+	5
+	3
+	zoroastrian 100
+
+;Vindhyaprstha
+Dakshina_Kosala
+	legion: legion_Vindhyaprstha
+	Pali
+	sassanids;india
+	Pulinda
+	89 117 93
+	none
+	5
+	3
+	zoroastrian 100
+
+Mahendragiri
+	legion: legion_Vindhyaprstha
+	Atavi
+	sassanids;india
+	Savara
+	242 191 121
+	none
+	5
+	0
+	zoroastrian 100
+
+Kalinga
+	legion: legion_Vindhyaprstha
+	Samapa
+	sassanids;india
+	Kalinga
+	68 16 7
+	none
+	5
+	3
+	zoroastrian 100
+
+Radha
+	legion: legion_Vindhyaprstha
+	Caritra
+	sassanids;india
+	Suhma
+	202 190 244
+	none
+	5
+	3
+	zoroastrian 100
+
+Andhra
+	legion: legion_Vindhyaprstha
+	Andhapura
+	sassanids;india
+	Andhra
+	181 103 144
+	none
+	5
+	3
+	zoroastrian 100
+
+Asmaka
+	legion: legion_Vindhyaprstha
+	Paudanyapura
+	sassanids;india
+	Asmaka
+	76 68 76
+	none
+	5
+	3
+	zoroastrian 100
+
+Vidarbha
+	legion: legion_Vindhyaprstha
+	Indur
+	sassanids;india
+	Vidarbha
+	201 48 34
+	none
+	5
+	4
+	zoroastrian 100
+
+Fanindrapura
+	legion: legion_Vindhyaprstha
+	Bhaddavati
+	sassanids;india
+	Vidarbha
+	94 74 51
+	none
+	5
+	2
+	zoroastrian 100
+
+;Pracya
+Magadha
+	legion: legion_Pracya
+	Pataliputra
+	sassanids;india
+	Magadha
+	206 101 157
+	none
+	5
+	3
+	zoroastrian 100
+
+Anga
+	legion: legion_Pracya
+	Karnasuvarna
+	sassanids;india
+	Anga
+	43 25 32
+	none
+	5
+	3
+	zoroastrian 100
+
+Vanga
+	legion: legion_Pracya
+	Barisol
+	sassanids;india
+	Vanga
+	242 14 63
+	none
+	5
+	2
+	zoroastrian 100
+
+Pundra
+	legion: legion_Pracya
+	Varendra
+	sassanids;india
+	Pundra
+	144 145 68
+	none
+	5
+	3
+	zoroastrian 100
+
+Vrji
+	legion: legion_Pracya
+	Vaisali
+	sassanids;india
+	Vrji
+	18 38 16
+	none
+	5
+	3
+	zoroastrian 100
+
+Kamata
+	legion: legion_Pracya
+	Bhargaya
+	sassanids;india
+	Kamarupa
+	209 175 6
+	none
+	5
+	2
+	zoroastrian 100
+
+Kamarupa
+	legion: legion_Pracya
+	Gramera
+	sassanids;india
+	Kamarupa
+	65 71 38
+	none
+	5
+	2
+	zoroastrian 100
+
+Samatata
+	legion: legion_Pracya
+	Karmanta
+	sassanids;india
+	Samatata
+	236 0 140
+	none
+	5
+	3
+	zoroastrian 100
+
+;Karnata
+Gomanta
+	legion: legion_Karnata
+	Vanavasi
+	sassanids;india
+	Sattyaputra
+	137 72 77
+	none
+	5
+	3
+	zoroastrian 100
+
+Satiyaputa_Septentrionalis
+	legion: legion_Karnata
+	Ganga
+	sassanids;india
+	Sattyaputra
+	142 113 94
+	none
+	5
+	2
+	zoroastrian 100
+
+Satiyaputa_Meridionalis
+	legion: legion_Karnata
+	Koreoura
+	sassanids;india
+	Sattyaputra
+	143 112 229
+	none
+	5
+	2
+	zoroastrian 100
+
+Keralaputa
+	legion: legion_Karnata
+	Vanci
+	sassanids;india
+	Chera
+	160 178 99
+	none
+	5
+	4
+	zoroastrian 100
+
+Mahismandala_Septentrionalis
+	legion: legion_Karnata
+	Belgola
+	sassanids;india
+	Mahisha
+	56 17 47
+	none
+	5
+	5
+	zoroastrian 100
+
+Mahismandala_Meridionalis
+	legion: legion_Karnata
+	Mahisha
+	sassanids;india
+	Mahisha
+	119 109 83
+	none
+	5
+	3
+	zoroastrian 100
+
+;Dravida
+Sriparvata
+	legion: legion_Dravida
+	Yerraguddi
+	sassanids;india
+	Andhra
+	183 109 25
+	none
+	5
+	2
+	zoroastrian 100
+
+Tondainadu_Septentrionalis
+	legion: legion_Dravida
+	Tirumala
+	sassanids;india
+	Chola
+	249 169 249
+	none
+	5
+	3
+	zoroastrian 100
+
+Tondainadu_Meridionalis
+	legion: legion_Dravida
+	Mayurasattapattinam
+	sassanids;india
+	Chola
+	148 239 151
+	none
+	5
+	3
+	zoroastrian 100
+
+Koda
+	legion: legion_Dravida
+	Urayur
+	sassanids;india
+	Chola
+	219 221 148
+	none
+	5
+	4
+	zoroastrian 100
+
+Malayas
+	legion: legion_Dravida
+	Madurai
+	sassanids;india
+	Pandya
+	85 158 72
+	none
+	5
+	3
+	zoroastrian 100
+
+Pandiya
+	legion: legion_Dravida
+	Koti
+	sassanids;india
+	Pandya
+	76 81 58
+	none
+	5
+	3
+	zoroastrian 100
+
+Tambapamni_Septentrionalis
+	legion: legion_Dravida
+	Anuradhapura
+	sassanids;india
+	Tamraparni
+	155 68 60
+	none
+	5
+	3
+	zoroastrian 100
+
+Tambapamni_Meridionalis
+	legion: legion_Dravida
+	Kalyani
+	sassanids;india
+	Tamraparni
+	0 64 0
+	none
+	5
+	3
+	zoroastrian 100
+
+;Terra Incognita
+Libyae_Interior
+	legion: legion_NO
+	toggle_fow
+	sassanids
+	TerraIncognita
+	102 45 145
+	none
+	5
+	0
+	pagan 100
+
+Sarmatia_Ulterior
+	legion: legion_NO
+	way_too_cold
+	sassanids
+	TerraIncognita
+	98 65 65
+	none
+	5
+	0
+	pagan 100
+
+Mons_Emodus
+	legion: legion_NO
+	monk_town
+	sassanids
+	TerraIncognita
+	169 131 7
+	none
+	5
+	0
+	pagan 100
+
+Mons_Imaus
+	legion: legion_NO
+	i_see_you
+	sassanids
+	TerraIncognita
+	138 102 66
+	none
+	5
+	0
+	pagan 100
+
+Deserta_Serica
+	legion: legion_NO
+	melonville
+	sassanids
+	TerraIncognita
+	234 129 37
+	none
+	5
+	0
+	pagan 100
+
+Barbaria_Interior
+	legion: legion_NO
+	somalian_pirates_weeee
+	sassanids
+	TerraIncognita
+	180 76 67
+	none
+	5
+	0
+	pagan 100
+
+Arabia_Deserta
+	legion: legion_NO
+	nothing_but_oil
+	sassanids
+	TerraIncognita
+	0 128 0
+	none
+	5
+	0
+	pagan 100

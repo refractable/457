@@ -1,0 +1,148 @@
+{
+	"frames": [],
+	"list": [
+
+		{
+			"_comment":"bodyguard info elements start here",
+		},
+
+		{
+			"name": "unit_name",
+            "x": 554,
+            "y": 44,
+			"size": {
+                "width": 600
+            },
+			"max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font_colour": "dark_brown",
+            "font":"verdana_med",
+		},
+		
+        {
+            "name":"title_divider",
+            "x": 554 ,
+            "y": 78,
+            "size": {
+                "width": 950 ,
+                "height" : 20
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+		
+		
+        {
+            "name": "image",
+            "x": 230 ,
+            "y": 90,
+            "size": {
+                "width": 396,
+                "height": 528
+            },
+            "anchor": "TL",
+            "align": "TC",
+        },
+		
+		
+        {
+            "name": "expand_button",
+            "x": 1060 ,
+            "y": 45,
+            "size": {
+                "width": 50,
+                "height": 50
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+		
+		
+
+		{
+			"name":"construction_cost",
+			"x": 120 ,
+			"y": 635,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+			"priority":0
+		},
+
+		{
+			"name":"construction_time",
+			"x": 210 ,
+			"y": 635,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+			"priority":0
+		},
+		
+		
+		{
+			"name":"upkeep_element",
+			"x": 290 ,
+			"y": 635,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+			"priority":0
+		},
+		
+		
+		
+		
+
+		
+		
+		
+
+		{
+			"name":"unit_description_title",
+			"x": 460 ,
+            "y": 105,
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_med_bold",
+		},
+
+		{
+			"name":"unit_description_list",
+			"x": 460 ,
+            "y": 140,
+			"size": {
+				"width": 620 ,
+                "height": 540
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_sml_med",
+            "outside_slider": true,
+            "slider_gap": 5
+		},
+
+
+	]
+}

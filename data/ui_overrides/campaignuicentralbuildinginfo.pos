@@ -1,0 +1,289 @@
+{
+	"frames": [
+
+	],
+	"list": [
+
+        {
+            "name":"title",
+            "x": 554,
+            "y": 44,
+			"size": {
+                "width": 600
+            },
+			"max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font_colour": "dark_brown",
+            "font":"verdana",
+        },
+
+        {
+            "name":"title_divider",
+            "x": 554 ,
+            "y": 78,
+            "size": {
+                "width": 950 ,
+                "height" : 20
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+
+        {
+            "name": "image",
+            "x": 60 ,
+            "y": 100,
+            "size": {
+                "width": 450,
+                "height": 202
+            },
+            "anchor": "TL",
+            "align": "TL",
+        },
+
+
+		{
+			"name":"construction_cost",
+			"x": 207 ,
+			"y": 310,
+			"size": {
+				"width": 40,
+				"height": 40
+			},
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_sml",
+			"font_colour": "black",
+			"priority":0
+		},
+
+		{
+			"name":"construction_time",
+			"x": 347 ,
+			"y": 310,
+			"size": {
+				"width": 40,
+				"height": 40
+			},
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_sml",
+			"font_colour": "black",
+			"priority":0
+		},
+
+		{
+			"name": "parent_list",
+			"x": 540 ,
+			"y": 100,
+			"size": {
+				"width": 540 ,
+				"height": 570
+			},
+			"font_colour":"dark_brown",
+			"font":"verdana_sml_med",
+			"priority": 0,
+		},
+
+		{
+			"name": "capabilities_list",
+			"x": 60 ,
+			"y": 360,
+			"size": {
+				"width": 450 ,
+				"height": 275
+			},
+			"anchor": "TL",
+            "align": "TL",
+			"max_lines": -1,
+			"font_colour":"dark_brown",
+			"font":"verdana_sml_med",
+			"priority": 0,
+		},
+
+
+
+		{
+			"_comment":"button elements start here",
+		},
+
+        {
+            "name": "expand_button",
+            "x": 1060 ,
+            "y": 45,
+            "size": {
+                "width": 50,
+                "height": 50
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+
+        {
+            "name": "building_browser_button",
+            "x": 1005 ,
+            "y": 45,
+            "size": {
+                "width": 50,
+                "height": 50
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+
+		{
+			"name":"building_destroy_button",
+			"x": 950 ,
+			"y"	: 45,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "C",
+		},
+
+
+
+
+
+
+		{
+			"_comment":"field construction elements start here",
+		},
+
+        {
+            "name":"field_construction_divider",
+            "x": 554 ,
+            "y": 78,
+            "size": {
+                "width": 950 ,
+                "height" : 20
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+		
+
+		{
+			"_comment":"watchtower specific elements start here",
+		},
+
+        {
+            "name":"watchtower_title",
+            "x": 554,
+            "y": 44,
+			"size": {
+                "width": 600
+            },
+			"max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font_colour": "dark_brown",
+            "font":"verdana_med",
+        },
+
+		{
+			"name":"watchtower_cost_icon",
+			"x": 260 ,
+			"y": 310,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_sml",
+			"font_colour": "black",
+		},
+		{
+			"name":"watchtower_cost_string",
+			"x": 300 ,
+			"y": 320,
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_med",
+			"font_colour": "black",
+		},
+		
+		{
+			"name":"watchtower_description",
+			"x": 540 ,
+			"y": 105,
+			"size": {
+				"width": 540 ,
+				"height": 350
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_med",
+		},
+		
+		
+		
+		
+		{
+			"_comment":"fort specific elements start here",
+		},
+		
+		{
+			"name":"fort_description",
+			"x": 540 ,
+			"y": 105,
+			"size": {
+				"width": 540 ,
+				"height": 350
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_med",
+		},
+
+		{
+			"name":"fort_cost_icon",
+			"x": 260 ,
+			"y": 310,
+			"size": {
+				"width": 50,
+				"height": 50
+			},
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_sml",
+			"font_colour": "black",
+		},
+		
+		{
+			"name":"fort_cost_string",
+			"x": 300 ,
+			"y": 320,
+			"anchor": "TL",
+			"align": "TC",
+			"font":"verdana_med",
+			"font_colour": "black",
+			"priority":0
+		},
+
+        {
+            "name":"fort_title",
+            "x": 554,
+            "y": 44,
+			"size": {
+                "width": 600
+            },
+			"max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font_colour": "dark_brown",
+            "font":"verdana_med",
+        },
+	]
+}

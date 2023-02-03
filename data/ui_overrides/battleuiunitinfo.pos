@@ -1,0 +1,251 @@
+{
+	"frames": [],
+	"list": [
+
+		{
+			"name": "description_toggle_button",
+			"x": -9999 ,
+			"y": -9999,
+			"size": {
+				"width" : 0,
+				"height": 0
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml"
+		},
+
+		{
+			"name": "title",
+			"x": 96 ,
+			"y": 16,
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_med",
+			"font_colour": "dark_brown",
+		},
+		{
+			"name": "sub_title",
+			"x": 96 ,
+			"y": 36,
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+		},
+
+
+		{
+			"name": "image",
+			"x": 26 ,
+			"y": 33,
+			"size": {
+				"width": 64,
+				"height": 90
+			},
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+		{
+			"name": "legionary_name",
+			"x": 240 ,
+			"y": 36,
+			"size": {
+				"width": 120,
+			},
+			"max_lines": 3,
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+			"priority": 1999
+		},
+
+		{
+			"name": "stats_icons_group",
+			"x": 96 ,
+			"y": 58,
+			"size": {
+				"width": 210 ,
+				"height": 35
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+		},
+
+		{
+			"name": "upgrade_icons_group",
+			"x": 96 ,
+			"y": 94,
+			"size": {
+				"width": 176 ,
+				"height": 28
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+		},
+
+		{
+			"name": "sub_title_compress",
+			"x": 96 ,
+			"y": 36,
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour": "dark_brown",
+		},
+		{
+			"name": "stats_icons_group_compress",
+			"x": 96 ,
+			"y": 58,
+			"size": {
+				"width": 210 ,
+				"height": 35
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+		},
+		{
+			"name": "upgrade_icons_group_compress",
+			"x": 96 ,
+			"y": 94,
+			"size": {
+				"width": 176 ,
+				"height": 28
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+		},
+
+
+		{
+			"name": "abilities_background",
+			"x": 29 ,
+			"y": 430,
+			"size": {
+				"width": 340 ,
+				"height": 96
+			},
+			"tags":[ "page1" ],
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+		{
+			"name": "abilities_list",
+			"x": 36 ,
+			"y": 439,
+			"size": {
+				"width": 322 ,
+				"height": 68
+			},
+			"tags":[ "page1" ],
+			"anchor": "TL",
+			"align": "TL",
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+			"outside_slider": true,
+            "slider_gap": 5
+		},
+
+
+
+		{
+			"name": "description_title",
+			"x": 36 ,
+			"y":142,
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_sml_bold",
+			"tags":["page1"]
+		},
+
+		{
+			"name": "description_list",
+			"x": 36,
+			"y":	163,
+			"size": {
+				"width": 316 ,
+				"height": 244
+			},
+			"anchor": "TL",
+			"align": "TL",
+			"priority":0,
+			"font_colour":"dark_brown",
+			"font":"verdana_sml",
+			"outside_slider": true,
+            "slider_gap": 5,
+			"tags":["page1"]
+		},
+
+		{
+			"name": "basic_bars_list",
+			"x": 27 ,
+			"y": 522,
+			"size": {
+				"width": 340 ,
+				"height": 45
+			},
+			"tags":[ "page1" ],
+			"font":"verdana_sml_bold",
+			"anchor": "TL",
+			"align": "TL"
+		},
+
+		{
+			"name": "divider_0",
+			"x": 23 ,
+			"y": 416,
+			"size": {
+				"width": 354 ,
+				"height": 18
+			},
+			"tags":[ "page1" ],
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+		{
+			"name": "divider_1",
+			"x": 23 ,
+			"y":129,
+			"size": {
+				"width": 354 ,
+				"height": 15
+			},
+			"tags":[ "page1" ],
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+
+		{
+			"name": "detail_bars_list",
+			"x": 27 ,
+			"y": 561,
+			"size": {
+				"width": 340 ,
+				"height": 140
+			},
+			"tags":[ "page1" ],
+			"anchor": "TL",
+			"align": "TL",
+			"font":"verdana_sml",
+			"font_colour":"dark_brown",
+		},
+
+
+
+	]
+}

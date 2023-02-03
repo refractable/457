@@ -1,0 +1,231 @@
+{
+    "frames": [],
+    "list": [
+
+        {
+            "name":"title",
+            "x": 554,
+            "y": 44,
+			"size": {
+                "width": 620
+            },
+			"max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font_colour": "dark_brown",
+            "font":"verdana",
+        },
+
+        {
+            "name":"title_divider",
+            "x": 554 ,
+            "y": 78,
+            "size": {
+                "width": 950 ,
+                "height" : 20
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+
+        {
+            "name": "sub_title",
+            "x": 88,
+            "y": 70,
+            "anchor": "TL",
+            "align": "BL",
+            "font_colour":"dark_brown",
+            "font":"verdana_med",
+        },
+
+
+        {
+            "name": "image",
+            "x": 245 ,
+            "y": 100,
+            "size": {
+                "width": 264,
+                "height": 352
+            },
+            "anchor": "TL",
+            "align": "TC",
+        },
+
+
+        {
+            "name": "stats_icons_group",
+            "x": 85 ,
+            "y": 410,
+            "size": {
+                "width": 273 ,
+                "height": 35
+            },
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml",
+        },
+		
+		{
+            "name": "upgrade_icons_group",
+            "x": 260 ,
+            "y": 410,
+            "size": {
+                "width": 160 ,
+                "height": 35
+            },
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml",
+        },
+		
+		{
+            "name": "combined_icons_group",
+            "x": 245 ,
+            "y": 460,
+            "size": {
+                "width": 386 ,
+                "height": 39
+            },
+            "anchor": "TL",
+            "align": "TC",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml",
+        },
+
+        {
+            "name": "detail_bars_list",
+            "x": 245 ,
+            "y": 500,
+            "size": {
+                "width": 386 ,
+                "height": 180
+            },
+            "anchor": "TL",
+            "align": "TC",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml"
+        },
+
+        {
+            "name": "expand_button",
+            "x": 1060 ,
+            "y": 45,
+            "size": {
+                "width": 50,
+                "height": 50
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+		
+        {
+            "name": "disband_unit_button",
+            "x": 1005 ,
+            "y": 45,
+            "size": {
+                "width": 50,
+                "height": 50
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+
+
+        {
+            "name": "ability_description_list",
+            "x": 480 ,
+            "y": 105,
+            "size": {
+                "width": 610 ,
+                "height": 570
+            },
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_med",
+        },
+
+        {
+            "name": "retrain_hourglass",
+            "x": 55,
+            "y": 420,
+            "size": {
+                "width": 34 ,
+                "height": 34
+            },
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml",
+        },
+        {
+            "name": "retrain_string",
+            "x": 92,
+            "y": 425,
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_sml_bold",
+        },
+
+
+
+
+
+  
+  
+        {
+            "comment": "MKG 15-Jun-2021 - The following 4 entries are used for the named legions (fbug://RHD-11324)" 
+        },
+        {
+            "name": "legionary_name",
+            "x": 554 ,
+            "y": 108,
+            "size": {
+                "width": 350,
+            },
+            "max_lines": 1,
+			"max_resizes": 1,
+            "anchor": "TL",
+            "align": "C",
+            "font":"cinzel",
+            "font_colour": "dark_brown",
+        },
+        {
+            "name":"legionary_divider",
+            "x": 554 ,
+            "y": 133,
+            "size": {
+                "width": 400 ,
+                "height" : 20
+            },
+            "anchor": "TL",
+            "align": "C",
+        },
+        {
+            "name": "sub_title_compress",
+            "x": 88,
+            "y": 70,
+            "anchor": "TL",
+            "align": "BL",
+            "font_colour":"dark_brown",
+            "font":"verdana_med",
+        },
+		{
+            "name": "ability_description_list_compress",
+            "x": 450 ,
+            "y": 155,
+            "size": {
+                "width": 640 ,
+                "height": 450
+            },
+            "anchor": "TL",
+            "align": "TL",
+            "font_colour":"dark_brown",
+            "font":"verdana_med",
+        },
+    ]
+}

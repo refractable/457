@@ -1,0 +1,3 @@
+script
+	console_command toggle_fow
+end_script

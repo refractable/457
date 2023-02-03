@@ -1,0 +1,142 @@
+
+{
+	"frames":
+	[],
+
+	"list":
+	[
+	
+{
+"_comment": "strings"
+},
+		{
+			"name":"title",
+			"x": 556 ,
+			"y": 36,
+			"anchor": "TL",
+			"align": "TC",
+			"font_colour": "dark_brown",
+			"font":"verdana",
+		},
+		{
+			"name":"current_religion_percentage",
+			"x": 561 ,
+			"y": 85,
+			"anchor": "TL",
+			"align": "TC",
+			"font_colour": "dark_brown",
+			"font":"verdana",
+		},
+		
+		{
+			"name":"list_0",
+			"x": 29 ,
+			"y": 135,
+			"size": {
+				"width": 1060,
+				"height" : 500
+			},
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+		{
+			"name":"list_1",
+			"x": 29 ,
+			"y": 302,
+			"size": {
+				"width": 1060,
+				"height" : 480
+			},
+			"anchor": "TL",
+			"align": "TL",
+		},
+
+		
+		{
+			"name":"divider_0",
+			"x": 65 ,
+			"y": 42,
+			"size": {
+				"width": 310 ,
+				"height" : 20
+			},
+			"anchor": "TL",
+			"align": "TL",
+		},
+		{
+			"name":"divider_1",
+			"x": 1048 ,
+			"y": 42,
+			"size": {
+				"width": 310 ,
+				"height" : 20
+			},
+			"anchor": "TL",
+			"align": "TR",
+		},
+
+
+		{
+			"name":"divider_2",
+			"x": 559 ,
+			"y": 241,
+			"size": {
+				"width": 1074 ,
+				"height" : 20
+			},
+			"anchor": "TL",
+			"align": "TC",
+		},
+
+		{
+			"name":"divider_3",
+			"x": 559 ,
+			"y": 293,
+			"size": {
+				"width": 1074 ,
+				"height" : 20
+			},
+			"anchor": "TL",
+			"align": "TC",
+		},
+
+		{
+			"name":"divider_4",
+			"x": 558 ,
+			"y": 470,
+			"size": {
+				"width": 1061 ,
+				"height" : 20
+			},
+			"anchor": "TL",
+			"align": "TC",
+		},
+		
+		{
+			"name":"left_scroll_button",
+			"x": 450 ,
+			"y": 155,
+			"size": {
+				"width": 45 ,
+				"height" : 70
+			},
+			"priority": 4,
+			"anchor": "TL",
+			"align": "TC",
+		},
+		{
+			"name":"right_scroll_button",
+			"x": 1070 ,
+			"y": 155,
+			"size": {
+				"width": 45 ,
+				"height" : 70
+			},
+			"priority": 4,
+			"anchor": "TL",
+			"align": "TC",
+		},
+
+	]
+}

@@ -1,0 +1,27 @@
+script
+	;;if the player isn't the ostrogoths no need to execute this script
+	if not I_LocalFaction ostrogoths
+		terminate_script ;;stop looking for settlement turn starts
+	end_if
+	
+	;;wait for the settlement turn start condition
+	monitor_event SettlementTurnStart
+
+		;;if the settlement is owned by the goths and isn't the capital
+		if	SettlementOwnedBy goths
+			&&	not IsCapital
+	
+			;;trigger a rebellion in this settlement so the spawn script can pick it up
+
+			provoke_rebellion local ;;added the ability to add local here just for this
+			terminate_monitor ;;stop looking for settlement turn starts
+		end_if
+		
+		;;end this monitor after turn 2, since we're going to manually spawn them as a horde
+		;;on the end of that turn if we haven't already triggered a settlement
+		if	I_TurnNumber > 1
+			terminate_monitor
+		end_if
+
+	end_monitor
+end_script

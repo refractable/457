@@ -1,0 +1,137 @@
+pool Britain
+	regions	Hibernia_Septentrionalis Hibernia_Orientalis Hibernia_Meridionalis Hibernia_Occidentalis Caledonia Taexalia Votadinia Brigantia Coritania Cornovia Icenia Trinovantia Cantiacia Durotrigia Dumnonia Dobunnia Ordovicia Demetia
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc gallowglass,			exp 1 cost 650 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc graal knights,			exp 3 cost 2900 replenish 0.03 - 0.08 max 1 initial 0
+	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 1 initial 1
+
+pool Gaul
+	regions Osisimia Armorica Venellia Eburovicia Namnetia Pictonia Turonia Carnutia Parisia Aquitania Santonia Nitrobrogia Auscia Biggeronia Volcatia Celtica Biturigia Senonia Haeduia Cubia Arvernia Lemovicia Ambarria Sequania Allobrogia Vocontia Narbonensis Alpes_Cottiae Verbogenia Leucia Tribocia Veliocassia Morinia Bellovacia Suaeuconia Treveria_Salutaris Nervia Eburonia Treveria Mediomatricia Alpes_Maritimae Indicetia Contestania
+	unit merc foederati infantry,			exp 0 cost 600 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc foederati cavalry,			exp 0 cost 700 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc veteranii,				exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc graal knights,			exp 3 cost 2900 replenish 0.03 - 0.08 max 1 initial 0
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+
+pool Germany
+	regions Frisia Chasuaria Bructeria Sicambria Chaucia Anglia Langobardia Cimbrica Scandia_Insula Herulia East_Gothia West_Gothia Ultima_Thule Chamavia Baluconia Semnonia Pharodenia Buria Marsignia Rugia Helveconia Elysia Lugia Ciscarpathia Vangionia Chattia Hermunduria Marcomannia 
+	unit merc golden band,			exp 1 cost 1000 replenish 0.06 - 0.44 max 1 initial 0
+	unit merc foederati infantry,			exp 0 cost 600 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc foederati cavalry,			exp 0 cost 700 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 0
+    
+pool Eastern_Europe
+	regions Naharvalia Boioa Naristia Noricum Vindelicia Latobrigia Breunia Helvetia Sciria Chrononia Turuntia Venedia_Inferior Ossioia Vistulia Hyperboria Albocensia Iazygia Cotinia Costobocia Potulatensia Porolissensis Apulensis Malvensis Getia Roxolania
+	unit merc alan noble cavalry,			exp 1 cost 1350 replenish 0.1 - 0.15 max 1 initial 0
+	unit merc alan horse archers,			exp 1 cost 825 replenish 0.12 - 0.38 max 1 initial 1
+	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc golden band,			exp 2 cost 1200 replenish 0.06 - 0.44 max 2 initial 1
+    
+pool Italy
+	regions Liguria Aemilla Transpadana Insubria Cenomannia Olana Venetia Vallis_Arni Dodecapolis Umbria Tuscia Latium Picenum Aternum Apulia Campania Lucania Bruttium Tarentum Siculia Syracuse Sicania Elimia Sardinia_Meridionalis Sardinia_Septentrionalis Corsica Balearides
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 2 initial 0
+	unit merc veteranii,				exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+	unit merc ballistae,				exp 0 cost 600 replenish 0.125 - 0.25 max 1 initial 0
+
+pool North_Africa
+	regions Carthago Zeugitana Byssatis Thabracania Massylia Musulamia Maxyesia Zaba Aurasius Cirtania Sitifensia Gaetulia Iolia Machuria Massaesylia Metagonia Tingitania Mauretania Rutubis Tadla Mauretania_Ulterior Lixiane Furtunatae_Insulae Cerne Deserta_Mauretania Madethubadus
+	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+    
+pool Libya
+	regions Emporia Tripolitania Syrtica Nasamonia Leonum_Trahentium Nigritania Ougarta Deserta_Tripolitania Phazania Garamantia_Citerior Garamantia_Ulterior Agisymba Troglodytia Barka Cyrenaica Marmarica Libya Ammon 
+    unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 0
+
+pool Egypt
+	regions Delta_Occidentalis Delta_Orientalis Aegyptis Saracena Heptanomis Asyut Luxor Aswan Parva Farfara Kharga Khargana Porphyritis_Mons Troglodytica Ptolemais_Epithera Nubia_Septentrionalis Nubia_Centralis Nubia_Meridionalis Alana Meroe_Insula Alut Atbaras Attiroia Bega Tangiatae Daamat Punt Asayta Akridophagia Rhausae Barbaria Cinnamonifora Aromatica Elephas Azania Axomitarum Tiama Atalmo Ssasu Melanokhrotoi Gambala Calaa Astasobas Golaissae Artabatita Syrbotia Cyeneum
+    unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 0
+
+pool Spain
+	regions Baetica_Gaditanus Mastiania Bastetania Edetania	Ilercavonia Cessetania Ilergetia Vasconia Baetica_Hispalensis Malacitia Oretania Baetica_Cordubensis Turdetania Couneia Turdulia_Occidentalis Turdulia_Orientalis Lobetania Celtiberia_Meridionalis Celtiberia_Septentrionalis Celtiberia_Centralis Carpetania Vettonia_Meridionalis Vettonia_Septentrionalis Vaccaeia_Meridionalis Vaccaeia_Septentrionalis Vardulia Autrigonia Cantabria Celticia_Minoris Celticia_Maoioris Lusitania Oppidania Asturia Aebocosia Callaecia_Meridionalis Callaecia_Septentrionalis
+    unit merc moorish raiders,			exp 0 cost 575 replenish 0.125 - 0.25 max 2 initial 1
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 0
+    
+pool Illyria
+	regions Histria Libernia Dalmatia Daorsia Deuria
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+
+pool Pannonia
+	regions Latobicia Cataria Varciania Pannonia_Prima Carnuntia Quadia Valeria Hercuniatia Pannonia_Secunda Scordiscia Tricornensia Dindaria Dardania Picensia Saldensia Moesia Triballia Crobyzoia Scythia_Minor
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+
+pool Thrace
+	regions Haemimontus Thracia Rhodope Propontis Europa Paeonia Odomantike Chalkidiki Emathia Pelagonia Thessalia
+    unit merc bosphoran infantry,			exp 1 cost 760 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 2 initial 1
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 0
+
+pool Greece
+	regions Illyria_Graeca Epirus Aetolia Boeotia Attica Euboea Achaea Arcadia Laconia Sporades Crete
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 2 initial 0
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
+
+pool Steppes
+	regions Chersonesos_Zenonis Chersonesos_Heraclea Taurica Bosporus_Cimmerius Sarmatia_Maritima Scythia_Harpitis Subcarpathia Zargidava Clepia Sarmatia Sarmatia_Superioris Borysthenia Hypania Transborysthena Transhypania Hypania_Minoris Bassetia Vistulia_Inferioris Amadocia Neuri Gelonia Tauroscythia Cimmero_Scythia Tanaica Borysthenia_Maioris Danaia Mantessa Confluenta Danaia_Superioris Melanchlenia Thyssagetae Stumica Maeotia Sindica Scythia_Transmontem Tanaissa Sarmatia_Hyrcania Sattara Hyrcania_Superioris Alania Alania_Orientalis Atara Nesietis Transhyrcania Darn Scythia_Magna Deserta_Scythia Abzoa Alanorsia Busu Septem_Flumina Sacasene Hongnia Gushia Hamich Agni Kroraina Portae_Ferraea Kushine Calmadana Gumo Kasia Gosthana Cadot Paelex_Porta Serica Serica_Asmiraii Serica_Coconorum
+	unit merc alan horse archers,			exp 1 cost 825 replenish 0.12 - 0.38 max 2 initial 1
+	unit merc vandal lancers,			exp 1 cost 800 replenish 0.03 - 0.05 max 1 initial 0
+	unit merc vandal raiders,			exp 1 cost 575 replenish 0.03 - 0.05 max 1 initial 0
+	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 2 initial 1
+    
+pool Persia
+	regions Issedonia Talas Chach Jaxartes_Superior Jaxartes_Inferior Dzankath Ferghana Kyreschata Pamir Sakastan Sogdiana_Deserta Tigraxauda Oxia_Deserta Chorasmia_Ostia Chorasmia_Inferior Chorasmia_Superior Chorasmia_Deserta Mardastan Scythia_Ultima Scythia_Pontica Dahaestan Massagetica Parnia Siracene Margiana Sarmagana Attene Bactriana Chomaria Candara Transoxus Sogdiana Oxiana Tarmita Media Amardioi Parskahayk Media_Atropatene Kadousioi Paytankert Kossioi Media_Magna Media_Choromithrene Choarene Gabiene Artacene Mardiane Taocene Persis Media_Felix Paraetacene Utia Rudiane Articene Comisene Hyrcania Parthia Tapuria Traxiane Desertum_Salinum Aria Pactya Sagartia Parsiene Carmania Tabiene Agdinitis
+	unit merc ballistae,			exp 0 cost 600 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 1
+	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc elephants,				exp 0 cost 2700 replenish 0.005 - 0.015 max 1 initial 0
+    
+pool Arabia
+	regions Mapharitis Himyar Saba Qataban Myrrhifera Hadhramut_Occidentalis Hadhramut_Orientalis Taifa Cinaedocolpitis Arabia_Ad_Sinus Iathrippa Hegra Arabia_Relicta Arabia_Petrea Sinai Omanitis_Orientalis Omanitis_Occidentalis Gerrha_Orientalis Tylos_Insula Gerrha_Occidentalis Dumatha Arabia_Magna
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc elephants,				exp 0 cost 2700 replenish 0.005 - 0.015 max 1 initial 0
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 1
+    
+pool Mesopotamia
+	regions Rhicocorura Philistia Judea Peraea Decapolis Phoeniciae_Meridionalis Coele_Syria Phoeniciae_Septentrionalis Apamene Palmyrene Syria Commagene Osroene Coruene Mesopotamia Assyria Apolloniatos Adiabene Garamaea Aramaea Babylonia Sittacene Sumer Chaldaea Characene Susiana
+	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 1 initial 1
+	unit merc ballistae,			exp 0 cost 600 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc bucellarii,				exp 0 cost 575 replenish 0.12 - 0.38 max 1 initial 0
+    
+pool Anatolia
+	regions Bithynia_Inferioris Mysia_Inferioris Troad Mysia_Superioris Ionia Caria Lycia Pamphylia Cilicia_Trachea Cilicia_Pedias Cyprus Lydia Phrygia_Ripensis Pisidia Phrygia_Parorea Phyrgia_Minoris Bithynia_Superioris Isauria Lycaonia Tyanitis Saravene Galatia Phrygia_Maoris Mariandynia Paphlagonia_Superioris Paphlagonia_Inferioris Iris_Inferioris Iris_Superioris Helenopontus Paryadres Cappadocia Cataonia Melitene
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
+
+    
+pool Armenia
+	regions Armenia_Minoris Armenia_Superioris Armenia_Maioris Sophene Tarawn Vaspurakan Syracene Soducene Ayrarat Parsatunik Syunik Artsakh Tayk Colchis Abasgoi Suaneti Gugark Iberia Kahetia Arran Albania 
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc alan horse archers,			exp 1 cost 825 replenish 0.12 - 0.38 max 2 initial 1
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 1 initial 
+    
+pool India
+	regions
+Cedi_Orientalis Paropamisadae Sattagydia Arachosia Paradene Drangiana Gedrosia Gandhara Kasmira Glausae Hydaspes Madra Panchanada Sibae Trigata Sivi India_Alba Oxydracae Prasiane Saranga Patalene Aporapa Sauvira Kaccha Abhira Deserta_Indica Saurashtra_Meridionalis Saurashtra_Centralis Saurashtra_Septentrionalis Maru Aparanta Sahyadri_Septentrionalis Sahyadri_Meridionalis Mulaka Vindhya Anupa Asika Kuntala Anartta Avanti_Meridionalis Avanti_Septentrionalis Dasarna Dahala Matsya Shurasena Kamyaka Bahudhanyaka Kuru Pancala Turvashas Cedi_Occidentalis Kosala Kasi Malla Dakshina_Kosala Mahendragiri Kalinga Radha Andhra Asmaka Vidarbha Fanindrapura Magadha Anga Vanga Pundra Vrji Kamata Kamarupa Samatata Gomanta Satiyaputa_Septentrionalis Satiyaputa_Meridionalis Keralaputa Mahismandala_Septentrionalis Mahismandala_Meridionalis Sriparvata Tondainadu_Septentrionalis Tondainadu_Meridionalis Koda Malayas Pandiya Tambapamni_Septentrionalis Tambapamni_Meridionalis Libyae_Interior Sarmatia_Ulterior Mons_Emodus Mons_Imaus Deserta_Serica Barbaria_Interior Arabia_Deserta
+	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
+	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
+	unit merc elephants,				exp 0 cost 2700 replenish 0.005 - 0.015 max 1 initial 0
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 1

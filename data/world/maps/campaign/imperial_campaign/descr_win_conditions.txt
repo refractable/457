@@ -1,0 +1,75 @@
+saxons
+hold_regions Camulodunum Durovernum Calleva_Atrebatum Isca_Dumnoniorum Corinium Venta_Icenorum
+take_regions 100
+
+vandals
+hold_regions Qart_Hadasht Roma Tinga Syrakousai Croton Olbia
+take_regions 150
+
+empire_east
+hold_regions Byzantion Alexandreia Roma Qart_Hadasht Seleukeia Babylon Orchoi
+take_regions 150
+
+empire_west
+hold_regions Roma Qart_Hadasht Hibera Byzantion Camulodunum Tregoritum Vesontio Salona Urki Kartuba
+take_regions 150
+
+huns
+hold_regions Roma Byzantion Popesti Malica Setuacatum Iazygiana Salona Mutina Aquincum Vesontio
+take_regions 150
+
+franks
+hold_regions Lutetia Burdigala Nemausus Aginnum Tregoritum Vesontio
+take_regions 100
+
+alemanni
+hold_regions Brocomagus Aquincum Roma Vesontio Mutina Popesti Byzantion
+take_regions 100
+
+sarmatians
+hold_regions Aquincum Salona Phasis Castrana Naissus Iader
+take_regions 100
+
+goths
+hold_regions Byzantion Roma Nemausus Aginnum Tregoritum Vesontio
+take_regions 150
+
+sassanids
+hold_regions Alexandreia Hierosolyma Byzantion Ankyra
+take_regions 150
+
+celts
+hold_regions Camulodunum Isurium Lutetia 
+take_regions 100
+
+romano_british
+hold_regions Camulodunum Isurium Lutetia 
+take_regions 100
+
+slavs
+hold_regions Byzantion Mutina Iazygiana
+take_regions 100
+
+ostrogoths
+hold_regions Roma Salona Mutina Iazygiana Roma Iader
+take_regions 100
+
+berbers
+hold_regions Qart_Hadasht Alexandreia Tinga Takapes
+take_regions 100
+
+lombardi
+hold_regions Mediolanum Mutina Verona Patavium Taurasia
+take_regions 100
+
+burgundii
+hold_regions Massalia Augusta_Vindelicorum Nemausus Mediolanum Lutetia
+take_regions 100
+
+roxolani
+hold_regions Aquincum Salona Phasis
+take_regions 100
+
+white_huns
+hold_regions Seleukeia Ekatompylos Patigrabana Seleukeia_Eulaios
+take_regions 100
