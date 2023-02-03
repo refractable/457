@@ -1,0 +1,183 @@
+;; JNF 2021-07-27 - Okay, I TRIED to make this compatable with the old definition style, but there's absolutely no way to verify the format so if things were wrong you'd get a
+;;                  whole bunch of "settlement '' not found in stringtable" errors because the region DB also has zero verification and since the last line of the settlement has
+;;                  "pagan" in it instead of "data/ui/pips/pip_religion_pagan_positive.tga", which would be the name of the religion because you're missing a line so it overflows,
+;;                  and so the format, stupidly, just assumes because the line isn't a valid religion it must, in fact, be the start of another settlement definition. Idiotic.
+;;                  Anyway, that's why you have to rewrite this, modders. Have fun!
+
+"religions":
+[	"miaphysitism":
+	{
+		;;the name of the trait to be used to identify members of this religion
+		;;will be auto-generated if not defined
+		"trait": "Miaphysite Christian",
+		
+		;;UI icons to use for this
+		"unrest icon": "data/pips/miaphysite_unrest.tga",
+		"religion icon":  "data/pips/miaphysite.tga",
+		
+		;;info button button used for the settlement overview panel
+		"info button": "data/ui/buttons/settlementdetailschristianity.tga",
+		
+		;;localised name for this religion
+		"name": "MIAPHYSITE_LABEL",
+		
+		;;tooltips for when a religion is creating unrest
+		"unrest tooltip": "MIAPHYSITE_UNREST",
+		
+		;;what group is this religion a part of
+		"group": "abrahamic",
+		
+		;;how much extra or less unrest and order should this religion create
+		"unrest multipliers":
+		{
+			;;how much unrest should we create against religions in the same group as us
+			"heretics": 0.8,
+			
+			;;how much unrest should we create against religions in other groups
+			"heathens": 0.9,
+		},
+		
+		;;should this religion be hidden at zero presense and influence
+		"hide at zero": true, ;miaphysite should always be shown
+	},
+	"arianism":
+	{
+		;;the name of the trait to be used to identify members of this religion
+		;;will be auto-generated if not defined
+		"trait": "Arian Christian",
+		
+		;;UI icons to use for this
+		"unrest icon": "data/pips/arianism_unrest.tga",
+		"religion icon":  "data/pips/arianism.tga",
+		
+		;;info button button used for the settlement overview panel
+		"info button": "data/ui/buttons/settlementdetailschristianity.tga",
+		
+		;;localised name for this religion
+		"name": "ARIANISM_LABEL",
+		
+		;;tooltips for when a religion is creating unrest
+		"unrest tooltip": "ARIANISM_UNREST",
+		
+		;;what group is this religion a part of
+		"group": "abrahamic",
+		
+		;;how much extra or less unrest and order should this religion create
+		"unrest multipliers":
+		{
+			;;how much unrest should we create against religions in the same group as us
+			"heretics": 0.8,
+			
+			;;how much unrest should we create against religions in other groups
+			"heathens": 0.8,
+		},
+		
+		;;should this religion be hidden at zero presense and influence
+		"hide at zero": true, ;miaphysite should always be shown
+	},
+	"christianity":
+	{
+		;;the name of the trait to be used to identify members of this religion
+		;;will be auto-generated if not defined
+		"trait": "Christian",
+		
+		;;UI icons to use for this
+		"unrest icon": "data/ui/pips/pip_religion_christian_negative.tga",
+		"religion icon":  "data/ui/pips/pip_religion_christian.tga",
+		
+		;;info button button used for the settlement overview panel
+		"info button": "data/ui/buttons/settlementdetailschristianity.tga",
+		
+		;;localised name for this religion
+		"name": "CHRISTIAN_LABEL",
+		
+		;;tooltips for when a religion is creating unrest
+		"unrest tooltip": "CHRISTIAN_UNREST",
+		
+		;;what group is this religion a part of
+		"group": "abrahamic",
+		
+		;;how much extra or less unrest and order should this religion create
+		"unrest multipliers":
+		{
+			;;how much unrest should we create against religions in the same group as us
+			"heretics": 0.8,
+			
+			;;how much unrest should we create against religions in other groups
+			"heathens": 0.8,
+		},
+		
+		;;should this religion be hidden at zero presense and influence
+		"hide at zero": true, 
+	},
+	"pagan":
+	{
+		;;the name of the trait to be used to identify members of this religion
+		;;will be auto-generated if not defined
+		"trait": "Pagan",
+		
+		;;UI icons to use for this
+		"unrest icon": "data/ui/pips/pip_religion_pagan_negative.tga",
+		"religion icon":  "data/ui/pips/pip_religion_pagan.tga",
+		
+		;;info button button used for the settlement overview panel
+		"info button": "data/ui/buttons/settlementdetailspaganism.tga",
+		
+		;;localised name for this religion
+		"name": "PAGAN_LABEL",
+		
+		;;tooltips for when a religion is creating unrest
+		"unrest tooltip": "PAGAN_UNREST",
+		
+		;;what group is this religion a part of
+		"group": "pagan",
+		
+		;;how much extra or less unrest and order should this religion create
+		"unrest multipliers":
+		{
+			;;how much unrest should we create against religions in the same group as us
+			"heretics": 0.8,
+			
+			;;how much unrest should we create against religions in other groups
+			"heathens": 0.8,
+		},
+		
+		;;should this religion be hidden at zero presense and influence
+		"hide at zero": true, 
+	},
+	"zoroastrian":
+	{
+		;;the name of the trait to be used to identify members of this religion
+		;;will be auto-generated if not defined
+		"trait": "Zoroastrian",
+		
+		;;UI icons to use for this
+		"unrest icon": "data/ui/pips/pip_religion_zoroastrian_negative.tga",
+		"religion icon":  "data/ui/pips/pip_religion_zoroastrian.tga",
+		
+		;;info button button used for the settlement overview panel
+		"info button": "data/ui/buttons/settlementdetailszoroastrianism.tga",
+		
+		;;localised name for this religion
+		"name": "ZOROASTRIAN_LABEL",
+		
+		;;tooltips for when a religion is creating unrest
+		"unrest tooltip": "ZOROASTRIAN_UNREST",
+		
+		;;what group is this religion a part of
+		"group": "mazdan",
+		
+		;;how much extra or less unrest and order should this religion create
+		"unrest multipliers":
+		{
+			;;how much unrest should we create against religions in the same group as us
+			"heretics": 0.8,
+			
+			;;how much unrest should we create against religions in other groups
+			"heathens": 0.9,
+		},
+		
+		;;should this religion be hidden at zero presense and influence
+		"hide at zero": true, 
+	},
+],

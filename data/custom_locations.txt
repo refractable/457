@@ -1,0 +1,137 @@
+; custom locations , add new locations at the bottom
+
+custom_location		British Grassland
+{
+	location		46 186
+	image			data/menu/grass1.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Gallic Countryside
+{
+	location		66 159
+	image			data/menu/grass2.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Italian Lowland
+{
+	location		132 145
+	image			data/menu/grass3.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Sahara Desert
+{
+	location		102	71
+	image			data/menu/sand1.tga
+	sett_locked		no
+	summer			yes
+	sandstorm		yes
+}
+
+custom_location		Libyan Plains
+{
+	location		197 78
+	image			data/menu/sand2.tga
+	sett_locked		no
+	summer			yes
+	sandstorm		yes
+}
+
+custom_location		Arabian Dunes
+{
+	location		253	120
+	image			data/menu/sand3.tga
+	sett_locked		no
+	summer			yes
+	sandstorm		yes
+}
+
+custom_location		Germanic Forest
+{
+	location		107 191
+	image			data/menu/forest1.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Nordic Woodland
+{
+	location		94 230
+	image			data/menu/forest2.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Cappadocian Forest
+{
+	location		232 157
+	image			data/menu/forest3.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Scottish Highland
+{
+	location		24 212
+	image			data/menu/baron3.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Armenian Mountains
+{
+	location		264 174
+	image			data/menu/mountain1.tga
+	sett_locked		yes
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Alpine Valley
+{
+	location		98 167
+	image			data/menu/mountain3.tga
+	sett_locked		yes
+	summer			no
+	sandstorm		no
+}
+
+custom_location		Tuscan Bay
+{
+	location		109 148
+	image			data/menu/coast1.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+
+}
+
+custom_location		Greek Shore
+{
+	location		170 138
+	image			data/menu/coast2.tga
+	sett_locked		no
+	summer			no
+	sandstorm		no
+}
+
+custom_location		African Coast
+{
+	location		119 103
+	image			data/menu/coast3.tga
+	sett_locked		no
+	summer			yes
+	sandstorm		yes
+}

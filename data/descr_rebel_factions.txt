@@ -1,0 +1,3105 @@
+rebel_type			Brigantes	//Britons
+category			peasant_revolt
+chance				0
+description			Brigantes
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type			Trinovantes	//Britons
+category			peasant_revolt
+chance				0
+description			Trinovantes
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Suebi		//Germans
+category			peasant_revolt
+chance				3
+description			Suebi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Saxones		//Germans
+category			peasant_revolt
+chance				3
+description			Saxones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Gepids		//Germans
+category			peasant_revolt
+chance				3
+description			Gepids
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Amazons		//Scythians
+category			peasant_revolt 
+chance				6
+description			Amazons
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Saka		//Scythians
+category			peasant_revolt 
+chance				0
+description			Saka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Hibernians	//Britons
+category			peasant_revolt 
+chance				0
+description			Hibernians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Alans		//Scythians
+category			peasant_revolt 
+chance				0
+description			Alans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Silures		//Britons
+category			peasant_revolt 
+chance				6
+description			Silures	
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Goths		//Germans
+category			peasant_revolt 
+chance				3
+description			Goths
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sarmatians	//Scythians
+category			peasant_revolt 
+chance				0
+description			Sarmatians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Iceni		//Britons
+category			peasant_revolt 
+chance				6
+description			Iceni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+					
+rebel_type 			Batavi		//Germans
+category			peasant_revolt 
+chance				3
+description			Batavi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Chatti		//Germans
+category			peasant_revolt 
+chance				3
+description			Chatti
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Venedae		//dacians
+category			peasant_revolt 
+chance				0
+description			Venedae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Marcomanni	//germans
+category			peasant_revolt 
+chance				3
+description			Marcomanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Belgae		//Britons
+category			peasant_revolt 
+chance				0
+description			Belgae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Maeotae 	//Scythians
+category			peasant_revolt 
+chance				3
+description			Maeotae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Alamanni	//germans
+category			peasant_revolt 
+chance				3
+description			Alamanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Carnutes		//gauls
+category			peasant_revolt 
+chance				0
+description			Carnutes
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+					
+rebel_type 			Veneti		//gauls
+category			peasant_revolt 
+chance				0
+description			Veneti
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+					
+rebel_type 			Sequani		//gauls
+category			peasant_revolt 
+chance				0
+description			Sequani
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Nervii		//gauls
+category			peasant_revolt 
+chance				0
+description			Nervii
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Arverni		//gauls
+category			peasant_revolt 
+chance				0
+description			Arverni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Bituriges		//gauls
+category			peasant_revolt 
+chance				0
+description			Bituriges
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Ausci		//gauls
+category			peasant_revolt 
+chance				0
+description			Ausci
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Allobroges		//gauls
+category			peasant_revolt 
+chance				0
+description			Allobroges
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Seduni		//gauls
+category			peasant_revolt 
+chance				0
+description			Seduni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tectosages		//gauls
+category			peasant_revolt 
+chance				0
+description			Tectosages
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Treveri		//germans
+category			peasant_revolt 
+chance				0
+description			Treveri
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+					
+rebel_type 			Boii		//gauls
+category			peasant_revolt 
+chance				0
+description			Boii
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Roxolani	//Scythians
+category			peasant_revolt 
+chance				0
+description			Roxolani
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Iazyges	//Scythians
+category			peasant_revolt 
+chance				0
+description			Iazyges
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pannonian		// dacia
+category			peasant_revolt 
+chance				0
+description			Pannonian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Senones		//gauls
+category			peasant_revolt 
+chance				0
+description			Senones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Carpi		//dacia
+category			peasant_revolt 
+chance				0
+description			Carpi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Helvetii	//gauls
+category			peasant_revolt 
+chance				0
+description			Helvetii
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Troglodytae	//thrace
+category			peasant_revolt 
+chance				0
+description			Troglodytae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+;unit				western peasant alemanni
+
+rebel_type 			Scordisci	//dacia
+category			peasant_revolt 
+chance				0
+description			Scordisci
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Bosphorans	//thrace
+category			peasant_revolt 
+chance				0
+description			Bosphorans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Chersonian	//thrace
+category			peasant_revolt 
+chance				0
+description			Chersonian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Byzantine	//thrace
+category			peasant_revolt 
+chance				0
+description			Byzantine
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pictones	//gauls
+category			peasant_revolt 
+chance				0
+description			Pictones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Aedui		//gauls
+category			peasant_revolt 
+chance				0
+description			Aedui
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Colchians	//Armenia
+category			peasant_revolt 
+chance				0
+description			Colchians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Medes		//Parthia
+category			peasant_revolt 
+chance				0
+description			Medes
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Insubres	//gauls
+category			peasant_revolt 
+chance				0
+description			Insubres
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Vocontii	//gauls
+category			peasant_revolt 
+chance				0
+description			Vocontii
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Breuci		//illyria
+category			peasant_revolt 
+chance				0
+description			Breuci
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Odrysae		//thrace
+category			peasant_revolt 
+chance				3
+description			Odrysae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Iberians	//Spain
+category			peasant_revolt 
+chance				3
+description			Iberians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Delmatae		//illyria
+category			peasant_revolt 
+chance				0
+description			Delmatae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Volcae		//gauls
+category			peasant_revolt 
+chance				0
+description			Volcae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Ligurians	//gauls
+category			peasant_revolt 
+chance				0
+description			Ligurians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Paphlagonians	//Pontus
+category			peasant_revolt 
+chance				0
+description			Paphlagonians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Paionians	//Macedon
+category			peasant_revolt 
+chance				0
+description			Paionians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Etruscans	//romans
+category			peasant_revolt 
+chance				0
+description			Etruscans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Umbrians	//romans
+category			peasant_revolt 
+chance				0
+description			Umbrians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Beronicensis	//carthage
+category			peasant_revolt 
+chance				0
+description			Beronicensis
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Latins		//Romans
+category			peasant_revolt 
+chance				0
+description			Latins
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Edones		//Macedon
+category			peasant_revolt 
+chance				0
+description			Edones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sithones	//Macedon
+category			peasant_revolt 
+chance				0
+description			Sithones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Bithynians	//thrace
+category			peasant_revolt 
+chance				0
+description			Bithynians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Galatians	//Gauls
+category			peasant_revolt 
+chance				0
+description			Galatians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cappadocians	//Pontus
+category			peasant_revolt 
+chance				0
+description			Cappadocians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Epirots		//Macedon
+category			peasant_revolt 
+chance				0
+description			Epirots
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Calabrians	//romans_brutii
+category			peasant_revolt 
+chance				0
+description			Calabrians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Campanians 	//romans_scipii
+category			peasant_revolt 
+chance				0
+description			Campanians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Syrians		//Seleucid
+category			peasant_revolt 
+chance				0
+description			Syrians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lesbians	//Macedon
+category			peasant_revolt 
+chance				0
+description			Lesbians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cilicians	//Seleucid
+category			peasant_revolt 
+chance				0
+description			Cilicians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Thessalians	//Macedon
+category			peasant_revolt 
+chance				0
+description			Thessalians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lucanians	//romans_brutii
+category			peasant_revolt 
+chance				3
+description			Lucanians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Ionians		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Ionians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Aetolians	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Aetolians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Athenians	//greek_cities
+category			peasant_revolt 
+chance				0					
+description			Athenians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Elamites	//Parthia
+category			peasant_revolt 
+chance				0
+description			Elamites
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Achaeans	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Achaeans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lycians		//Seleucid
+category			peasant_revolt 
+chance				0
+description			Lycians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sicani		//Carthage
+category			peasant_revolt 
+chance				0
+description			Sicani
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Moors		//numidia
+category			peasant_revolt 
+chance				0
+description			Moors
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Palmyrans	//parthia
+category			peasant_revolt 
+chance				0
+description			Palmyrans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cypriots	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Cypriots
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Phoenicians	//carthage
+category			peasant_revolt 
+chance				0
+description			Phoenicians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Syracusans	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Syracusans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Helots		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Helots
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Poeni		//Carthage
+category			peasant_revolt 
+chance				0
+description			Poeni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Rhodians	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Rhodians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Nabataeans	//parthia
+category			peasant_revolt 
+chance				3
+description			Nabataeans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cretans		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Cretans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Judaeans	//carthage
+category			peasant_revolt 
+chance				6
+description			Judaeans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Gaetuli		//numidia
+category			peasant_revolt 
+chance				3
+description			Gaetuli
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Libyans		//egypt
+category			peasant_revolt 
+chance				0					
+description			Libyans
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Illyrians		//macedon
+category			peasant_revolt 
+chance				3
+description			Illyrians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Massaliote		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Massaliote
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tarantine		//greek_cities
+category			peasant_revolt
+chance				0
+description			Tarantine
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lugians		//Germans
+category			peasant_revolt 
+chance				0
+description			Lugians
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Mamertine		//Romans
+category			peasant_revolt 
+chance				0
+description			Mamertine
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			SardoPunic		//Carthage
+category			peasant_revolt
+chance				0
+description			SardoPunic
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Massylian		//numidia
+category			peasant_revolt
+chance				0
+description			Massylian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Musulamian		//numidia
+category			peasant_revolt
+chance				0
+description			Musulamian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Massaesylian		//numidia
+category			peasant_revolt
+chance				0
+description			Massaesylian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Mauretanian		//numidia
+category			peasant_revolt
+chance				0
+description			Mauretanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Nigritae		//numidia
+category			peasant_revolt
+chance				0
+description			Nigritae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Troglodytian		//numidia
+category			peasant_revolt
+chance				0
+description			Troglodytian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Liby_Phoenician		//Carthage
+category			peasant_revolt
+chance				0
+description			Liby_Phoenician
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Garamantian		//numidia
+category			peasant_revolt
+chance				0
+description			Garamantian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Nasamones		//numidia
+category			peasant_revolt
+chance				0
+description			Nasamones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Agisymban		//numidia
+category			peasant_revolt
+chance				0
+description			Agisymban
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Emporiote		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Emporiote
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Hemeroskopeiote		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Hemeroskopeiote
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Turdetanian	//Spain
+category			peasant_revolt 
+chance				0
+description			Turdetanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Celtiberian	//Spain
+category			peasant_revolt 
+chance				0
+description			Celtiberian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cantabrian	//Spain
+category			peasant_revolt 
+chance				0
+description			Cantabrian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Asturian	//Spain
+category			peasant_revolt 
+chance				0
+description			Asturian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lusitanian	//Spain
+category			peasant_revolt 
+chance				0
+description			Lusitanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Histrian		//dacia
+category			peasant_revolt 
+chance				0
+description			Histrian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Libernian		//dacia
+category			peasant_revolt 
+chance				0
+description			Libernian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Daorsian		//dacia
+category			peasant_revolt 
+chance				0
+description			Daorsian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tauriscian		//gauls
+category			peasant_revolt 
+chance				0
+description			Tauriscian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Eraviscian		//gauls
+category			peasant_revolt 
+chance				0
+description			Eraviscian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Dardanian		//thrace
+category			peasant_revolt 
+chance				3
+description			Dardanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Daci		//dacia
+category			peasant_revolt 
+chance				0
+description			Daci
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Getae		//dacia
+category			peasant_revolt 
+chance				0
+description			Getae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Triballian		//thrace
+category			peasant_revolt 
+chance				3
+description			Triballian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tyle		//gauls
+category			peasant_revolt 
+chance				3
+description			Tyle
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Moesian		//thrace
+category			peasant_revolt 
+chance				3
+description			Moesian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Emathian		//Macedon
+category			peasant_revolt 
+chance				0
+description			Emathian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pelagonian		//Macedon
+category			peasant_revolt 
+chance				0
+description			Pelagonian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Boeotian	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Boeotian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Euboean	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Euboean
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Arcadian	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Arcadian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Taurican	//Scythians
+category			peasant_revolt 
+chance				0
+description			Taurican
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Harpian	//dacia
+category			peasant_revolt 
+chance				0
+description			Harpian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Agathyrsian	//Scythians
+category			peasant_revolt 
+chance				0
+description			Agathyrsian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Siraces	//Scythians
+category			peasant_revolt 
+chance				0
+description			Siraces
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Hunni		//Scythians
+category			peasant_revolt 
+chance				0
+description			Hunni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Asii		//Scythians
+category			peasant_revolt 
+chance				0
+description			Asii
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Issedones		//Scythians
+category			peasant_revolt 
+chance				0
+description			Issedones
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Massagetae		//Parthia
+category			peasant_revolt 
+chance				0
+description			Massagetae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tocharian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Tocharian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Khotanese		//Parthia
+category			peasant_revolt 
+chance				0
+description			Khotanese
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Seres	//Parthia
+category			peasant_revolt 
+chance				0
+description			Seres
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Asmiraian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Asmiraian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sogdian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Sogdian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Baktrian		//seleucids
+category			peasant_revolt 
+chance				0
+description			Baktrian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Chorasmian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Chorasmian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Amardian		//Scythians
+category			peasant_revolt 
+chance				0
+description			Amardian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Dahae		//Parthia
+category			peasant_revolt 
+chance				0
+description			Dahae
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Margian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Margian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cyrenaican	//greek_cities
+category			peasant_revolt 
+chance				0
+description			Cyrenaican
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Egyptian	//egyptian
+category			peasant_revolt 
+chance				0
+description			Egyptian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Nubian	//egyptian
+category			peasant_revolt 
+chance				0
+description			Nubian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Blemmyan	//egyptian
+category			peasant_revolt 
+chance				0
+description			Blemmyan
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Meroitian	//egyptian
+category			peasant_revolt 
+chance				0
+description			Meroitian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Daamat	//egyptian
+category			peasant_revolt 
+chance				0
+description			Daamat
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Macrobian	//egyptian
+category			peasant_revolt 
+chance				0
+description			Macrobian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Aksumite	//egyptian
+category			peasant_revolt 
+chance				0
+description			Aksumite
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cyenean	//egyptian
+category			peasant_revolt 
+chance				0
+description			Cyenean
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sabaean	//parthia
+category			peasant_revolt 
+chance				0
+description			Sabaean
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Hadhramut	//parthia
+category			peasant_revolt 
+chance				0
+description			Hadhramut
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lihyan	//parthia
+category			peasant_revolt 
+chance				0
+description			Lihyan
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Maka	//parthia
+category			peasant_revolt 
+chance				0
+description			Maka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Gerrhan	//parthia
+category			peasant_revolt 
+chance				0
+description			Gerrhan
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Qedarite	//parthia
+category			peasant_revolt 
+chance				0
+description			Qedarite
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Decapoliote		//seleucids
+category			peasant_revolt 
+chance				0
+description			Decapoliote
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Assyrian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Assyrian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Babylonian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Babylonian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sumerian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Sumerian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pergamene	//thrace
+category			peasant_revolt 
+chance				0
+description			Pergamene
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Carian		//greek_cities
+category			peasant_revolt 
+chance				0
+description			Carian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pamphylian		//Seleucid
+category			peasant_revolt 
+chance				0
+description			Pamphylian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lydian		//Seleucid
+category			peasant_revolt 
+chance				0
+description			Lydian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Phrygian		//pontus
+category			peasant_revolt 
+chance				0
+description			Phrygian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Lycaonian		//pontus
+category			peasant_revolt 
+chance				0
+description			Lycaonian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Trapezuntine		//pontus
+category			peasant_revolt 
+chance				0
+description			Trapezuntine
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Suppani	//Armenia
+category			peasant_revolt 
+chance				0
+description			Suppani
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Urartian	//Armenia
+category			peasant_revolt 
+chance				0
+description			Urartian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Alarodian	//Armenia
+category			peasant_revolt 
+chance				0
+description			Alarodian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Iberian	//Armenia
+category			peasant_revolt 
+chance				0
+description			Iberian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Albanian	//Armenia
+category			peasant_revolt 
+chance				0
+description			Albanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Atropatene		//Parthia
+category			peasant_revolt 
+chance				0
+description			Atropatene
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Persian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Persian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Parthian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Parthian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Parni		//Parthia
+category			peasant_revolt 
+chance				0
+description			Parni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Arian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Arian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Carmanian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Carmanian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Arachosian		//Parthia
+category			peasant_revolt 
+chance				0
+description			Arachosian
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Paropamisidaen		//Parthia
+category			peasant_revolt 
+chance				0
+description			Paropamisidaen
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Gandhara		//Indian
+category			peasant_revolt 
+chance				0
+description			Gandhara
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Asvaka		//Indian
+category			peasant_revolt 
+chance				0
+description			Asvaka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Taxilan		//Indian
+category			peasant_revolt 
+chance				0
+description			Taxilan
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Indo_Greek		//Indian
+category			peasant_revolt 
+chance				0
+description			Indo_Greek
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Purus		//Indian
+category			peasant_revolt 
+chance				0
+description			Purus
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Yaudheya		//Indian
+category			peasant_revolt 
+chance				0
+description			Yaudheya
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sivi		//Indian
+category			peasant_revolt 
+chance				0
+description			Sivi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sauviran		//Indian
+category			peasant_revolt 
+chance				0
+description			Sauviran
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Patalene		//Indian
+category			peasant_revolt 
+chance				0
+description			Patalene
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kaccha		//Indian
+category			peasant_revolt 
+chance				0
+description			Kaccha
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Saurastra		//Indian
+category			peasant_revolt 
+chance				0
+description			Saurastra
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Avanti		//Indian
+category			peasant_revolt 
+chance				0
+description			Avanti
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Aparanta		//Indian
+category			peasant_revolt 
+chance				0
+description			Aparanta
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Mulaka		//Indian
+category			peasant_revolt 
+chance				0
+description			Mulaka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Dandaka		//Indian
+category			peasant_revolt 
+chance				0
+description			Dandaka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Matsya		//Indian
+category			peasant_revolt 
+chance				0
+description			Matsya
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Shurasena		//Indian
+category			peasant_revolt 
+chance				0
+description			Shurasena
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kuru		//Indian
+category			peasant_revolt 
+chance				0
+description			Kuru
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pancala		//Indian
+category			peasant_revolt 
+chance				0
+description			Pancala
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Cedi		//Indian
+category			peasant_revolt 
+chance				0
+description			Cedi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kosola		//Indian
+category			peasant_revolt 
+chance				0
+description			Kosola
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kasi		//Indian
+category			peasant_revolt 
+chance				0
+description			Kasi
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Malla		//Indian
+category			peasant_revolt 
+chance				0
+description			Malla
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Vidarbha		//Indian
+category			peasant_revolt 
+chance				0
+description			Vidarbha
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pulinda		//Indian
+category			peasant_revolt 
+chance				0
+description			Pulinda
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Asmaka		//Indian
+category			peasant_revolt 
+chance				0
+description			Asmaka
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Savara		//Indian
+category			peasant_revolt 
+chance				0
+description			Savara
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Andhra		//Indian
+category			peasant_revolt 
+chance				0
+description			Andhra
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kalinga		//Indian
+category			peasant_revolt 
+chance				0
+description			Kalinga
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Suhma		//Indian
+category			peasant_revolt 
+chance				0
+description			Suhma
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Vrji		//Indian
+category			peasant_revolt 
+chance				0
+description			Vrji
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Magadha		//Indian
+category			peasant_revolt 
+chance				0
+description			Magadha
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Anga		//Indian
+category			peasant_revolt 
+chance				0
+description			Anga
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Radha		//Indian
+category			peasant_revolt 
+chance				0
+description			Radha
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Vanga		//Indian
+category			peasant_revolt 
+chance				0
+description			Vanga
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pundra		//Indian
+category			peasant_revolt 
+chance				0
+description			Pundra
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Samatata		//Indian
+category			peasant_revolt 
+chance				0
+description			Samatata
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kuntala		//Indian
+category			peasant_revolt 
+chance				0
+description			Kuntala
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Kamarupa		//Indian
+category			peasant_revolt 
+chance				0
+description			Kamarupa
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Sattyaputra		//Indian
+category			peasant_revolt 
+chance				0
+description			Sattyaputra
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Mahisha		//Indian
+category			peasant_revolt 
+chance				0
+description			Mahisha
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Chera		//Indian
+category			peasant_revolt 
+chance				0
+description			Chera
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Chola		//Indian
+category			peasant_revolt 
+chance				0
+description			Chola
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Pandya		//Indian
+category			peasant_revolt 
+chance				0
+description			Pandya
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			Tamraparni		//Indian
+category			peasant_revolt 
+chance				0
+description			Tamraparni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type 			TerraIncognita		//numidia
+category			peasant_revolt
+chance				8
+description			TerraIncognita
+unit				western peasant alemanni
+
+;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;				
+;non region			based
+;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+rebel_type			gladiator_uprising
+category			gladiator_revolt
+chance				100
+description			gladiator_uprising
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type			brigands
+category			brigands
+chance				50
+description			brigands
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+unit				western peasant alemanni
+
+rebel_type			pirates
+category			pirates
+chance				50
+description			pirates
+unit				naval boats
+

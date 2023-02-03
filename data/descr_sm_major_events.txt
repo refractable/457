@@ -1,0 +1,139 @@
+;;triggers will only be checked at the end of each round (including the start of the game)
+
+;;to set triggers at game start in the descr_strat, do:
+; trigger_status <trigger name>, true
+;;to set it for all factions. If it's not a global event, you can also do
+; trigger_status <trigger name>, <faction_name>, true
+;;to set it for individual factions
+
+;;if you want to enable/disable checking a particular event, do
+; set_major_event_enabled <trigger name>, false
+
+;;also note that the message uses the marian reforms message as a base, in case you were wondering
+
+"major events":
+[
+    	"miaphysite_heresy":
+    	{
+        	"affects": [ "empire_east", "sassanids", ],
+        	"global": false,
+        	"priority": 100,
+        	"activation":
+        {
+            "trigger conditions": "major_event_scripts/return_true.txt",
+
+            "use big panel": false,
+
+            	"title":    "miaphysite_heresy",
+            	"body":        "miaphysite_heresy_body",
+
+            	"image":    "christianity_dominant",
+        	},
+        	"deactivation":
+        	{
+        	},
+    	},
+	"marian_reforms":
+	{
+		;;which factions should get notifications about this
+		"affects": [ "all", ],
+		
+		;;should this event be tracked globally or individually for each affected faction
+		;;(if false, notifications will only be sent to the faction that meets the condition)
+		"global": true,
+
+		;;when general units are assigned to this event, should it take priority over general units assigned to other events with lower priorities
+		;;the default general units have a priority of 0, so make sure to set that
+		"priority": 100,
+	
+		;;settings for when the event is activated
+		"activation":
+		{
+			;;script for the trigger conditions for this event
+			;;NOTE: if individual is true, this will be triggered from a faction scope, otherwise it won't be scoped at all
+			
+			;;DISABLED FOR BI, references the resource "italy", which doesn't exist
+			;;"trigger conditions": "major_event_scripts/marian_reforms_trigger.txt",
+			
+			;;when this triggers, switch these units to those units
+			"unit switches":
+			{
+			},
+			
+			;;should we also use a large panel in addition to a news message
+			;;also triggers the near victory music
+			"use big panel": true,
+			
+			;;title and body, as defined in text/major_events.txt
+			"title":	"SMT_A_NEW_MAN__GAIUS_MARIUS_TITLE",
+			"body":		"SMT_A_NEW_MAN__GAIUS_MARIUS_BODY",
+			
+			;;image, as redirected per-culture in ui/<culture name>/eventpics
+			"image":	"marian_reform",
+		},
+		;;settings for when the event is deactivated (needs to be activated first ofc)
+		"deactivation":
+		{
+		},
+	},
+	"currency_crisis":
+	{
+		;;which factions should get notifications about this
+		"affects": [ "roman", "-romano_british", "-slave", ], ;;all romans (but not the romano british or slaves) get the currency crisis
+		
+		;;should this event be tracked globally or individually for each affected faction
+		;;(if false, notifications will only be sent to the faction that meets the condition)
+		"global": false,
+
+		;;when general units are assigned to this event, should it take priority over general units assigned to other events with lower priorities
+		;;the default general units have a priority of 0, so make sure to set that
+		"priority": 100,
+	
+		;;settings for when the event is activated
+		"activation":
+		{
+			;;script for the trigger conditions for this event
+			;;NOTE: if individual is true, this will be triggered from a faction scope, otherwise it won't be scoped at all
+			"trigger conditions": "major_event_scripts/currency_crisis_start_trigger.txt",
+			
+			;;when this triggers, switch these units to those units
+			"unit switches":
+			{
+			},
+			
+			;;should we also use a large panel in addition to a news message
+			;;also triggers the near victory music
+			"use big panel": false,
+			
+			;;title and body, as defined in text/major_events.txt
+			"title":	"roman_empire_unstable_currency",
+			"body":		"roman_empire_unstable_currency_body",
+			
+			;;image, as redirected per-culture in ui/<culture name>/eventpics
+			"image":	"messenger",
+		},
+		;;settings for when the event is deactivated (needs to be activated first ofc)
+		"deactivation":
+		{
+			;;script for the trigger conditions for this event
+			;;NOTE: if individual is true, this will be triggered from a faction scope, otherwise it won't be scoped at all
+			"trigger conditions": "major_event_scripts/currency_crisis_end_trigger.txt",
+			
+			;;when this triggers, switch these units to those units
+			"unit switches":
+			{
+			},
+			
+			;;should we also use a large panel in addition to a news message
+			;;also triggers the near victory music
+			"use big panel": true,
+			
+			;;title and body, as defined in text/major_events.txt
+			"title":	"roman_empire_stable_currency",
+			"body":		"roman_empire_stable_currency_body",
+			
+			;;image, as redirected per-culture in ui/<culture name>/eventpics
+			"image":	"currency_crisis_resolved", ;;use the richest faction artwork for this, seems nicer
+		},
+	},
+],

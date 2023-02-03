@@ -1,0 +1,16 @@
+{
+	"Description": "[h1]Description[\/h1]\nThe year is 457 AD. After the death of Avitus, the Western Roman Empire had no Emperor. The Eastern Emperor, Marcian was unable to name a successor as he died in late January of that year. Leo, who was his successor had no intention of naming anyone as Western Emperor, however he named both Majorian and Ricimer as Magister Militum. However, an invasion by the Alemmani into Italy was intercepted and defeated by a Comes sent by Majorian. \n\nThe victory was celebrated as Majorian's, and he was proclaimed Emperor by his troops on April 1st, 6 miles outside of Ravenna, the capital of the Western Roman Empire.. After the death of Attila in 453, the Hunnic Empire began to collapse. Under the leadership of Ardaric, King of the Gepids, the Huns were defeated at the Battle of Nedao in 454, ending Hunnic rule over their vassals.\n\nIn Britannia, the abandoned Roman colony struggles to defend its territory from the Saxons, Jutes, and Angles who they invited as foederati to fight off the invading northern tribes. The warlords and leaders of the Romano-Britons, Riothamus and Ambrosius Aurelianus who would later inspire the great Arthurian Legends.\n\n\n[h1]Features[\/h1]\n[list]\n[*]Features the Barbarus Mundi map made by Lyrecryer, with new textures made by Kirsi\n[*]New units with variation, using the 457AD Warband assets\n[*]Accurate family trees and starting positions\n[*]New faction icons and banners for all of the factions\n[*]Added the Hephthalites\n[*]Unit costs and stats have been tweaked to make the battles last longer\n[*]Added new sects of Christianity, the Arians and the Miaphysites\n[*]Added Total War: Attila soundtrack\n[*]Added Ganim's UI and Enhanced Sounds mods\n[*]Added 4TPY\n[\/list]\n\n\n[h1]Notes[\/h1]\nThis is in beta testing, thank you.\nPlease notify us through the 457AD Discord if there are any bugs you come across. https:\/\/discord.gg\/NU8YqfKNTv\nAlso note that many things are temporary for the time being (i.e the Barbarus Mundi map and the vanilla units), with plans to replace them later on.\nLast note to remember that not all factions will have their units just yet, as it is a time-consuming process.\n\n\n[h1]Credits[\/h1]\nCredit to Richard Beddow for the Total War Attila soundtrack\nCredit to Lyrecryer for his Barbarus Mundi map\nCredit to Dagovax for his 4TPY tool, which made 4TPY possible for this mod\nCredit to Kirsi for his map textures\nCredit to Ganim for his Enhanced Sounds and UI mods\nSpecial thanks to the RIS team for helping me and giving me advice on developing the mod!",
+	"Mod Name": "457 AD: The Last Years of The West (ALPHA)",
+	"Preview Image": "previewimage.png",
+	"Supports Alex": false,
+	"Supports BI": true,
+	"Supports Rome": false,
+	"Tags": [
+		"Campaign",
+		"Historic Accuracy",
+		"Map",
+		"Total Overhaul"
+	],
+	"Visibility": 2,
+	"Workshop ID": 2888329713
+}
