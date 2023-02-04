@@ -1022,7 +1022,7 @@ stat_mental      15, normal, highly_trained
 stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        1, 900, 450, 70, 110, 680
+stat_cost        1, 825, 450, 70, 110, 680
 ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
@@ -1061,7 +1061,7 @@ stat_mental      15, disciplined, highly_trained
 stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        1, 800, 450, 70, 110, 680
+stat_cost        1, 900, 450, 70, 110, 680
 ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
@@ -4590,34 +4590,6 @@ stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 350, 40, 60, 380
 ownership        slave
- 
-type             legio lanciarii
-dictionary       legio_lanciarii      ; Legio Lanciarii
-category         infantry
-class            spearmen
-voice_type       Medium_1
-voice_indexes    0 1 2
-soldier          legio_lanciarii, 40, 0, 1
-officer          roman_standard
-attributes       sea_faring, hide_forest, can_sap, hardy
-formation        1, 1, 2, 2, 5, square
-stat_health      1, 0
-stat_pri         10, 2, javelin, 50, 3, thrown, archery, piercing, spear, 25 ,1
-stat_pri_attr    prec, thrown
-stat_sec         6, 2, no, 0, 0, melee, blade, piercing, spear, 25 ,0.73
-stat_sec_attr    spear, spear_bonus_8
-stat_pri_armour  5, 8, 6, metal
-stat_sec_armour  0, 3, flesh
-stat_heat        3
-stat_ground      1, 0, 0, 0
-stat_mental      15, normal, trained
-stat_charge_dist 30
-stat_fire_delay  0
-stat_food        60, 300
-stat_cost        1, 600, 400, 50, 80, 480
-ownership        empire_east, empire_east_rebels, bosporan_kingdom
-ethnicity empire_east, Thracia
-ethnicity empire_east_rebels, Thracia
 
 type             foederati infantry
 dictionary       foederati_infantry      ; Foederati Infantry
@@ -4744,62 +4716,7 @@ stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 400, 50, 70, 470
 ownership        slave
- 
-type             hippo toxotai
-dictionary       hippo_toxotai      ; Hippo-toxotai
-category         cavalry
-class            missile
-voice_type       Medium_1
-soldier          hippo_toxotai, 27, 0, 1
-mount            light horse
-mount_effect     elephant -4, camel -4
-attributes       sea_faring, hide_forest, hardy
-formation        3, 4, 6, 6, 3, square
-stat_health      1, 0
-stat_pri         8, 2, arrow, 120, 40, missile, archery, piercing, none, 25 ,1
-stat_pri_attr    no
-stat_sec         5, 4, no, 0, 0, melee, simple, piercing, sword, 25 ,1
-stat_sec_attr    no
-stat_pri_armour  6, 7, 0, metal
-stat_sec_armour  0, 2, flesh
-stat_heat        3
-stat_ground      0, 0, -6, 0
-stat_mental      15, normal, trained
-stat_charge_dist 40
-stat_fire_delay  0
-stat_food        60, 300
-stat_cost        1, 800, 500, 70, 110, 680
-ownership        empire_east, empire_east_rebels, bosporan_kingdom
-ethnicity empire_east, Thracia
-ethnicity empire_east_rebels, Thracia
 
-type             orthodox priest
-dictionary       orthodox_priest      ; Orthodox Priest
-category         infantry
-class            light
-voice_type       Light_1
-soldier          orthodox_priest, 12, 0, 0.8
-attributes       sea_faring, hide_forest, druid, hardy
-formation        1.2, 1.2, 2.4, 2.4, 3, horde
-stat_health      1, 0
-stat_pri         1, 0, no, 0, 0, melee, simple, piercing, knife, 25 ,1
-stat_pri_attr    no
-stat_sec         0, 0, no, 0, 0, no, no, no, none, 25 ,1
-stat_sec_attr    no
-stat_pri_armour  0, 3, 0, flesh
-stat_sec_armour  0, 0, flesh
-stat_heat        1
-stat_ground      1, 0, 0, 0
-stat_mental      13, normal, untrained
-stat_charge_dist 30
-stat_fire_delay  0
-stat_food        60, 300
-stat_cost        2, 300, 250, 20, 30, 190
-ownership        empire_east, empire_east_rebels, bosporan_kingdom
-ethnicity empire_east, Thracia
-ethnicity empire_east_rebels, Thracia
- 
- 
 type             roman priest
 dictionary       roman_priest      ; Catholic Priest
 category         infantry

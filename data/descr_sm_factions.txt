@@ -2244,7 +2244,7 @@
 			"rebel logo index": 19, ;22,
 
 			;;flag models to be used on the strat map when a settlement is unoccupied
-			"strat symbol model":       "data/models_strat/symbol_alemanni.CAS",
+			"strat symbol model":       "data/models_strat/symbol_thuringians.CAS",
 			"strat rebel symbol model": "data/models_strat/symbol_barb_rebel.CAS",
 		},
 

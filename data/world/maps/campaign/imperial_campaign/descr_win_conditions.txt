@@ -77,3 +77,7 @@ take_regions 100
 bosporan_kingdom
 hold_regions Byzantion Mutina Iazygiana
 take_regions 100
+
+thuringians
+hold_regions Brocomagus Aquincum Roma
+take_regions 100

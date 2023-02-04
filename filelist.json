@@ -28,6 +28,14 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/457ad\/bosporan_kingdom\/pedes_comitatenses1.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/457ad\/bosporan_kingdom\/pedes_comitatenses2.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/457ad\/goths\/gothic_freemen1.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -1989,7 +1997,7 @@
 	},
 	{
 		"filename": "data\/descr_banners.txt",
-		"checksum": 3231592367
+		"checksum": 3382869254
 	},
 	{
 		"filename": "data\/descr_beliefs.txt",
@@ -2001,7 +2009,7 @@
 	},
 	{
 		"filename": "data\/descr_character.txt",
-		"checksum": 1264223459
+		"checksum": 456390540
 	},
 	{
 		"filename": "data\/descr_climates.txt",
@@ -2033,31 +2041,35 @@
 	},
 	{
 		"filename": "data\/descr_namelists.txt",
-		"checksum": 5852118
+		"checksum": 1758577592
 	},
 	{
 		"filename": "data\/descr_names.txt",
-		"checksum": 289924465
+		"checksum": 2907938401
 	},
 	{
 		"filename": "data\/descr_names_lookup.txt",
-		"checksum": 2944167690
+		"checksum": 2668461590
 	},
 	{
 		"filename": "data\/descr_rebel_factions.txt",
 		"checksum": 1386064549
 	},
 	{
+		"filename": "data\/descr_settlement_plan.txt",
+		"checksum": 2737200764
+	},
+	{
 		"filename": "data\/descr_sm_faction_logos.txt",
-		"checksum": 997058505
+		"checksum": 876718348
 	},
 	{
 		"filename": "data\/descr_sm_factions.txt",
-		"checksum": 3009922980
+		"checksum": 301690522
 	},
 	{
 		"filename": "data\/descr_sm_factions_difficulty.json",
-		"checksum": 3756894855
+		"checksum": 1600822805
 	},
 	{
 		"filename": "data\/descr_sm_major_events.txt",
@@ -2073,7 +2085,7 @@
 	},
 	{
 		"filename": "data\/descr_standards.txt",
-		"checksum": 337112430
+		"checksum": 2053389215
 	},
 	{
 		"filename": "data\/descr_unit_variation.txt",
@@ -2097,7 +2109,7 @@
 	},
 	{
 		"filename": "data\/export_descr_buildings.txt",
-		"checksum": 1105084293
+		"checksum": 721451560
 	},
 	{
 		"filename": "data\/export_descr_character_traits.txt",
@@ -2105,7 +2117,7 @@
 	},
 	{
 		"filename": "data\/export_descr_unit.txt",
-		"checksum": 2086701990
+		"checksum": 4088458286
 	},
 	{
 		"filename": "data\/export_descr_unit_enums.txt",
@@ -2209,6 +2221,22 @@
 	},
 	{
 		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_berbers_select.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_bosporan_kingdom.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_bosporan_kingdom_grey.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_bosporan_kingdom_roll.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_bosporan_kingdom_select.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -2500,6 +2528,22 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_thuringians.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_thuringians_grey.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_thuringians_roll.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_thuringians_select.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_vandals.tga",
 		"checksum": "Blacklisted"
 	},
@@ -2540,6 +2584,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models\/data - shortcut.lnk",
+		"checksum": 3331607502
+	},
+	{
 		"filename": "data\/models\/textures\/standard_alemanni.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -2553,6 +2601,14 @@
 	},
 	{
 		"filename": "data\/models\/textures\/standard_berbers_ally.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models\/textures\/standard_bosporan_kingdom.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models\/textures\/standard_bosporan_kingdom_ally.tga.dds",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -2692,6 +2748,14 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models\/textures\/standard_thuringians.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models\/textures\/standard_thuringians_ally.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models\/textures\/standard_vandals.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -2784,6 +2848,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models_strat\/symbol_thuringians.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models_strat\/symbol_vandals.cas",
 		"checksum": "Blacklisted"
 	},
@@ -2805,6 +2873,10 @@
 	},
 	{
 		"filename": "data\/models_strat\/textures\/#banner_symbol_berbers_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_bosporan_kingdom.tga.dds",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -2944,6 +3016,14 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_thuringians.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_thuringians_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models_strat\/textures\/#banner_symbol_vandals.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -2988,6 +3068,10 @@
 		"checksum": 2621596632
 	},
 	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_battle_notifications.txt",
+		"checksum": 1351395485
+	},
+	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_building.txt",
 		"checksum": 3771603275
 	},
@@ -3004,6 +3088,10 @@
 		"checksum": 1589491535
 	},
 	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_diplomacy_comment.txt",
+		"checksum": 1529930786
+	},
+	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_generic_unit_anims.txt",
 		"checksum": 2854787615
 	},
@@ -3012,12 +3100,76 @@
 		"checksum": 3247629473
 	},
 	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_prebattle_speech.txt",
+		"checksum": 539615670
+	},
+	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_static_music.txt",
 		"checksum": 1999820627
 	},
 	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_anims.txt",
+		"checksum": 3968774569
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_berserk.txt",
+		"checksum": 2040571273
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_celebrate.txt",
+		"checksum": 1613729076
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_charge.txt",
+		"checksum": 3181745635
+	},
+	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_collide.txt",
 		"checksum": 1558724861
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_confirm.txt",
+		"checksum": 1855095528
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_confirm_single.txt",
+		"checksum": 1614338437
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_druid_chant.txt",
+		"checksum": 3144011200
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_fighting.txt",
+		"checksum": 99266264
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_idle.txt",
+		"checksum": 2002774765
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_retreating.txt",
+		"checksum": 2177745194
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_routing.txt",
+		"checksum": 4078653815
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_screeching_women.txt",
+		"checksum": 3386402032
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_taunting.txt",
+		"checksum": 4134204605
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_voice.txt",
+		"checksum": 1719046600
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_warcry.txt",
+		"checksum": 3337327473
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_war_horns.txt",
@@ -3046,6 +3198,38 @@
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_roman_unit_anims.txt",
 		"checksum": 566831639
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_ai_unit_voices.txt",
+		"checksum": 3195667249
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_barbarian_general_unit_voices.txt",
+		"checksum": 275218482
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_barbarian_unit_voices.txt",
+		"checksum": 4055693312
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_eastern_general_unit_voices.txt",
+		"checksum": 2994546631
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_eastern_unit_voices.txt",
+		"checksum": 1594662464
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_female_unit_voices.txt",
+		"checksum": 3006007874
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_roman_general_unit_voices.txt",
+		"checksum": 2655427040
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_roman_unit_voices.txt",
+		"checksum": 1231282701
 	},
 	{
 		"filename": "data\/sounds\/descrs\/descr_bank_sounds.txt",
@@ -12197,11 +12381,15 @@
 	},
 	{
 		"filename": "data\/text\/expanded_bi.txt",
-		"checksum": 699521552
+		"checksum": 3763442040
 	},
 	{
 		"filename": "data\/text\/export_advice.txt",
 		"checksum": 2506701768
+	},
+	{
+		"filename": "data\/text\/export_buildings.txt",
+		"checksum": 1694144899
 	},
 	{
 		"filename": "data\/text\/export_units.txt",
@@ -12217,7 +12405,7 @@
 	},
 	{
 		"filename": "data\/text\/imperial_campaign_regions_and_settlement_names.txt",
-		"checksum": 1657099188
+		"checksum": 651706352
 	},
 	{
 		"filename": "data\/text\/imperial_campaign_regions_and_settlement_names_mac_de.txt",
@@ -12249,7 +12437,7 @@
 	},
 	{
 		"filename": "data\/text\/names.txt",
-		"checksum": 2263950042
+		"checksum": 3290248681
 	},
 	{
 		"filename": "data\/text\/rebel_faction_descr.txt",
@@ -12420,6 +12608,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/ui\/faction_icons\/bosporan_kingdom.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/ui\/faction_icons\/burgundii.tga",
 		"checksum": "Blacklisted"
 	},
@@ -12492,6 +12684,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/ui\/faction_icons\/thuringians.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/ui\/faction_icons\/vandals.tga",
 		"checksum": "Blacklisted"
 	},
@@ -12501,6 +12697,230 @@
 	},
 	{
 		"filename": "data\/ui\/roman\/interface\/shared_new_0.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/assassin_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/carriage_ballistae_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/comitatenses_first_cohort_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/comitatenses_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/comitatensis_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/diplomat_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/dromedarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eastern_archer_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_ala_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_bucellarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_cataphractarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_clibanarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_dalmata_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_limitaneus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_promotus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/eques_sagittarus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/equites_auxilia_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/equites_catafractarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/equites_clibinarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/exculator_limitaneus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/funditor_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/gothic_freemen_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/hippo_toxotai_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/imperial_household_bodyguard_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/iuvenis_foederatus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/legio_lanciarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/limitanei_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/merchant_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/miles_foederatus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/naval_bireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/naval_corvus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/naval_decere_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/naval_quinquireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/naval_trireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/orthodox_priest_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/pedes_burgarius_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/pedes_comitatenses_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/pedes_limitaneus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/pedes_psuedocomitatenses_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/plumbatarii_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_ballistae_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_captain_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_crew_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_general_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_heavy_onager_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_onager_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_onagers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_repeating_ballistae_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/roman_scorpion_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/sagittarus_limitaneus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/sassanid_peasant_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/scholae_palatinae_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/spy_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/tiro_limitaneus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/vigilia_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/bosporan_kingdom\/western_archer_info.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -12924,6 +13344,98 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/ui\/unit_info\/thuringians\/alemanni_onager_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/alemanni_onagers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/alemanni_warhounds_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/assassin_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/barb_horde_peasants_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/burgundian_lancer_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/cavalry_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/chosen_archer_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/chosen_axemen_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/chosen_warlord_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/diplomat_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/golden_band_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/lombard_archers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/lombard_berserkers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/merchant_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/naval_boats_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/naval_large_boats_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/night_raiders_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/noble_cavalry_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/roman_onagers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/spear_warband_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/spy_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/thuringians\/western_peasant_alemanni_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/ui\/unit_info\/white_huns\/assassin_info.tga",
 		"checksum": "Blacklisted"
 	},
@@ -13057,6 +13569,222 @@
 	},
 	{
 		"filename": "data\/ui\/unit_info\/white_huns\/tribal_cavalry_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#carriage_ballistae.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#comitatenses.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#comitatenses_first_cohort.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#dromedarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eastern_archer.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_ala.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_bucellarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_cataphractarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_clibanarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_dalmata.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_limitaneus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_promotus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#eques_sagittarus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#equites_auxilia.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#equites_catafractarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#equites_clibinarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#exculator_limitaneus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#funditor.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#gothic_freemen.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#hippo_toxotai.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#imperial_household_bodyguard.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#iuvenis_foederatus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#legio_lanciarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#limitanei.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#miles_foederatus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#naval_bireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#naval_corvus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#naval_decere.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#naval_quinquireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#naval_trireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#orthodox_priest.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#pedes_burgarius.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#pedes_comitatenses.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#pedes_limitaneus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#pedes_psuedocomitatenses.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#plumbatarii.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_ballistae.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_captain.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_crew.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_general.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_heavy_onager.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_onagers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_repeating_ballistae.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#roman_scorpion.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#sagittarus_limitaneus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#sassanid_peasant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#scholae_palatinae.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#tiro_limitaneus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#vigilia.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/#western_archer.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/assassin.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/diplomat.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/merchant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/bosporan_kingdom\/spy.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -13488,6 +14216,94 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/ui\/units\/thuringians\/#alemanni_onager.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#alemanni_warhounds.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#barb_horde_peasants.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#barb_horde_spearman.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#burgundian_lancer.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#cavalry_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#chosen_archer_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#chosen_axemen_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#chosen_warlord_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#golden_band.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#lombard_archers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#lombard_berserkers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#naval_boats.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#naval_large_boats.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#night_raiders_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#noble_cavalry_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#spear_warband_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/#western_peasant_alemanni.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/assassin.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/diplomat.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/merchant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/thuringians\/spy.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/ui\/units\/white_huns\/#african_peasant.tga",
 		"checksum": "Blacklisted"
 	},
@@ -13825,7 +14641,7 @@
 	},
 	{
 		"filename": "data\/world\/maps\/base\/descr_regions.txt",
-		"checksum": 1954804014
+		"checksum": 3032083415
 	},
 	{
 		"filename": "data\/world\/maps\/base\/descr_regions_and_settlement_name_lookup.txt",
@@ -13837,7 +14653,7 @@
 	},
 	{
 		"filename": "data\/world\/maps\/base\/map.rwm",
-		"checksum": 2717722923
+		"checksum": 1648458724
 	},
 	{
 		"filename": "data\/world\/maps\/base\/map_climates.tga",
@@ -13913,15 +14729,19 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_strat.txt",
-		"checksum": 1701481568
+		"checksum": 1037598633
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_win_conditions.txt",
-		"checksum": 3111014068
+		"checksum": 3622449199
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/disasters.tga",
 		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/eastern_client_kingdoms.txt",
+		"checksum": 2744194532
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/feral_map.tga.dds",
@@ -13949,6 +14769,10 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_berbers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_bosporan_kingdom.tga",
 		"checksum": "Blacklisted"
 	},
 	{

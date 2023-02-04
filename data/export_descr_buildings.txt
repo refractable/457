@@ -368,8 +368,7 @@ building barracks
 				recruit "tiro limitaneus" 0 
 				recruit "pedes burgarius" 0 
 				recruit "pedes limitaneus" 0 
-				recruit "exculator limitaneus" 0
-				recruit "legio lanciarii"  0   
+				recruit "exculator limitaneus" 0  
 				recruit "iuvenis foederatus"  0
 				recruit "miles foederatus"  0
 				taxable_income_bonus bonus -8 
@@ -406,8 +405,7 @@ building barracks
 				recruit "steppe swordsmen vandal"  0   
 				recruit "runaway slave spearmen"  2 requires not factions { hun, }
 				recruit "gothic spearmen"  1 
-				recruit "gothic freemen" 0  
-				recruit "legio lanciarii"  0   
+				recruit "gothic freemen" 0    
 				recruit "coastal levies"  1    
 				recruit "tiro limitaneus" 0 
 				recruit "pedes burgarius" 0 
@@ -457,8 +455,7 @@ building barracks
 				recruit "gothic freemen" 0
 				recruit "runaway slave spearmen"  2 requires not factions { hun, }
 				recruit "gothic warriors"  0   
-				recruit "bosphoran infantry"  0   
-				recruit "legio lanciarii"  0   
+				recruit "bosphoran infantry"  0     
 				recruit "coastal levies"  1   
 				recruit "pedes comitatenses"  1  
 				recruit "pedes burgarius" 0     
@@ -511,8 +508,7 @@ building barracks
 				recruit "gothic freemen" 0   
 				recruit "runaway slave spearmen"  2 requires not factions { hun, }
 				recruit "gothic warriors"  1   
-				recruit "bosphoran infantry"  1   
-				recruit "legio lanciarii"  0   
+				recruit "bosphoran infantry"  1     
 				recruit "coastal levies"  1   
 				recruit "pedes psuedocomitatenses" 0 
 				recruit "pedes comitatenses"  1 
@@ -680,8 +676,7 @@ building equestrian
 				recruit "eques promotus"  0 
 				recruit "eques dalmata"  0 
 				recruit "eques sagittarus"  0    
-				recruit "dromedarii"  0	requires resource camels
-				recruit "hippo toxotai"  0     
+				recruit "dromedarii"  0	requires resource camels   
 				stage_races 1 requires factions { roman,}
 				taxable_income_bonus bonus -11
 				trade_base_income_bonus bonus -3
@@ -755,8 +750,7 @@ building equestrian
 				recruit "eques dalmata"  0 
 				recruit "eques sagittarus"  0  
 				recruit "eques ala"  0 
-				recruit "dromedarii"  0	requires resource camels
-				recruit "hippo toxotai"  0    
+				recruit "dromedarii"  0	requires resource camels    
 				recruit "eques clibanarii"  2     
 				recruit "eques bucellarii"  2 
 				recruit "graal knights"  0 requires hidden_resource britain
@@ -1478,7 +1472,6 @@ building christian_acedemic
 				recruit "mounted arian priests"  0   
 				recruit "arian priests"  0   
 				recruit "romano british monks"  0   
-				recruit "orthodox priest"  0   
 				happiness_bonus bonus 1
 			}
 			construction  4 
@@ -1497,8 +1490,7 @@ building christian_acedemic
 				recruit "frankish paladins"  0   
 				recruit "mounted arian priests"  1   
 				recruit "arian priests"  1   
-				recruit "romano british monks"  1   
-				recruit "orthodox priest"  1   
+				recruit "romano british monks"  1     
 				happiness_bonus bonus 2
 			}
 			construction  6 
@@ -1517,8 +1509,7 @@ building christian_acedemic
 				recruit "frankish paladins"  1   
 				recruit "mounted arian priests"  2   
 				recruit "arian priests"  2   
-				recruit "romano british monks"  2   
-				recruit "orthodox priest"  2   
+				recruit "romano british monks"  2     
 				happiness_bonus bonus 3
 			}
 			construction  7 
