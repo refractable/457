@@ -187,6 +187,19 @@ strat_model		BI_sm_huns_general
 battle_model		greek_general
 battle_equip		gladius, chainmail shirt helmet and rectangular shield
 
+faction			bosporan_kingdom
+dictionary		15
+strat_model		BI_sm_roman_general
+battle_model		roman_general
+battle_equip		gladius, chainmail shirt helmet and rectangular shield
+
+faction			thuringians
+dictionary		15
+strat_model		BI_sm_franks_general
+battle_model		saxon_general
+battle_equip		gladius, chainmail shirt helmet and rectangular shield
+
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 type			general
 
@@ -355,6 +368,20 @@ strat_model		BI_sm_captain
 battle_model		greek_general
 battle_equip		gladius, chainmail shirt helmet and rectangular shield
 
+faction			bosporan_kingdom
+dictionary		15
+strat_card		data/ui/roman/portraits/captain_card_julii.tga
+strat_model		BI_sm_captain
+battle_model		roman_general
+battle_equip		gladius, chainmail shirt helmet and rectangular shield
+
+faction			thuringians
+dictionary		15
+strat_card		data/ui/roman/portraits/captain_card_julii.tga
+strat_model		BI_sm_captain
+battle_model		saxon_general
+battle_equip		gladius, chainmail shirt helmet and rectangular shield
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 type			spy
@@ -477,6 +504,15 @@ dictionary		2
 strat_card		data/ui/roman/agents/card_spy.tga
 strat_model		spy
 
+faction			bosporan_kingdom
+dictionary		2
+strat_card		data/ui/roman/agents/card_spy.tga
+strat_model		spy
+
+faction			thuringians
+dictionary		2
+strat_card		data/ui/roman/agents/card_spy.tga
+strat_model		spy
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
@@ -596,6 +632,17 @@ strat_card		data/ui/roman/agents/card_assassin.tga
 strat_model		assassin
 
 faction			white_huns
+dictionary		2
+strat_card		data/ui/roman/agents/card_assassin.tga
+strat_model		assassin
+
+faction			bosporan_kingdom
+dictionary		2
+strat_card		data/ui/roman/agents/card_assassin.tga
+strat_model		assassin
+
+
+faction			thuringians
 dictionary		2
 strat_card		data/ui/roman/agents/card_assassin.tga
 strat_model		assassin
@@ -723,6 +770,16 @@ dictionary		2
 strat_card		data/ui/barbarian/agents/card_diplo_barb.tga
 strat_model		diplomat
 
+faction			bosporan_kingdom
+dictionary		15
+strat_card		data/ui/roman/agents/card_diplo_rome.tga
+strat_model		diplomat
+
+faction			thuringians
+dictionary		15
+strat_card		data/ui/roman/agents/card_diplo_rome.tga
+strat_model		diplomat
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 type			merchant
@@ -841,6 +898,16 @@ strat_card		data/ui/barbarian/agents/card_diplo_barb.tga
 strat_model		merchant
 
 faction			white_huns
+dictionary		2
+strat_card		data/ui/barbarian/agents/card_diplo_barb.tga
+strat_model		merchant
+
+faction			bosporan_kingdom
+dictionary		15
+strat_card		data/ui/roman/agents/card_diplo_rome.tga
+strat_model		merchant
+
+faction			thuringians
 dictionary		2
 strat_card		data/ui/barbarian/agents/card_diplo_barb.tga
 strat_model		merchant
@@ -966,3 +1033,13 @@ faction			white_huns
 dictionary		2
 strat_card		data/ui/greek/agents/temp_admiral.tga
 strat_model		huns_admiral
+
+faction			bosporan_kingdom
+dictionary		15
+strat_card		data/ui/roman/agents/temp_admiral.tga
+strat_model		empire_east_admiral
+
+faction			thuringians
+dictionary		15
+strat_card		data/ui/roman/agents/temp_admiral.tga
+strat_model		franks_admiral

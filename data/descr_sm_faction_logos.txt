@@ -32,3 +32,5 @@ icon	ui/faction_icons/slave_hun.tga			;25
 icon	ui/faction_icons/slave_nomad.tga		;26
 icon	ui/faction_icons/white_huns.tga			;27
 icon	ui/faction_icons/sassanid_rebels.tga			;28
+icon	ui/faction_icons/bosporan_kingdom.tga			;29
+icon	ui/faction_icons/thuringians.tga			;30

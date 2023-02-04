@@ -2888,7 +2888,7 @@ Crete
 Chersonesos_Zenonis
 	legion: legion_Crimea
 	Pantikapaion
-	roxolani
+	bosporan_kingdom
 	Bosphorans
 	252 185 98
 	none
@@ -2921,7 +2921,7 @@ Taurica
 Bosporus_Cimmerius
 	legion: legion_Crimea
 	Phanagoreia
-	roxolani
+	bosporan_kingdom
 	Bosphorans
 	198 21 107
 	none

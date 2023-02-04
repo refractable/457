@@ -3,6 +3,7 @@
 campaign		barbarian_invasion
 options bi
 playable
+	bosporan_kingdom
 	huns
 	goths
 	sarmatians
@@ -3727,6 +3728,74 @@ resource slaves, 1, 314, 80
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; >>>> start of factions section <<<<
+
+faction	bosporan_kingdom, fortified_caesar
+denari 15000
+
+settlement
+{
+	level city
+	region Chersonesos_Zenonis
+
+	year_founded 0
+	population 13650
+	plan_set default_set
+	faction_creator bosporan_kingdom
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads highways
+	}
+}
+character	Spartakos Andronicus, named character, leader, age 41, , x 213, y 192
+traits FactionLeader 1, GoodBuilder 1 , GoodFarmer 2 , Pagan 1
+ancillaries bodyguard
+army
+unit		eques bucellarii				exp 6 armour 2 weapon_lvl 4
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 1 armour 0 weapon_lvl 1
+unit		pedes limitaneus				exp 0 armour 0 weapon_lvl 2
+unit		eques cataphractarii		exp 5 armour 0 weapon_lvl 2
+unit		exculator limitaneus		exp 3 armour 0 weapon_lvl 0
+unit		pedes comitatenses			exp 3 armour 0 weapon_lvl 0
+
+character_record		Aganippe, 	female, command 0, influence 0, management 0, subterfuge 0, age 44, alive, never_a_leader
+character_record		Tisamenios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 15, alive, never_a_leader
+character_record		Cassandros Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
+character_record		Deiphanor Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 13, alive, never_a_leader
+character_record		Herennios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
+
+relative 	Spartakos Andronicus, 	Aganippe,		Tisamenios Andronicus, Cassandros Andronicus,  Deiphanor Andronicus,  Herennios Andronicus,  	end
+
 
 faction	empire_west, fortified_caesar
 denari	20000
@@ -12447,7 +12516,7 @@ denari	10000
 settlement
 {
 	level large_town
-	region Chersonesos_Zenonis
+	region Taurica
 
 	year_founded 0
 	population 4875
@@ -12487,28 +12556,6 @@ settlement
 	}
 }
 
-settlement
-{
-	level large_town
-	region Taurica
-
-	year_founded 0
-	population 2050
-	plan_set default_set
-	faction_creator roxolani
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-}
 
 settlement
 {
@@ -12516,9 +12563,9 @@ settlement
 	region Bosporus_Cimmerius
 
 	year_founded 0
-	population 900
+	population 1900
 	plan_set default_set
-	faction_creator roxolani
+	faction_creator bosporan_kingdom
 	building
 	{
 		type core_building governors_house
@@ -12538,6 +12585,29 @@ settlement
 	building
 	{
 		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Chersonesos_Heraclea
+
+	year_founded 0
+	population 2050
+	plan_set default_set
+	faction_creator roxolani
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type equestrian stables
 	}
 	building
 	{
@@ -13129,20 +13199,6 @@ army
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
-character	Kursyk, general, age 27, , x 215, y 193
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
-character	Kursyk, general, age 27, , x 213, y 192
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
 character	Kursyk, general, age 27, , x 201, y 201
 traits
 ancillaries
@@ -13165,6 +13221,14 @@ unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 225, y 200
+traits
+ancillaries
+army
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+
+character	Kursyk, general, age 27, , x 203, y 192
 traits
 ancillaries
 army
@@ -13232,13 +13296,6 @@ unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 190, y 195
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
-character	Kursyk, general, age 27, , x 203, y 192
 traits
 ancillaries
 army
@@ -20173,49 +20230,6 @@ settlement
 	building
 	{
 		type core_building governors_house
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-}
-
-settlement
-{
-	level large_town
-	region Chersonesos_Heraclea
-
-	year_founded 0
-	population 4550
-	plan_set default_set
-	faction_creator roxolani
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type market trader
-	}
-	building
-	{
-		type port_buildings port
-	}
-	building
-	{
-		type hinterland_farms farms
 	}
 	building
 	{
@@ -28283,17 +28297,6 @@ unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 203, y 185 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 420, y 118 
 traits
 ancillaries
@@ -29564,6 +29567,10 @@ core_attitudes 			burgundii,				250 			saxons, celts, franks, alemanni
 core_attitudes 			burgundii,				400 			sarmatians, vandals, lombardi, roxolani, slavs, goths, ostrogoths, empire_west, empire_west_rebels, empire_east, empire_east_rebels, romano-british, sassanids, berbers, huns
 core_attitudes 			lombardi,				250 			saxons, celts, franks, alemanni 
 core_attitudes 			lombardi,				400 			sarmatians, vandals, burgundii, roxolani, slavs, goths, ostrogoths, empire_west, empire_west_rebels, empire_east, empire_east_rebels, romano-british, sassanids, berbers, huns
+core_attitudes			bosporan_kingdom,			0 			empire_east
+core_attitudes			bosporan_kingdom,			200 			franks, romano_british, empire_west
+core_attitudes			bosporan_kingdom,			400 		    goths, ostrogoths, roxolani, saxons, burgundii, lombardi, sarmatians, berbers, alemanni, vandals, slavs
+core_attitudes			bosporan_kingdom,			600 			sassanids, slave, empire_east_rebels, empire_west_rebels
 
 faction_relationships 	white_huns, at_war_with 	slave, sassanids
 faction_relationships 	huns, at_war_with 	slave
@@ -29581,6 +29588,8 @@ faction_relationships 	burgundii, at_war_with 	empire_west, slave
 faction_relationships 	lombardi, at_war_with 	slave
 faction_relationships 	berbers, at_war_with 	empire_west, slave
 faction_relationships 	empire_east, allied_to 	empire_west
+faction_relationships 	bosporan_kingdom, allied_to 	empire_east
+faction_relationships 	bosporan_kingdom, at_war_with 	sarmatians, sassanids, empire_east_rebels, empire_west_rebels, slave
 faction_relationships 	empire_east, at_war_with 	sarmatians, sassanids, empire_east_rebels, empire_west_rebels, slave
 faction_relationships 	empire_west, allied_to 	empire_east
 faction_relationships 	empire_west, at_war_with 	sarmatians, alemanni, goths, burgundii, vandals, celts, berbers, ostrogoths, empire_east_rebels, empire_west_rebels, slave

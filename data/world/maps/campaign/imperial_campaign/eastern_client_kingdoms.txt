@@ -1,0 +1,11 @@
+script
+
+;;;;;;;;; Diplomatic Stances ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+    console_command diplomatic_stance bosporan_kingdom huns war
+
+;;;;;;;;;; Thanks to I2Bro's for the awesome script :D ;;;;;;;;;;;;;;
+        
+    console_command become_protector huns bosporan_kingdom
+
+end_script

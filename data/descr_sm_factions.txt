@@ -2139,4 +2139,144 @@
 		;;allow this faction to have a functioning family tree
 		"allow reproduction": true,
 	},
+	"bosporan_kingdom":
+	{
+		;;name and description
+		"string":      "BOSPORAN_KINGDOM",
+		"description": "BOSPORAN_KINGDOM_DESCR",
+
+		;;culture and (default?) character ethnicity
+		"culture":   "roman",
+		"ethnicity": "mediterranean",
+
+		;;tags for faction groups
+		"tags": [ "fgroup_leadership_temple", ],
+
+		;;namelists
+		"namelists":
+		{
+			"men":      "bosporan_men",
+			"women":    "bosporan_women",
+			"surnames": "roman_surnames",
+		},
+
+		"logos":
+		{
+			;;logo to use in the loading screens (seperate as sprite sheets aren't loaded at that point)
+			"loading screen icon": "data/ui/faction_icons/bosporan_kingdom.tga",
+
+			;;standard index as declared in descr_standards (4 per page)
+			"standard index":       29,
+			"rebel standard index": 23,
+
+			;;logo index as declared in descr_sm_faction_logos (1 per page)
+			"logo index":       29,
+			"rebel logo index": 19, ;24,
+
+			;;flag models to be used on the strat map when a settlement is unoccupied
+			"strat symbol model":       "data/models_strat/symbol_empire_east.CAS",
+			"strat rebel symbol model": "data/models_strat/symbol_roman_rebel.CAS",
+		},
+
+		;;faction colours (some base game factions may have hardcoded overrides)
+		"colours":
+		{
+			"primary":   [  31, 19, 48, ],
+			"secondary": [  207, 165, 89, ],
+
+			"family tree":
+			{
+				"background":      [  31, 19, 48,  ],
+				"font":            [  207, 165, 89, ],
+
+				"selected line":   [  255, 255, 255, ],
+				"unselected line": [  200, 187, 187, ],
+			},
+		},
+
+		"movies":
+		{
+			;;movie to play when this faction wins or is defeated, respectively
+			"victory": "data/fmv/victory/empire_east_win.wmv",
+			"defeat": "data/fmv/lose/empire_east_eliminated.wmv",
+		},
+
+		"available in custom battles": true,
+		"prefer naval invasions": false,
+		"default religion": "pagan",
+		"default battle ai personality": "default_personality",
+
+		;;allow this faction to have a functioning family tree
+		"allow reproduction": true,
+	},
+	"thuringians":
+	{
+		;;name and description
+		"string":      "THURINGIANS",
+		"description": "THURINGIANS_DESCR",
+
+		;;culture and (default?) character ethnicity
+		"culture":   "barbarian",
+		"ethnicity": "caucasian",
+
+		;;tags for faction groups
+		"tags": [ "fgroup_battle_temple", "fgroup_farming_temple", "fgroup_viking_temple", "fgroup_germanic", ],
+
+		;;namelists
+		"namelists":
+		{
+			"men":      "alemanni_men",
+			"women":    "barbarian_women",
+			"surnames": "blank_surnames",
+		},
+
+		"logos":
+		{
+			;;logo to use in the loading screens (seperate as sprite sheets aren't loaded at that point)
+			"loading screen icon": "data/ui/faction_icons/thuringians.tga",
+
+			;;standard index as declared in descr_standards (4 per page)
+			"standard index":       30,
+			"rebel standard index": 21,
+
+			;;logo index as declared in descr_sm_faction_logos (1 per page)
+			"logo index":       30,
+			"rebel logo index": 19, ;22,
+
+			;;flag models to be used on the strat map when a settlement is unoccupied
+			"strat symbol model":       "data/models_strat/symbol_alemanni.CAS",
+			"strat rebel symbol model": "data/models_strat/symbol_barb_rebel.CAS",
+		},
+
+		;;faction colours (some base game factions may have hardcoded overrides)
+		"colours":
+		{
+			"primary":   [  27, 45, 102,  ],
+			"secondary": [  59, 8, 4,  ],
+
+			"family tree":
+			{
+				"background":      [  27, 45, 102, ],
+				"font":            [  59, 8, 4, ],
+
+				"selected line":   [  255, 255, 255, ],
+				"unselected line": [  200, 187, 187, ],
+			},
+		},
+
+		"movies":
+		{
+			;;movie to play when this faction wins or is defeated, respectively
+			"victory": "data/fmv/victory/alemanni_win.wmv",
+			"defeat": "data/fmv/lose/alemanni_eliminated.wmv",
+		},
+
+		"available in custom battles": true,
+		"prefer naval invasions": false,
+		"default religion": "pagan",
+		"default battle ai personality": "default_personality",
+
+		;;allow this faction to have a functioning family tree
+		"allow reproduction": true,
+	},
 ],

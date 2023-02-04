@@ -135,7 +135,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 200, 75, 20, 30, 80
-ownership        slave, alemanni, lombardi, burgundii
+ownership        slave, alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -245,7 +245,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 250, 40, 60, 350
-ownership        slave, alemanni, lombardi, burgundii
+ownership        slave, alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -499,7 +499,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 1000, 500, 50, 80, 500
-ownership        slave, alemanni, lombardi, burgundii, saxons
+ownership        slave, alemanni, lombardi, burgundii, thuringians, saxons
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -593,7 +593,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 200, 100, 20, 30, 80
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -632,7 +632,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 300, 30, 40, 230
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -671,7 +671,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 300, 60, 80, 510
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -710,7 +710,7 @@ stat_charge_dist 50
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        3, 2262, 1000, 160, 230, 1510
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -750,7 +750,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 350, 50, 70, 470
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -789,7 +789,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 400, 50, 70, 470
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -828,7 +828,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 725, 375, 50, 70, 470
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Germania_Superior
 ethnicity empire_west_rebels, Germania_Superior
 ethnicity empire_east, Germania_Superior
@@ -867,7 +867,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 350, 50, 70, 470
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -906,7 +906,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 350, 50, 70, 470
-ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels
+ownership        empire_west, empire_west_rebels, empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -945,7 +945,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 700, 325, 60, 80, 510
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -984,7 +984,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 725, 335, 60, 80, 510
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1023,7 +1023,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 900, 450, 70, 110, 680
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1062,7 +1062,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 800, 450, 70, 110, 680
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1101,7 +1101,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 250, 60, 80, 510
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1139,7 +1139,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 250, 30, 40, 220
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1179,7 +1179,7 @@ stat_charge_dist 50
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 1300, 600, 140, 210, 1390
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1219,7 +1219,7 @@ stat_charge_dist 50
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 1350, 675, 140, 210, 1390
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_west, Northern_Italy
 ethnicity empire_west_rebels, Northern_Italy
 ethnicity empire_east, Thracia
@@ -1414,7 +1414,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 400, 150, 40, 60, 380
-ownership        slave, alemanni, lombardi, burgundii
+ownership        slave, alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1444,7 +1444,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        9, 500, 250, 50, 70, 450
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1614,7 +1614,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 700, 275, 90, 130, 810
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1643,7 +1643,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 700, 300, 60, 80, 510
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1731,7 +1731,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 800, 600, 100, 150, 970
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1791,7 +1791,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 225, 40, 50, 310
-ownership        slave, alemanni, lombardi, burgundii
+ownership        slave, alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1849,7 +1849,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 250, 40, 60, 380
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -1939,7 +1939,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 275, 80, 110, 730
-ownership        alemanni, lombardi, burgundii
+ownership        alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -2228,7 +2228,7 @@ stat_charge_dist 50
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        3, 1300, 600, 120, 180, 1160
-ownership        slave, alemanni, lombardi, burgundii
+ownership        slave, alemanni, lombardi, burgundii, thuringians
 ethnicity alemanni, Tribus_Alemanni
 ethnicity burgundii, Tribus_Burgundii
 ethnicity lombardi, Tribus_Lombardi
@@ -4615,7 +4615,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 400, 50, 80, 480
-ownership        empire_east, empire_east_rebels
+ownership        empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 
@@ -4769,7 +4769,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 800, 500, 70, 110, 680
-ownership        empire_east, empire_east_rebels
+ownership        empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 
@@ -4795,7 +4795,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 300, 250, 20, 30, 190
-ownership        empire_east, empire_east_rebels
+ownership        empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
  
@@ -4849,7 +4849,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 650, 400, 60, 90, 550
-ownership        empire_east, empire_east_rebels
+ownership        empire_east, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
  
@@ -4876,7 +4876,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 925, 600, 80, 120, 740
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity empire_west, Northern_Italy
@@ -4906,7 +4906,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 837, 450, 70, 100, 670
-ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity romano_british, Britannia_Superior
@@ -4935,7 +4935,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 375, 400, 30, 50, 300
-ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity romano_british, Britannia_Superior
@@ -4966,7 +4966,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 1112, 500, 90, 140, 890
-ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity romano_british, Britannia_Superior
@@ -4997,7 +4997,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 725, 750, 60, 90, 580
-ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity romano_british, Britannia_Superior
@@ -5028,7 +5028,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 437, 350, 40, 60, 350
-ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels
+ownership        empire_west, empire_east, empire_west_rebels, empire_east_rebels, bosporan_kingdom
 ethnicity empire_east, Thracia
 ethnicity empire_east_rebels, Thracia
 ethnicity empire_west, Northern_Italy
@@ -5981,7 +5981,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 603, 115, 20, 30, 170
-ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, slave
+ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom, slave
  
  
 type             naval triremes
@@ -6007,7 +6007,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 801, 172, 30, 40, 240
-ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, slave
+ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom, slave
  
  
 type             naval quinquiremes
@@ -6033,7 +6033,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 999, 288, 40, 60, 360
-ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, slave
+ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom, slave
  
  
 type             naval corvus quinquireme
@@ -6059,7 +6059,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        2, 999, 288, 40, 60, 360
-ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, slave
+ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom, slave
 rebalance_statblock
 soldier          roman_crew, 50, 0, 1
 attributes       sea_faring
@@ -6103,7 +6103,7 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        3, 1287, 345, 50, 70, 430
-ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, slave
+ownership        empire_west, empire_east, sassanids, romano_british, empire_west_rebels, empire_east_rebels, bosporan_kingdom, slave
  
  
 type             naval boats

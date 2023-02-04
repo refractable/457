@@ -845,7 +845,7 @@ building missiles
 				catapult_range
 			}
 		}
-		catapult_range requires factions { burgundii, lombardi, alemanni, franks, eastern, roman, } 
+		catapult_range requires factions { burgundii, lombardi, alemanni, thuringians, franks, eastern, roman, } 
 		{
 			capability
 			{
@@ -887,7 +887,7 @@ building missiles
 				siege_engineer
 			}
 		}
-		siege_engineer requires factions { burgundii, lombardi, alemanni, franks, eastern, roman, } 
+		siege_engineer requires factions { burgundii, lombardi, alemanni, thuringians, franks, eastern, roman, } 
 		{
 			capability
 			{
@@ -1735,10 +1735,10 @@ building temple_of_battle
 	icon religion
 	levels temple_of_battle_shrine temple_of_battle_temple temple_of_battle_large_temple 
 	{
-		temple_of_battle_shrine requires factions { franks, burgundii, lombardi, alemanni, saxons, slavs, } and no_other_temple
+		temple_of_battle_shrine requires factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, } and no_other_temple
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, saxons, slavs, }
+			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, }
 
 			capability
 			{
@@ -1754,10 +1754,10 @@ building temple_of_battle
 				temple_of_battle_temple
 			}
 		}
-		temple_of_battle_temple requires factions { franks, burgundii, lombardi, alemanni, saxons, slavs, }
+		temple_of_battle_temple requires factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, }
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, saxons, slavs, }
+			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, }
 
 			capability
 			{
@@ -1774,10 +1774,10 @@ building temple_of_battle
 				temple_of_battle_large_temple
 			}
 		}
-		temple_of_battle_large_temple requires factions { franks, burgundii, lombardi, alemanni, saxons, slavs, }
+		temple_of_battle_large_temple requires factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, }
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, saxons, slavs, }
+			ai_destruction_hint requires not factions { franks, burgundii, lombardi, alemanni, thuringians, saxons, slavs, }
 
 			capability
 			{
@@ -1876,10 +1876,10 @@ building temple_of_farming
 	icon religion
 	levels temple_of_farming_shrine temple_of_farming_temple temple_of_farming_large_temple 
 	{
-		temple_of_farming_shrine requires factions { burgundii, lombardi, alemanni, } and no_other_temple
+		temple_of_farming_shrine requires factions { burgundii, lombardi, alemanni, thuringians, } and no_other_temple
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, }
+			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, thuringians, }
 
 			capability
 			{
@@ -1895,10 +1895,10 @@ building temple_of_farming
 				temple_of_farming_temple
 			}
 		}
-		temple_of_farming_temple requires factions { burgundii, lombardi, alemanni, }
+		temple_of_farming_temple requires factions { burgundii, lombardi, alemanni, thuringians, }
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, }
+			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, thuringians, }
 
 			capability
 			{
@@ -1914,10 +1914,10 @@ building temple_of_farming
 				temple_of_farming_large_temple
 			}
 		}
-		temple_of_farming_large_temple requires factions { burgundii, lombardi, alemanni, }
+		temple_of_farming_large_temple requires factions { burgundii, lombardi, alemanni, thuringians, }
 		{
 			;;conditions under which the AI will destroy this building
-			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, }
+			ai_destruction_hint requires not factions { burgundii, lombardi, alemanni, thuringians, }
 
 			capability
 			{

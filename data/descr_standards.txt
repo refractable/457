@@ -28,5 +28,5 @@ symbols				banners/symbols13.tga
 symbols				banners/symbols14.tga
 ; nomad slave, hun slave, white huns (duplicate, whoops)
 symbols				banners/symbols15.tga
-; sassanid rebels
+; sassanid rebels, bosporan_kingdom, thuringians
 symbols				banners/symbols16.tga
