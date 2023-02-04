@@ -3,6 +3,7 @@
 campaign		barbarian_invasion
 options bi
 playable
+	bosporan_kingdom
 	huns
 	goths
 	sarmatians
@@ -21,6 +22,7 @@ playable
 	slavs
 	berbers
 	white_huns
+	thuringians
 end 
 unlockable
 end
@@ -2068,7 +2070,6 @@ resource marble, 1, 223, 96
 ;Asyut
 resource slaves, 1, 228, 89
 resource marble, 2, 227, 93
-resource grain, 2, 223, 91
 resource gold, 3, 226, 88
 resource pottery, 1, 227, 91
 
@@ -2082,7 +2083,7 @@ resource elephants, 1, 237, 80
 ;Aswan
 resource slaves, 1, 239, 75
 resource marble, 2, 241, 74
-resource grain, 3, 235, 74
+resource grain, 1, 235, 74
 resource wild_animals, 2, 231, 69
 resource pottery, 3, 235, 69
 resource elephants, 2, 235, 72
@@ -2731,18 +2732,16 @@ resource iron, 1, 203, 145
 resource slaves, 1, 201, 149
 resource timber, 5, 204, 151
 resource textiles, 3, 206, 151
-resource grain, 2, 208, 149
+resource grain, 1, 208, 149
 
 ;Phyrgia_Minoris
 resource slaves, 1, 199, 151
 resource timber, 4, 198, 152
 resource hides, 3, 196, 151
-resource grain, 1, 201, 151
 
 ;Bithynia_Superioris
 resource slaves, 1, 198, 155
 resource timber, 4, 203, 157
-resource grain, 2, 198, 157
 
 ;Isauria
 resource slaves, 1, 216, 143
@@ -2764,7 +2763,7 @@ resource wild_animals, 1, 217, 148
 
 ;Saravene
 resource slaves, 1, 216, 156
-resource grain, 2, 218, 159
+resource grain, 1, 218, 159
 resource hides, 3, 220, 157
 resource silver, 1, 223, 159
 
@@ -2773,7 +2772,6 @@ resource slaves, 1, 211, 157
 resource pottery, 2, 213, 157
 resource timber, 3, 215, 159
 resource hides, 2, 214, 162
-resource grain, 2, 208, 160
 
 ;Phrygia_Maoris
 resource slaves, 1, 208, 155
@@ -2802,7 +2800,7 @@ resource textiles, 2, 210, 168
 resource slaves, 1, 221, 166
 resource hides, 2, 216, 165
 resource gold, 2, 218, 167
-resource grain, 3, 219, 163
+resource grain, 1, 219, 163
 
 ;Iris_Superioris
 resource slaves, 1, 225, 165
@@ -3728,6 +3726,74 @@ resource slaves, 1, 314, 80
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; >>>> start of factions section <<<<
 
+faction	bosporan_kingdom, fortified_caesar
+denari 15000
+
+settlement
+{
+	level city
+	region Chersonesos_Zenonis
+
+	year_founded 0
+	population 13650
+	plan_set default_set
+	faction_creator bosporan_kingdom
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads highways
+	}
+}
+character	Spartakos Andronicus, named character, leader, age 41, , x 213, y 192
+traits FactionLeader 1, GoodBuilder 1 , GoodFarmer 2 , Pagan 1
+ancillaries bodyguard
+army
+unit		eques bucellarii				exp 6 armour 2 weapon_lvl 4
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 1 armour 0 weapon_lvl 1
+unit		pedes limitaneus				exp 0 armour 0 weapon_lvl 2
+unit		eques cataphractarii		exp 5 armour 0 weapon_lvl 2
+unit		exculator limitaneus		exp 3 armour 0 weapon_lvl 0
+unit		pedes comitatenses			exp 3 armour 0 weapon_lvl 0
+
+character_record		Aganippe, 	female, command 0, influence 0, management 0, subterfuge 0, age 44, alive, never_a_leader
+character_record		Tisamenios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 15, alive, never_a_leader
+character_record		Cassandros Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
+character_record		Deiphanor Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 13, alive, never_a_leader
+character_record		Herennios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
+
+relative 	Spartakos Andronicus, 	Aganippe,		Tisamenios Andronicus, Cassandros Andronicus,  Deiphanor Andronicus,  Herennios Andronicus,  	end
+
+
 faction	empire_west, fortified_caesar
 denari	20000
 
@@ -3759,10 +3825,6 @@ settlement
 	building
 	{
 		type market market
-	}
-	building
-	{
-		type taverns tavern
 	}
 	building
 	{
@@ -5554,7 +5616,6 @@ traits LoyaltyStarter 1 , Christian 1, Intelligent 1 , TacticalSkill 2 , Religio
 ancillaries
 army
 unit		eques bucellarii				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
 unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
 unit		sagittarus limitaneus				exp 0 armour 0 weapon_lvl 0
@@ -12447,7 +12508,7 @@ denari	10000
 settlement
 {
 	level large_town
-	region Chersonesos_Zenonis
+	region Taurica
 
 	year_founded 0
 	population 4875
@@ -12487,28 +12548,6 @@ settlement
 	}
 }
 
-settlement
-{
-	level large_town
-	region Taurica
-
-	year_founded 0
-	population 2050
-	plan_set default_set
-	faction_creator roxolani
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-}
 
 settlement
 {
@@ -12516,9 +12555,9 @@ settlement
 	region Bosporus_Cimmerius
 
 	year_founded 0
-	population 900
+	population 1900
 	plan_set default_set
-	faction_creator roxolani
+	faction_creator bosporan_kingdom
 	building
 	{
 		type core_building governors_house
@@ -12538,6 +12577,29 @@ settlement
 	building
 	{
 		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Chersonesos_Heraclea
+
+	year_founded 0
+	population 2050
+	plan_set default_set
+	faction_creator roxolani
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type equestrian stables
 	}
 	building
 	{
@@ -13129,20 +13191,6 @@ army
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
-character	Kursyk, general, age 27, , x 215, y 193
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
-character	Kursyk, general, age 27, , x 213, y 192
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
 character	Kursyk, general, age 27, , x 201, y 201
 traits
 ancillaries
@@ -13165,6 +13213,14 @@ unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 225, y 200
+traits
+ancillaries
+army
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+
+character	Kursyk, general, age 27, , x 203, y 192
 traits
 ancillaries
 army
@@ -13232,13 +13288,6 @@ unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 190, y 195
-traits
-ancillaries
-army
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-
-character	Kursyk, general, age 27, , x 203, y 192
 traits
 ancillaries
 army
@@ -14012,10 +14061,10 @@ army
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni 			exp 0 armour 0 weapon_lvl 0
 
-character	Catualdo, diplomat, age 31, , x 90, y 180 
+character	Catualdo, diplomat, age 31, , x 103, y 177 
 traits GoodDiplomat 2 , Pagan 1
 
-character	Haming, spy, age 23, , x 90, y 180 
+character	Haming, spy, age 23, , x 102, y 180 
 traits GoodSpy 1 , Pagan 1
 
 character_record		Herlinda, 	female, command 0, influence 0, management 0, subterfuge 0, age 38, alive, never_a_leader
@@ -15446,23 +15495,43 @@ denari	10000
 
 settlement
 {
-	level town
-	region Buria
-
+	level large_town
+	region Boioa
+	
 	year_founded 0
-	population 1450
+	population 2100
 	plan_set default_set
-	faction_creator lombardi
+	faction_creator saxons
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
 	}
 	building
 	{
-		type hinterland_roads paved_roads
+		type defenses wooden_pallisade
 	}
 }
-character	Rando, named character, leader, age 44, , x 108, y 200 
+
+settlement
+{
+	level large_town
+	region Naharvalia
+	
+	year_founded 0
+	population 2000
+	plan_set default_set
+	faction_creator saxons
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+character	Rando, named character, leader, age 44, , x 113, y 195 
 traits FactionLeader 1, Warlord 2 , GoodTaxman 3 , GoodAdministrator 3 , GoodFarmer 1 , Pagan 1 
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
@@ -15476,17 +15545,17 @@ unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	Burkhard, named character, heir, age 24, , x 109, y 200 
+character	Burkhard, named character, heir, age 20, , x 117, y 191 
 traits FactionHeir 1, GoodCommander 1 , Pagan 1
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	Adelhaide, diplomat, age 44, , x 106, y 202 
+character	Adelhaide, diplomat, age 44, , x 113, y 197 
 traits GoodDiplomat 3, Pagan 1 
 
-character	Hengist, spy, age 27, , x 109, y 198 
+character	Hengist, spy, age 27, , x 115, y 194 
 traits GoodSpy 2, Pagan 1
 
 character_record		Adelgund, 	female, command 0, influence 0, management 0, subterfuge 0, age 19, alive, never_a_leader
@@ -18782,6 +18851,144 @@ character_record		Hariulfus, 	male, command 0, influence 0, management 0, subter
 relative 	Gelder, 	Bernildis,		Freawine,	Etelgis,	Thusnelda,	Kuonrad,	end
 relative 	Freawine, 	Gisela,		Bebelina,	Wernicke,	Hariulfus,	end
 
+faction thuringians, fortified_caesar
+denari 10000
+
+settlement
+{
+	level town
+	region Pharodenia
+
+	year_founded 0
+	population 1950
+	plan_set default_set
+	faction_creator saxons
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level town
+	region Semnonia
+
+	year_founded 0
+	population 1450
+	plan_set default_set
+	faction_creator saxons
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level town
+	region Baluconia
+
+	year_founded 0
+	population 1800
+	plan_set default_set
+	faction_creator franks
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level town
+	region Buria
+
+	year_founded 0
+	population 1450
+	plan_set default_set
+	faction_creator lombardi
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+character	Bisinus, named character, leader, age 27 , x 97, y 212 
+traits FactionLeader 1, Warlord 2 , Pagan 1 , Brave 1 , GoodFarmer 2 , GoodAdministrator 1 , PaganPiety 1
+ancillaries bard
+army
+unit		chosen warlord alemanni				exp 4 armour 0 weapon_lvl 0
+unit		night raiders alemanni				exp 1 armour 0 weapon_lvl 0
+unit		night raiders alemanni				exp 1 armour 0 weapon_lvl 0
+unit		night raiders alemanni				exp 1 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 1 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni 				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+
+
+character	Ermaneric, general, age 16, , x 101, y 203 
+traits
+ancillaries
+army
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni 			exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+
+character	Ermaneric, general, age 16, , x 108, y 200 
+traits
+ancillaries
+army
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni 			exp 0 armour 0 weapon_lvl 0
+
+character	Ermaneric, general, age 16, , x 98, y 195 
+traits
+ancillaries
+army
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni 			exp 0 armour 0 weapon_lvl 0
+
+character	Tancred, diplomat, age 28, , x 96, y 194 
+traits GoodDiplomat 2 , Pagan 1
+
+character	Ostina, spy, age 24, , x 100, y 193 
+traits GoodSpy 1 , Pagan 1
+
 faction	slave, fortified_mao
 denari	0
 
@@ -20183,49 +20390,6 @@ settlement
 settlement
 {
 	level large_town
-	region Chersonesos_Heraclea
-
-	year_founded 0
-	population 4550
-	plan_set default_set
-	faction_creator roxolani
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type market trader
-	}
-	building
-	{
-		type port_buildings port
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-}
-
-settlement
-{
-	level large_town
 	region Massaesylia
 
 	year_founded 0
@@ -20930,25 +21094,6 @@ settlement
 
 settlement
 {
-	level town
-	region Baluconia
-
-	year_founded 0
-	population 1800
-	plan_set default_set
-	faction_creator franks
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-}
-
-settlement
-{
 	level city
 	region Rugia
 
@@ -21491,26 +21636,6 @@ settlement
 settlement
 {
 	level town
-	region Pharodenia
-
-	year_founded 0
-	population 1950
-	plan_set default_set
-	faction_creator saxons
-	building
-	{
-		type core_building governors_house
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-
-
-settlement
-{
-	level town
 	region Marsignia
 
 	year_founded 0
@@ -21570,59 +21695,7 @@ settlement
 	}
 }
 
-settlement
-{
-	level town
-	region Semnonia
-
-	year_founded 0
-	population 1450
-	plan_set default_set
-	faction_creator saxons
-	building
-	{
-		type core_building governors_house
-	}
-}
-
 ; BOIHAEMIA
-settlement
-{
-	level large_town
-	region Naharvalia
-	
-	year_founded 0
-	population 2000
-	plan_set default_set
-	faction_creator saxons
-	building
-	{
-		type core_building governors_villa
-	}
-}
-
-settlement
-{
-	level large_town
-	region Boioa
-	
-	year_founded 0
-	population 2100
-	plan_set default_set
-	faction_creator saxons
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-}
 
 settlement
 {
@@ -28283,17 +28356,6 @@ unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 203, y 185 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 420, y 118 
 traits
 ancillaries
@@ -28449,28 +28511,6 @@ unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 
 character, sub_faction huns, Amage, general, age 16, , x 466, y 101 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 98, y 195 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 89, y 199 
 traits
 ancillaries
 army
@@ -29382,17 +29422,6 @@ unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 117, y 184 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 112, y 187 
 traits
 ancillaries
@@ -29404,51 +29433,7 @@ unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 117, y 191 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 113, y 195 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 124, y 197 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 101, y 203 
-traits
-ancillaries
-army
-unit		generic rebel general				exp 3 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen 			exp 2 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 97, y 212 
 traits
 ancillaries
 army
@@ -29564,6 +29549,10 @@ core_attitudes 			burgundii,				250 			saxons, celts, franks, alemanni
 core_attitudes 			burgundii,				400 			sarmatians, vandals, lombardi, roxolani, slavs, goths, ostrogoths, empire_west, empire_west_rebels, empire_east, empire_east_rebels, romano-british, sassanids, berbers, huns
 core_attitudes 			lombardi,				250 			saxons, celts, franks, alemanni 
 core_attitudes 			lombardi,				400 			sarmatians, vandals, burgundii, roxolani, slavs, goths, ostrogoths, empire_west, empire_west_rebels, empire_east, empire_east_rebels, romano-british, sassanids, berbers, huns
+core_attitudes			bosporan_kingdom,			0 			empire_east
+core_attitudes			bosporan_kingdom,			200 			franks, romano_british, empire_west
+core_attitudes			bosporan_kingdom,			400 		    goths, ostrogoths, roxolani, saxons, burgundii, lombardi, sarmatians, berbers, alemanni, vandals, slavs
+core_attitudes			bosporan_kingdom,			600 			sassanids, slave, empire_east_rebels, empire_west_rebels
 
 faction_relationships 	white_huns, at_war_with 	slave, sassanids
 faction_relationships 	huns, at_war_with 	slave
@@ -29581,6 +29570,8 @@ faction_relationships 	burgundii, at_war_with 	empire_west, slave
 faction_relationships 	lombardi, at_war_with 	slave
 faction_relationships 	berbers, at_war_with 	empire_west, slave
 faction_relationships 	empire_east, allied_to 	empire_west
+faction_relationships 	bosporan_kingdom, allied_to 	empire_east
+faction_relationships 	bosporan_kingdom, at_war_with 	sarmatians, sassanids, empire_east_rebels, empire_west_rebels, slave
 faction_relationships 	empire_east, at_war_with 	sarmatians, sassanids, empire_east_rebels, empire_west_rebels, slave
 faction_relationships 	empire_west, allied_to 	empire_east
 faction_relationships 	empire_west, at_war_with 	sarmatians, alemanni, goths, burgundii, vandals, celts, berbers, ostrogoths, empire_east_rebels, empire_west_rebels, slave

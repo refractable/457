@@ -203,3 +203,15 @@ standard_texture    models/textures/standard_white_huns.tga
 rebels_texture      models/textures/standard_hun_rebels.tga
 routing_texture     models/textures/standard_routing_barbarian.tga
 ally_texture        models/textures/standard_white_huns_ally.tga
+
+faction             bosporan_kingdom
+standard_texture    models/textures/standard_bosporan_kingdom.tga
+rebels_texture      models/textures/standard_roman_rebels.tga
+routing_texture     models/textures/standard_routing.tga
+ally_texture        models/textures/standard_bosporan_kingdom_ally.tga
+
+faction             thuringians
+standard_texture    models/textures/standard_thuringians.tga
+rebels_texture      models/textures/standard_roman_rebels.tga
+routing_texture     models/textures/standard_routing.tga
+ally_texture        models/textures/standard_thuringians_ally.tga

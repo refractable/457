@@ -73,3 +73,11 @@ take_regions 100
 white_huns
 hold_regions Seleukeia Ekatompylos Patigrabana Seleukeia_Eulaios
 take_regions 100
+
+bosporan_kingdom
+hold_regions Byzantion Mutina Iazygiana
+take_regions 100
+
+thuringians
+hold_regions Brocomagus Aquincum Roma
+take_regions 100
