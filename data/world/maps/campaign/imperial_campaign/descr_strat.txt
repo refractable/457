@@ -3727,7 +3727,7 @@ resource slaves, 1, 314, 80
 ; >>>> start of factions section <<<<
 
 faction	bosporan_kingdom, fortified_caesar
-denari 15000
+denari 25000
 
 settlement
 {
@@ -3775,15 +3775,18 @@ character	Spartakos Andronicus, named character, leader, age 41, , x 213, y 192
 traits FactionLeader 1, GoodBuilder 1 , GoodFarmer 2 , Pagan 1
 ancillaries bodyguard
 army
-unit		eques bucellarii				exp 6 armour 2 weapon_lvl 4
-unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
-unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
-unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
-unit		pedes comitatenses				exp 1 armour 0 weapon_lvl 1
-unit		pedes limitaneus				exp 0 armour 0 weapon_lvl 2
-unit		eques cataphractarii		exp 5 armour 0 weapon_lvl 2
-unit		exculator limitaneus		exp 3 armour 0 weapon_lvl 0
-unit		pedes comitatenses			exp 3 armour 0 weapon_lvl 0
+unit		eques bucellarii				exp 3 armour 2 weapon_lvl 1
+unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
+unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
+unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
+unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
+unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
+unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
+unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
+unit		pedes limitaneus				exp 3 armour 2 weapon_lvl 1
+unit		pedes limitaneus				exp 3 armour 3 weapon_lvl 1
+unit		exculator limitaneus		exp 3 armour 2 weapon_lvl 1
+unit		exculator limitaneus		exp 3 armour 2 weapon_lvl 1
 
 character_record		Aganippe, 	female, command 0, influence 0, management 0, subterfuge 0, age 44, alive, never_a_leader
 character_record		Tisamenios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 15, alive, never_a_leader
@@ -13113,11 +13116,9 @@ character	Dengizich, named character, leader, age 36, , x 222, y 207
 traits FactionLeader 1, Warlord 3 , GoodCommander 1 , Girls 2 , Feck 1 , HunnicFearsomeness 2 , Pagan 1
 ancillaries mercenary_captain, mistress, slave_trader, wrestler, witch, musician
 army
-unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic warlords				exp 3 armour 0 weapon_lvl 0
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers			exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
@@ -13127,28 +13128,26 @@ character	Ernak, named character, heir, age 16, , x 178, y 189
 traits FactionHeir 1, GoodCommander 2 , HunnicFearsomeness 1 , Pagan 1
 ancillaries hun_witch, mistress, musician
 army
-unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers			exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic warlords				exp 3 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic lancers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers			exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 3 armour 0 weapon_lvl 0
 
 
 character	Ellak, named character, age 24, , x 195, y 207
 traits GoodCommander 2 , HunnicFearsomeness 1 , Pagan 1
 ancillaries scout
 army
-unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic warlords				exp 3 armour 0 weapon_lvl 0
 unit		hunnic archers			exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
@@ -13156,9 +13155,7 @@ character	Diggiz, named character, age 27, , x 233, y 223
 traits Warlord 1 , GoodCommander 3 , Disciplinarian 1 , Girls 3 , HunnicFearsomeness 2 , Intelligent 1 , PoliticsSkill 1, Pagan 1
 ancillaries soothsayer, torturer, mistress, musician, oracle
 army
-unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
-unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic warlords				exp 3 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
@@ -13233,23 +13230,27 @@ traits
 ancillaries
 army
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 184, y 195
 traits
 ancillaries
 army
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 185, y 189
 traits
 ancillaries
 army
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 202, y 208
 traits
 ancillaries
 army
+unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
 
 character	Kursyk, general, age 27, , x 218, y 216
@@ -13294,12 +13295,28 @@ army
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
 
+
+character	Kursyk, general, age 27, , x 215, y 193
+traits
+ancillaries
+army
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+
+
+character	Kursyk, general, age 27, , x 203, y 185
+traits
+ancillaries
+army
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+unit		hunnic archers				exp 0 armour 0 weapon_lvl 0
+
 character	Panu, diplomat, age 33, , x 179, y 191
 traits GoodDiplomat 3 , Pagan 1
 
 
 character	Muyun, spy, age 31, , x 179, y 190
-traits GoodSpy 2 
+traits GoodSpy 2 , Pagan 1
 
 character_record		Attila,		male, command 0, influence 0, management 0, subterfuge 0, age 46, dead, never_a_leader
 character_record		Kreka, 		female, command 0, influence 0, management 0, subterfuge 0, age 36, dead, never_a_leader

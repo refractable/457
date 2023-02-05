@@ -6243,7 +6243,7 @@ Trait ArianChristian
 ;------------------------------------------
 Trait Christian
     Characters all
-    AntiTraits Pagan, Zoroastrian, ArianChristian
+    AntiTraits Pagan, Zoroastrian, ArianChristian, MiaphysiteChristian
 
     Level Christian
         Description Christian_desc
@@ -6257,7 +6257,7 @@ Trait Christian
 ;------------------------------------------
 Trait Pagan
     Characters all
-    AntiTraits Christian, Zoroastrian, ArianChristian
+    AntiTraits Christian, Zoroastrian, ArianChristian, MiaphysiteChristian
 
     Level Pagan
         Description Pagan_desc
@@ -6271,7 +6271,7 @@ Trait Pagan
 ;------------------------------------------
 Trait Zoroastrian
     Characters all
-    AntiTraits Christian, Pagan, ArianChristian
+    AntiTraits Christian, Pagan, ArianChristian, MiaphysiteChristian
 
     Level Zoroastrian
         Description Zoroastrian_desc

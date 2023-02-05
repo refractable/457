@@ -2065,11 +2065,11 @@
 	},
 	{
 		"filename": "data\/descr_sm_factions.txt",
-		"checksum": 301690522
+		"checksum": 26174740
 	},
 	{
 		"filename": "data\/descr_sm_factions_difficulty.json",
-		"checksum": 1600822805
+		"checksum": 905393389
 	},
 	{
 		"filename": "data\/descr_sm_major_events.txt",
@@ -2109,15 +2109,15 @@
 	},
 	{
 		"filename": "data\/export_descr_buildings.txt",
-		"checksum": 721451560
+		"checksum": 2584172501
 	},
 	{
 		"filename": "data\/export_descr_character_traits.txt",
-		"checksum": 419315188
+		"checksum": 1709317162
 	},
 	{
 		"filename": "data\/export_descr_unit.txt",
-		"checksum": 4088458286
+		"checksum": 600240131
 	},
 	{
 		"filename": "data\/export_descr_unit_enums.txt",
@@ -3641,6 +3641,34 @@
 	},
 	{
 		"filename": "data\/terrain\/aerial_map\/indicators\/region_borders_secondary_colour.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/sea\/surf2b.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/summer\/cultivated.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/summer\/cultivated_snow.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_s.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_snow.tga.dds",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -12381,7 +12409,7 @@
 	},
 	{
 		"filename": "data\/text\/expanded_bi.txt",
-		"checksum": 3763442040
+		"checksum": 3569536654
 	},
 	{
 		"filename": "data\/text\/export_advice.txt",
@@ -14729,7 +14757,7 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_strat.txt",
-		"checksum": 1037598633
+		"checksum": 893920471
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_win_conditions.txt",
@@ -14837,6 +14865,10 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_slavs.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_thuringians.tga",
 		"checksum": "Blacklisted"
 	},
 	{
