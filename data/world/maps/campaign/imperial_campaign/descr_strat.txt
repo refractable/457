@@ -5599,7 +5599,7 @@ unit		pedes comitatenses				exp 2 armour 0 weapon_lvl 0
 unit		sagittarus limitaneus				exp 0 armour 0 weapon_lvl 0
 unit		sagittarus limitaneus				exp 0 armour 0 weapon_lvl 0
 
-character	Cassius Aegidius, named character, heir, age 43, , x 64, y 166 
+character	Cassius Aegidius, named character, age 43, , x 64, y 166 
 traits LoyaltyStarter 1 , Christian 1, Intelligent 2 , GoodCommander 2, GoodDefender 2, Brave 1, Epicurean 1 , Generous 2 , Paranoia 1
 ancillaries office_magister_militum_west
 army
@@ -10489,7 +10489,7 @@ unit		tiro limitaneus				exp 0 armour 0 weapon_lvl 0
 character_record		Verina, 	female, command 0, influence 0, management 0, subterfuge 0, age 29, alive, never_a_leader
 character_record		Ariadne, 	female, command 0, influence 0, management 0, subterfuge 0, age 29, alive, never_a_leader
 
-relative	Leo,	Verina,	Ariadne,	end 
+relative	Leo,	Verina,	Zeno,	Ariadne,	end 
 
 faction	empire_east_rebels, religious_smith
 dead_until_resurrected
