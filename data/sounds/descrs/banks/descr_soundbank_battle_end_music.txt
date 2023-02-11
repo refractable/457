@@ -40,7 +40,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(roman_loading_1)_coming_of_war.opus",
+				"data/sounds/music/CampaignWin1-Invicta.opus",
 				{
 				},
 			],
@@ -58,7 +58,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(greek_loading_1)_the_eternal_city.opus",
+				"data/sounds/music/Lose1-Lost_Souls.opus",
 				{
 				},
 			],
@@ -76,7 +76,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(barbarian_loading_1)_the_fallen_eagle.opus",
+				"data/sounds/music/Lose1-Lost_Souls.opus",
 				{
 				},
 			],
@@ -94,7 +94,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(barbarian_loading_2)_war_in_the_north.opus",
+				"data/sounds/music/Win1-Barbarian_Victory.opus",
 				{
 				},
 			],
@@ -112,7 +112,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(eastern_loading_1)_cleopatra.opus",
+				"data/sounds/music/Lose1-Lost_Souls.opus",
 				{
 				},
 			],

@@ -999,6 +999,7 @@
 			"Amalric",
 			"Aoric",
 			"Ariaric",
+			"Ardaric",
 			"Ataulf",
 			"Athalric",
 			"Athanagild",

@@ -2279,4 +2279,110 @@
 		;;allow this faction to have a functioning family tree
 		"allow reproduction": true,
 	},
+	"gepids":
+	{
+		;;name and description
+		"string":      "GEPIDS",
+		"description": "GEPIDS_DESCR",
+
+		;;culture and (default?) character ethnicity
+		"culture":   "nomad",
+		"ethnicity": "caucasian",
+
+		;;tags for faction groups
+		"tags": [ "fgroup_battleforge_temple", "fgroup_ultraviolence_temple", "fgroup_gothic", ],
+
+		;;namelists
+		"namelists":
+		{
+			"men":      "goth_men",
+			"women":    "barbarian_women",
+			"surnames": "blank_surnames",
+		},
+
+		;;horde information
+		"horde":
+		{
+			"horde units":
+			[
+				"steppe horde horse",
+				"steppe horde spearmen",
+				"steppe horde spearmen",
+				"steppe horde spearmen",
+				"steppe horde horse",
+				"steppe horde horse",
+				"steppe horde horse",
+				"steppe horde chosen warriors",
+				"steppe horde chosen warriors",
+			],
+
+			"min horde units": 60,
+			"max horde units": 100,
+
+			;;remove this amount of horde units from the max every time we re-horde
+			"horde unit reduction per horde": 20,
+
+			;;gain one random horde unit per this amount of population in this settlement, up to the cap
+			"population to horde units": 300,
+
+			;;minimum number of named characters we should have when we first go horde
+			"min named characters": 4,
+
+			;;maximum percentage of armies horde units can fill
+			"max horde unit army percent": 80,
+
+			;;the amount of horde units to disband every time we get a settlement
+			;;if amount of settlements exceeds the numbers in this array, 100% disband assumed
+			"horde unit disband per settlement": [ 33, 55, 100, ],
+		},
+
+		"logos":
+		{
+			;;logo to use in the loading screens (seperate as sprite sheets aren't loaded at that point)
+			"loading screen icon": "data/ui/faction_icons/gepids.tga",
+
+			;;standard index as declared in descr_standards (4 per page)
+			"standard index":       31,
+			"rebel standard index": 24,
+
+			;;logo index as declared in descr_sm_faction_logos (1 per page)
+			"logo index":       31,
+			"rebel logo index": 19, ;26,
+
+			;;flag models to be used on the strat map when a settlement is unoccupied
+			"strat symbol model":       "data/models_strat/symbol_gepids.CAS",
+			"strat rebel symbol model": "data/models_strat/symbol_nomad_rebel.CAS",
+		},
+
+		;;faction colours (some base game factions may have hardcoded overrides)
+		"colours":
+		{
+			"primary":   [  181, 69,  77,   ],
+			"secondary": [  0,   0,   0,   ],
+
+			"family tree":
+			{
+				"background":      [  181, 69,  77,  ],
+				"font":            [  255, 255, 255, ],
+
+				"selected line":   [  255, 255, 255, ],
+				"unselected line": [  200, 187, 187, ],
+			},
+		},
+
+		"movies":
+		{
+			;;movie to play when this faction wins or is defeated, respectively
+			"victory": "data/fmv/victory/goths_win.wmv",
+			"defeat": "data/fmv/lose/goths_eliminated.wmv",
+		},
+
+		"available in custom battles": true,
+		"prefer naval invasions": false,
+		"default religion": "pagan",
+		"default battle ai personality": "default_personality",
+
+		;;allow this faction to have a functioning family tree
+		"allow reproduction": true,
+	},
 ],

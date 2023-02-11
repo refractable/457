@@ -60,7 +60,10 @@
 
 			"sounds":
 			[
-				"data/sounds/music/silence.opus",
+				"data/sounds/music/Tension4-Drums_of_Doom.opus",
+				"data/sounds/music/Tension3-Death_Approaches.opus",
+				"data/sounds/music/Tension2-Caesars_Nightmare.opus",
+				"data/sounds/music/Tension1-Journey_to_Rome_Part1.opus",
 				{
 				},
 			],
@@ -107,453 +110,14 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(bi_barbarian_tension_1)_lamentation.opus",
-				"data/sounds/music/(bi_barbarian_tension_2)_weeping_Skies.opus",
-				"data/sounds/music/(bi_barbarian_tension_3)_winter_realm.opus",
-				"data/sounds/music/(bi_eastern_tension_1)_arid_winds.opus",
-				"data/sounds/music/(bi_eastern_tension_2)_desert_omens.opus",
-				"data/sounds/music/(bi_eastern_tension_3)_thirsty_sands.opus",
-				"data/sounds/music/(bi_hun_tension_1)_on_the_steppes.opus",
-				"data/sounds/music/(bi_hun_tension_2)_shaman_says.opus",
-				"data/sounds/music/(bi_hun_tension_3)_to_the_west.opus",
-				"data/sounds/music/(bi_roman_tension_1)_facing_the_horde.opus",
-				"data/sounds/music/(roman_tension_bi_1)_fate_of_empires.opus",
-				"data/sounds/music/(bi_roman_tension_2)_to_arms.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "all", ],
-
-			;;the id of this state
-			"ID": "battle",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"mobilise",
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state fighting",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_battle_1)_assault_by_sea.opus",
-				"data/sounds/music/(bi_barbarian_battle_2)_fire_and_ice.opus",
-				"data/sounds/music/(bi_barbarian_battle_3)_lets_kill_some_romans.opus",
-				"data/sounds/music/(bi_eastern_battle_1)_burning_crescent.opus",
-				"data/sounds/music/(bi_eastern_battle_2)_riders_of_the_east.opus",
-				"data/sounds/music/(bi_eastern_battle_3)_warriors_of_ahura.opus",
-				"data/sounds/music/(bi_hun_battle_1)_a_thousand_arrows.opus",
-				"data/sounds/music/(bi_hun_battle_2)_scourge_of_god.opus",
-				"data/sounds/music/(bi_hun_battle_3)_the_will_of_tengri.opus",
-				"data/sounds/music/(bi_roman_battle_1)_champions_of_god.opus",
-				"data/sounds/music/(bi_roman_battle_2)_legions_of_the_west.opus",
-				"data/sounds/music/(bi_roman_battle_3)_the_red_horse.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "roman", ],
-
-			;;the id of this state
-			"ID": "mobilise",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"battle state":
-				{
-					"string": "the battle is past the deployment phase",
-				},
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state moving",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_roman_tension_1)_facing_the_horde.opus",
-				"data/sounds/music/(roman_tension_bi_1)_fate_of_empires.opus",
-				"data/sounds/music/(bi_roman_tension_2)_to_arms.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "barbarian", ],
-
-			;;the id of this state
-			"ID": "mobilise",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"battle state":
-				{
-					"string": "the battle is past the deployment phase",
-				},
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state moving",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_tension_1)_lamentation.opus",
-				"data/sounds/music/(bi_barbarian_tension_2)_weeping_Skies.opus",
-				"data/sounds/music/(bi_barbarian_tension_3)_winter_realm.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "carthaginian", "eastern", ],
-
-			;;the id of this state
-			"ID": "mobilise",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"battle state":
-				{
-					"string": "the battle is past the deployment phase",
-				},
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state moving",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_eastern_tension_1)_arid_winds.opus",
-				"data/sounds/music/(bi_eastern_tension_2)_desert_omens.opus",
-				"data/sounds/music/(bi_eastern_tension_3)_thirsty_sands.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "hun", "nomad", ],
-
-			;;the id of this state
-			"ID": "mobilise",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"battle state":
-				{
-					"string": "the battle is past the deployment phase",
-				},
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state moving",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_hun_tension_1)_on_the_steppes.opus",
-				"data/sounds/music/(bi_hun_tension_2)_shaman_says.opus",
-				"data/sounds/music/(bi_hun_tension_3)_to_the_west.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "roman", ],
-
-			;;the id of this state
-			"ID": "battle",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"mobilise",
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state fighting",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_roman_battle_1)_champions_of_god.opus",
-				"data/sounds/music/(bi_roman_battle_2)_legions_of_the_west.opus",
-				"data/sounds/music/(bi_roman_battle_3)_the_red_horse.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "barbarian", ],
-
-			;;the id of this state
-			"ID": "battle",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"mobilise",
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state fighting",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_battle_1)_assault_by_sea.opus",
-				"data/sounds/music/(bi_barbarian_battle_2)_fire_and_ice.opus",
-				"data/sounds/music/(bi_barbarian_battle_3)_lets_kill_some_romans.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "carthaginian", "eastern", ],
-
-			;;the id of this state
-			"ID": "battle",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"mobilise",
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state fighting",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_eastern_battle_1)_burning_crescent.opus",
-				"data/sounds/music/(bi_eastern_battle_2)_riders_of_the_east.opus",
-				"data/sounds/music/(bi_eastern_battle_3)_warriors_of_ahura.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the factions that the player can be playing as
-			"player factions":
-				[ "all", ],
-
-			;;the factions that the player can be fighting against
-			"enemy factions":
-				[ "hun", "nomad", ],
-
-			;;the id of this state
-			"ID": "battle",
-
-			;;is this sound high priority and how long should it wait before forcing a transition if so
-			"high priority": false,
-			"max change delay": 0,
-
-			;;the states that this can transition from
-			"from states":
-			[
-				"mobilise",
-				"tension",
-			],
-
-			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
-			"battle restrictions":
-			[
-			],
-
-			;;the restrictions that dictate when this track is valid to transition to
-			"transition restrictions":
-			[
-				"unit states":
-				{
-					"string": ">0.0% of units in our army that are present are in the state fighting",
-				},
-			],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_hun_battle_1)_a_thousand_arrows.opus",
-				"data/sounds/music/(bi_hun_battle_2)_scourge_of_god.opus",
-				"data/sounds/music/(bi_hun_battle_3)_the_will_of_tengri.opus",
+				"data/sounds/music/Intro_Roman_Brutii.opus",
+				"data/sounds/music/Intro_Roman_Scipii.opus",
+				"data/sounds/music/Mobilize6-Soldiers_Chant.opus",
+				"data/sounds/music/Mobilize5-Mobilize.opus",
+				"data/sounds/music/Mobilize4-Army_of_Drums.opus",
+				"data/sounds/music/Mobilize3-Enemy_is_Near.opus",
+				"data/sounds/music/Mobilize2-Warrior_March.opus",
+				"data/sounds/music/Mobilize1-Journey_to_Rome_Part2.opus",
 				{
 				},
 			],
@@ -601,6 +165,53 @@
 			"sounds":
 			[
 				;;no sounds assigned
+			],
+		},
+		{
+			;;the factions that the player can be playing as
+			"player factions":
+				[ "all", ],
+
+			;;the factions that the player can be fighting against
+			"enemy factions":
+				[ "all", ],
+
+			;;the id of this state
+			"ID": "battle",
+
+			;;is this sound high priority and how long should it wait before forcing a transition if so
+			"high priority": false,
+			"max change delay": 0,
+
+			;;the states that this can transition from
+			"from states":
+			[
+				"mobilise",
+				"tension",
+			],
+
+			;;the restrictions that should be checked before the battle to confirm this track is valid (same as prebattle speech)
+			"battle restrictions":
+			[
+			],
+
+			;;the restrictions that dictate when this track is valid to transition to
+			"transition restrictions":
+			[
+				"unit states":
+				{
+					"string": ">0.0% of units in our army that are present are in the state fighting",
+				},
+			],
+
+			"sounds":
+			[
+				"data/sounds/music/Battle4-Romantic_Battle.opus",
+				"data/sounds/music/Battle3-Melee_Cafe.opus",
+				"data/sounds/music/Battle2-Mayhem.opus",
+				"data/sounds/music/Battle1-Imperial_Conflict.opus",
+				{
+				},
 			],
 		},
 		{

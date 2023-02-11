@@ -65,11 +65,11 @@ multiplier	2
 multiplier	2
 category	siege
 
-multiplier	2.25
+multiplier	2
 category	cavalry
 class		light, skirmish, spearmen, missile
 
-multiplier	2.15
+multiplier	2
 category	cavalry
 class		heavy
 
@@ -80,9 +80,9 @@ class		heavy
 Characters
 
 ; Default, set all characters to a movement multiplier of 1 then override below
-multiplier	2.15
+multiplier	2
 
-multiplier	2.5
+multiplier	2.25
 type		agents
 
 multiplier	3

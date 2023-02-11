@@ -699,7 +699,7 @@ mount            generals horse
 mount_effect     elephant -4, camel -4
 attributes       sea_faring, general_unit, hide_forest, hardy
 formation        1.5, 4, 3, 6, 3, square
-stat_health      2, 0
+stat_health      1, 0
 stat_pri         11, 6, no, 0, 0, melee, blade, piercing, spear, 25 ,1
 stat_pri_attr    no
 stat_sec         12, 5, no, 0, 0, melee, blade, piercing, sword, 25 ,1
@@ -1335,7 +1335,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 250, 50, 70, 450
-ownership        goths, ostrogoths
+ownership        goths, ostrogoths, gepids
+ethnicity goths, Dacia
+ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
 
 type             saxon keels
 dictionary       saxon_keels      ; Saxon Keel
@@ -2694,9 +2697,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 200, 75, 20, 30, 90
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             steppe spearmen hun
@@ -2778,9 +2782,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 405, 175, 50, 70, 450
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             runaway slave spearmen
@@ -2806,8 +2811,9 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 400, 200, 30, 50, 300
-ownership        slave, sarmatians, roxolani, huns, white_huns, goths, ostrogoths
+ownership        slave, sarmatians, roxolani, huns, white_huns, goths, ostrogoths, gepids
 ethnicity goths, Dacia
+ethnicity gepids, Dacia
 ethnicity huns, Mongolia
 ethnicity white_huns, Mongolia
 ethnicity ostrogoths, Dacia
@@ -2838,7 +2844,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 81, 0, 20, 30, 90
-ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths
+ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths, gepids
  
  
 type             steppe horde spearmen
@@ -2864,7 +2870,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 270, 0, 30, 50, 300
-ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths
+ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths, gepids
  
  
 type             steppe horde horse
@@ -2892,9 +2898,10 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 468, 0, 60, 80, 520
-ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths
+ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
 ethnicity roxolani, Sarmatia
 ethnicity sarmatians, Sarmatia
 ethnicity slavs, Locus_Barbaricum
@@ -2925,9 +2932,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 558, 0, 70, 100, 620
-ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths
+ownership        sarmatians, roxolani, vandals, slavs, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
 ethnicity roxolani, Sarmatia
 ethnicity sarmatians, Sarmatia
 ethnicity slavs, Locus_Barbaricum
@@ -3159,9 +3167,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 400, 60, 90, 560
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             sarmatian virgin archers foot
@@ -3243,9 +3252,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 500, 200, 60, 90, 540
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             steppe heavy spearmen hun
@@ -3539,9 +3549,10 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 550, 325, 70, 100, 630
-ownership        goths, ostrogoths
+ownership        goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             hunnic heavy cavalry
@@ -3629,9 +3640,10 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 1000, 600, 100, 150, 970
-ownership        goths, ostrogoths
+ownership        goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             tribal cavalry
@@ -3749,9 +3761,10 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 300, 80, 110, 730
-ownership        slave, sarmatians, roxolani, goths, ostrogoths
+ownership        slave, sarmatians, roxolani, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
 ethnicity roxolani, Sarmatia
 ethnicity sarmatians, Sarmatia
  
@@ -3841,9 +3854,10 @@ stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 600, 300, 70, 100, 630
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             mounted arian priests
@@ -3899,9 +3913,10 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 400, 250, 20, 30, 190
-ownership        goths, ostrogoths
+ownership        goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             hunnic warlords
@@ -4019,9 +4034,10 @@ stat_charge_dist 50
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        3, 1503, 600, 140, 210, 1370
-ownership        slave, goths, ostrogoths
+ownership        slave, goths, ostrogoths, gepids
 ethnicity goths, Dacia
 ethnicity ostrogoths, Dacia
+ethnicity gepids, Dacia
  
  
 type             sassanid peasant

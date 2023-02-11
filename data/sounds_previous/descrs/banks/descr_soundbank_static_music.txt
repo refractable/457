@@ -1,0 +1,850 @@
+;; Last updated by jburnett on 2021/07/14
+;; DESCR file generated via RTW Amber pack editor
+
+"default sound parameters":
+{
+	"3d": false,				;;is the sound 3D (DO NOT CHANGE THIS)
+	"Probability": 100.0,		;;the chance the sound will play when triggered
+	"Volume": 100,				;;the volume of the sample as a percentage of the base file's
+	"Min pitch": 100.0,			;;the random pitch of the sample (0-200%)
+	"Max pitch": 100.0,			
+	"Priority": 9999,			;;sound with high priority will replace lower priority sounds if all soundchannels are used
+	"Fade in": 0.0,				;;the time, in seconds, for the sound to fade in and out
+	"Fade out": 0.0,			
+	"Looped": false,			;;should the sound loop?
+	"Random volume": 0,			;;the random adjustment applied to the volume (must be negative)
+	"Start delay": 0.0,			;;the constant delay before the sound should play when triggered
+	"Random delay": 0.0,		;;the maximum random delay added to the constant delay
+	"Pref type": "Music",		;;the slider the sound should be attached to
+	"Ignore pause": false,		;;should this sound ignore being paused?
+	"Streamed": true,			;;should this sound be streamed from disk?
+	"Pan": 0.5,					;;direction the sound should come from (nonfunctional as of writing this)
+	"Dry level": 1.0,			;; ???
+	"Wet level": 0.0,			;; ???
+},
+
+"soundbank_static_music":
+{
+	"entries":
+	[
+
+		{
+			;;the music state these tracks are tied to
+			"state": "frontend",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_frontend_1)_attila.opus",
+				"data/sounds/music/(bi_credits)_settlers_of_the_apocalypse.opus",
+				"data/sounds/music/(live_acton_trailer).opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-roman", "-carthaginian", "-eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "roman", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "city",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "hun", "nomad", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				{
+					"Volume": 65,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(roman_camp_battle_bi)_barbarians_at_the_gates.opus",
+				"data/sounds/music/(bi_barbarian_camp_battle_1)_call_of_woden.opus",
+				"data/sounds/music/(bi_eastern_camp_battle_1)_with_lance_and_mace.opus",
+				"data/sounds/music/(bi_hun_camp_battle_1)_blood_for_the_sky_god.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "roman", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(roman_camp_battle_bi)_barbarians_at_the_gates.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_camp_battle_1)_call_of_woden.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_eastern_camp_battle_1)_with_lance_and_mace.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "prebattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "hun", "nomad", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_hun_camp_battle_1)_blood_for_the_sky_god.opus",
+				{
+					"Volume": 90,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "postbattle_scroll",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/silence.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-roman", "-carthaginian", "-eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "roman", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_summer",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "hun", "nomad", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "near_victory",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				{
+					"Priority": 0,				;;sound with high priority will replace lower priority sounds if all soundchannels are used
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", "-carthaginian", "-eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "roman", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "barbarian", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_10)_snowfall.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_12)_winters_bard.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "carthaginian", "eastern", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(bi_eastern_strat_map_2)_ctesiphon.opus",
+				"data/sounds/music/(bi_eastern_strat_map_3)_dying_empires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+				"data/sounds/music/(bi_eastern_strat_map_7)_sacred_fires.opus",
+				"data/sounds/music/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+				"data/sounds/music/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_roman_strat_map_3)_forgotten_glory.opus",
+				"data/sounds/music/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_roman_strat_map_6)_streets_of_roma.opus",
+				"data/sounds/music/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+				"data/sounds/music/(bi_roman_strat_map_8)_the_last_emperor.opus",
+				"data/sounds/music/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+				"data/sounds/music/(bi_roman_strat_map_10)_vineyards.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "stratmap_winter",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "hun", "nomad", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(bi_hun_strat_map_2)_harbingers.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_hun_strat_map_6)_the_four_winds.opus",
+				"data/sounds/music/(bi_hun_strat_map_7)_the_journey_west.opus",
+				"data/sounds/music/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+				"data/sounds/music/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+				"data/sounds/music/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+				{
+					"Volume": 60,				;;the volume of the sample as a percentage of the base file's
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "credits1",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_credits)_settlers_of_the_apocalypse.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the music state these tracks are tied to
+			"state": "credits2",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "all", ],
+
+			"sounds":
+			[
+				"data/sounds/music/(bi_eastern_strat_map_1)_bazaar.opus",
+				"data/sounds/music/(eastern_camp_battle_1)_crassus_nightmare.opus",
+				"data/sounds/music/(bi_eastern_tension_2)_desert_omens.opus",
+				"data/sounds/music/(bi_eastern_battle_1)_burning_crescent.opus",
+				"data/sounds/music/(bi_eastern_battle_2)_riders_of_the_east.opus",
+				"data/sounds/music/(bi_eastern_intro)_the_sassanid_empire.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+				"data/sounds/music/(bi_barbarian_camp_battle_1)_call_of_woden.opus",
+				"data/sounds/music/(bi_barbarian_tension_2)_weeping_Skies.opus",
+				"data/sounds/music/(bi_barbarian_battle_1)_assault_by_sea.opus",
+				"data/sounds/music/(bi_barbarian_battle_2)_fire_and_ice.opus",
+				"data/sounds/music/(bi_barbarian_intro)_the_great_migrators.opus",
+				"data/sounds/music/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+				"data/sounds/music/(roman_camp_battle_1)_roma_invicta.opus",
+				"data/sounds/music/(bi_hun_tension_1)_on_the_steppes.opus",
+				"data/sounds/music/(bi_hun_battle_1)_a_thousand_arrows.opus",
+				"data/sounds/music/(bi_hun_battle_3)_the_will_of_tengri.opus",
+				"data/sounds/music/(bi_hun_cutscene)_the_day_of_reckoning.opus",
+				"data/sounds/music/(bi_roman_strat_map_2)_foederati.opus",
+				"data/sounds/music/(bi_barbarian_trailer)_the_celts.opus",
+				"data/sounds/music/(bi_roman_tension_2)_to_arms.opus",
+				"data/sounds/music/(bi_roman_battle_1)_champions_of_god.opus",
+				"data/sounds/music/(bi_roman_battle_3)_the_red_horse.opus",
+				"data/sounds/music/(live_acton_trailer).opus",
+				"data/sounds/music/(bi_frontend_1)_attila.opus",
+				"data/sounds/music/(bi_eastern_strat_map_4)_empty_throne.opus",
+				"data/sounds/music/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+				"data/sounds/music/(bi_roman_strat_map_1)_concealed_blades.opus",
+				"data/sounds/music/(bi_barbarian_strat_map_2)_dark_forest.opus",
+				"data/sounds/music/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+				"data/sounds/music/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+				"data/sounds/music/(bi_roman_strat_map_5)_seven_hills.opus",
+				"data/sounds/music/(bi_hun_strat_map_5)_nomads.opus",
+				"data/sounds/music/(bi_credits)_settlers_of_the_apocalypse.opus",
+				{
+				},
+			],
+		},
+	],
+}, ;;soundbank_static_music

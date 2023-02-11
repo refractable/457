@@ -23,6 +23,7 @@ playable
 	berbers
 	white_huns
 	thuringians
+	gepids
 end 
 unlockable
 end
@@ -3775,18 +3776,18 @@ character	Spartakos Andronicus, named character, leader, age 41, , x 213, y 192
 traits FactionLeader 1, GoodBuilder 1 , GoodFarmer 2 , Pagan 1
 ancillaries bodyguard
 army
-unit		eques bucellarii				exp 3 armour 2 weapon_lvl 1
-unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
-unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
-unit		eques cataphractarii		exp 3 armour 2 weapon_lvl 1
-unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
-unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
-unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
-unit		pedes comitatenses				exp 3 armour 2 weapon_lvl 1
-unit		pedes limitaneus				exp 3 armour 2 weapon_lvl 1
-unit		pedes limitaneus				exp 3 armour 3 weapon_lvl 1
-unit		exculator limitaneus		exp 3 armour 2 weapon_lvl 1
-unit		exculator limitaneus		exp 3 armour 2 weapon_lvl 1
+unit		eques bucellarii				exp 4 armour 0 weapon_lvl 0
+unit		eques ala				exp 2 armour 0 weapon_lvl 0
+unit		eques ala				exp 2 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes psuedocomitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes psuedocomitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes psuedocomitatenses				exp 0 armour 0 weapon_lvl 0
+unit		pedes limitaneus				exp 0 armour 0 weapon_lvl 0
+unit		pedes limitaneus				exp 0 armour 0 weapon_lvl 0
+unit		exculator limitaneus		exp 0 armour 0 weapon_lvl 0
+unit		exculator limitaneus		exp 0 armour 0 weapon_lvl 0
 
 character_record		Aganippe, 	female, command 0, influence 0, management 0, subterfuge 0, age 44, alive, never_a_leader
 character_record		Tisamenios Andronicus, 	male, command 0, influence 0, management 0, subterfuge 0, age 15, alive, never_a_leader
@@ -19006,6 +19007,238 @@ traits GoodDiplomat 2 , Pagan 1
 character	Ostina, spy, age 24, , x 100, y 193 
 traits GoodSpy 1 , Pagan 1
 
+
+faction	gepids, fortified_caesar
+denari 10000
+
+settlement
+{
+	level city
+	region Apulensis
+
+	year_founded 20
+	population 11507
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+}
+
+settlement
+{
+	level large_town
+	region Malvensis
+
+	year_founded 0
+	population 5100
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+
+settlement
+{
+	level large_town
+	region Getia
+
+	year_founded 0
+	population 3150
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+}
+
+settlement
+{
+	level large_town
+	region Roxolania
+
+	year_founded 0
+	population 2750
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+
+settlement
+{
+	level large_town
+	region Potulatensia
+
+	year_founded 0
+	population 3900
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level large_town
+	region Porolissensis
+
+	year_founded 0
+	population 3700
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+}
+
+character	Ardaric, named character, leader, age 32, , x 163, y 181 
+traits FactionLeader 1, Pagan 1 , GoodCommander 2 , Upright 2 , Ignorance 1 , HarshJustice 1, Warlord 2 , Despoiler 1
+ancillaries aged_retainer, bard, soothsayer
+army
+unit		goth warlords				exp 3 armour 0 weapon_lvl 0
+unit		gothic warriors				exp 1 armour 0 weapon_lvl 0
+unit		gothic warriors				exp 1 armour 0 weapon_lvl 0
+unit		gothic warriors				exp 1 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 1 armour 0 weapon_lvl 0
+unit		goth raiders				exp 1 armour 0 weapon_lvl 0
+
+character	Sigeric, general, age 16, , x 157, y 180 
+traits
+ancillaries
+army
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+
+character	Sigeric, general, age 16, , x 159, y 184 
+traits
+ancillaries
+army
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+
+character	Sigeric, general, age 16, , x 175, y 184 
+traits
+ancillaries
+army
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+
+character	Sigeric, general, age 16, , x 169, y 173 
+traits
+ancillaries
+army
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+
+character	Sigeric, general, age 16, , x 161, y 175 
+traits
+ancillaries
+army
+unit		gothic freemen				exp 0 armour 0 weapon_lvl 0
+
+character	Vithimer, diplomat, age 28, , x 163, y 181 
+traits GoodDiplomat 2 , Pagan 1
+
+character	Thuruar, spy, age 24, , x 163, y 181 
+traits GoodSpy 1 , Pagan 1
+
+
+character_record		Bescela, 	female, command 0, influence 0, management 0, subterfuge 0, age 29, alive, never_a_leader
+
+relative	Ardaric,	Bescela,	end 
+
 faction	slave, fortified_mao
 denari	0
 
@@ -20531,176 +20764,6 @@ settlement
 	}
 }
 
-settlement
-{
-	level city
-	region Apulensis
-
-	year_founded 20
-	population 11507
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_palace
-	}
-	building
-	{
-		type barracks militia_barracks
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type missiles practice_field
-	}
-	building
-	{
-		type market forum
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-	building
-	{
-		type hinterland_farms farms+1
-	}
-	building
-	{
-		type hinterland_mines mines
-	}
-	building
-	{
-		type temple_church_christianity church_christianity_chapel
-	}
-}
-
-settlement
-{
-	level large_town
-	region Malvensis
-
-	year_founded 0
-	population 5100
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_wall
-	}
-	building
-	{
-		type barracks militia_barracks
-	}
-	building
-	{
-		type missiles practice_field
-	}
-	building
-	{
-		type market trader
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-}
-
-
-settlement
-{
-	level large_town
-	region Getia
-
-	year_founded 0
-	population 3150
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_villa
-	}
-}
-
-settlement
-{
-	level large_town
-	region Roxolania
-
-	year_founded 0
-	population 2750
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-}
-
-settlement
-{
-	level large_town
-	region Potulatensia
-
-	year_founded 0
-	population 3900
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_wall
-	}
-	building
-	{
-		type barracks militia_barracks
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-}
-
-settlement
-{
-	level large_town
-	region Porolissensis
-
-	year_founded 0
-	population 3700
-	plan_set default_set
-	faction_creator goths
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_wall
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type equestrian stables
-	}
-}
 settlement
 {
 	level town
@@ -27902,32 +27965,6 @@ unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
 unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
 unit		goth raiders				exp 0 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 159, y 184 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 157, y 180 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 133, y 196 
 traits
 ancillaries
@@ -28051,22 +28088,6 @@ unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
 unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
 unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
 
-character, sub_faction huns, Amage, general, age 16, , x 163, y 181 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-
 character, sub_faction huns, Amage, general, age 16, , x 172, y 187 
 traits
 ancillaries
@@ -28076,37 +28097,6 @@ unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
 unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
 unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
 unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 175, y 184 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 161, y 175 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-
-character, sub_faction huns, Amage, general, age 16, , x 169, y 173 
-traits
-ancillaries
-army
-unit		gothic warrior nobles				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-
 
 character, sub_faction huns, Amage, general, age 16, , x 450, y 141 
 traits
@@ -29506,7 +29496,7 @@ unit		runaway slave spearmen				exp 2 armour 0 weapon_lvl 0
 core_attitudes 			slave,				at_war_with 	empire_east, empire_west, franks, huns, white_huns, sarmatians, sassanids, saxons, vandals, goths, celts, berbers, alemanni, ostrogoths, romano_british, slavs, empire_east_rebels, empire_west_rebels, roxolani, burgundii, lombardi
 core_attitudes			empire_east,			0 			empire_west
 core_attitudes			empire_east,			200 			franks, romano_british
-core_attitudes			empire_east,			400 			huns, goths, ostrogoths, roxolani, saxons, burgundii, lombardi, sarmatians, berbers, alemanni, vandals, slavs
+core_attitudes			empire_east,			400 			huns, goths, ostrogoths, roxolani, saxons, burgundii, lombardi, sarmatians, berbers, alemanni, vandals, slavs, gepids
 core_attitudes			empire_east,			600 			sassanids, slave, empire_east_rebels, empire_west_rebels
 core_attitudes			empire_west,			0 			empire_east
 core_attitudes			empire_west,			200 			romano_british, franks
@@ -29572,7 +29562,8 @@ core_attitudes			bosporan_kingdom,			400 		    goths, ostrogoths, roxolani, saxo
 core_attitudes			bosporan_kingdom,			600 			sassanids, slave, empire_east_rebels, empire_west_rebels
 
 faction_relationships 	white_huns, at_war_with 	slave, sassanids
-faction_relationships 	huns, at_war_with 	slave
+faction_relationships 	huns, at_war_with 	slave, gepids
+faction_relationships 	gepids, at_war_with 	slave, huns
 faction_relationships 	goths, at_war_with 	empire_west, slave
 faction_relationships 	ostrogoths, at_war_with		empire_west, slave
 faction_relationships 	sarmatians, at_war_with 	empire_east, empire_west, slave
@@ -29594,7 +29585,7 @@ faction_relationships 	empire_west, allied_to 	empire_east
 faction_relationships 	empire_west, at_war_with 	sarmatians, alemanni, goths, burgundii, vandals, celts, berbers, ostrogoths, empire_east_rebels, empire_west_rebels, slave
 faction_relationships 	empire_east_rebels, at_war_with 	empire_east, empire_west
 faction_relationships 	empire_west_rebels, at_war_with 	empire_east, empire_west
-faction_relationships 	slave, at_war_with 	huns, goths, sarmatians, vandals, franks, saxons, alemanni, celts, sassanids, roxolani, burgundii, berbers, empire_east, empire_west, lombardi, romano_british, ostrogoths, berbers, slavs
+faction_relationships 	slave, at_war_with 	huns, goths, sarmatians, vandals, franks, saxons, alemanni, celts, sassanids, roxolani, burgundii, berbers, empire_east, empire_west, lombardi, romano_british, ostrogoths, berbers, slavs, gepids
 ;;define spawning scripts
 script
 4_turns_per_year_script.txt

@@ -81,3 +81,7 @@ take_regions 100
 thuringians
 hold_regions Brocomagus Aquincum Roma
 take_regions 100
+
+gepids
+hold_regions Byzantion Mutina Iazygiana Popesti Malica Setuacatum
+take_regions 100

@@ -1192,6 +1192,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/exculator_limitaneus1_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/exculator_limitaneus1_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1205,6 +1209,10 @@
 	},
 	{
 		"filename": "data\/characters\/exculator_limitaneus2_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/exculator_limitaneus2_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1224,6 +1232,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/exculator_limitaneus3_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/exculator_limitaneus3_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1237,6 +1249,10 @@
 	},
 	{
 		"filename": "data\/characters\/exculator_limitaneus4_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/exculator_limitaneus4_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1384,6 +1400,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/iuvenis_foederatus1_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/iuvenis_foederatus1_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1397,6 +1417,10 @@
 	},
 	{
 		"filename": "data\/characters\/iuvenis_foederatus2_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/iuvenis_foederatus2_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1416,6 +1440,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/iuvenis_foederatus3_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/iuvenis_foederatus3_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1429,6 +1457,10 @@
 	},
 	{
 		"filename": "data\/characters\/iuvenis_foederatus4_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/iuvenis_foederatus4_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1448,6 +1480,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/miles_foederatus1_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/miles_foederatus1_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1461,6 +1497,10 @@
 	},
 	{
 		"filename": "data\/characters\/miles_foederatus2_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/miles_foederatus2_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1480,6 +1520,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/characters\/miles_foederatus3_lod0_lod1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/characters\/miles_foederatus3_lod1.cas",
 		"checksum": "Blacklisted"
 	},
@@ -1493,6 +1537,10 @@
 	},
 	{
 		"filename": "data\/characters\/miles_foederatus4_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/miles_foederatus4_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1708,23 +1756,11 @@
 		"checksum": "Blacklisted"
 	},
 	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses1_lod1_lod1.cas",
-		"checksum": "Blacklisted"
-	},
-	{
 		"filename": "data\/characters\/pedes_psuedocomitatenses1_lod2.cas",
 		"checksum": "Blacklisted"
 	},
 	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses1_lod2_lod1.cas",
-		"checksum": "Blacklisted"
-	},
-	{
 		"filename": "data\/characters\/pedes_psuedocomitatenses1_lod3.cas",
-		"checksum": "Blacklisted"
-	},
-	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses1_lod3_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1736,23 +1772,11 @@
 		"checksum": "Blacklisted"
 	},
 	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses2_lod1_lod1.cas",
-		"checksum": "Blacklisted"
-	},
-	{
 		"filename": "data\/characters\/pedes_psuedocomitatenses2_lod2.cas",
 		"checksum": "Blacklisted"
 	},
 	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses2_lod2_lod1.cas",
-		"checksum": "Blacklisted"
-	},
-	{
 		"filename": "data\/characters\/pedes_psuedocomitatenses2_lod3.cas",
-		"checksum": "Blacklisted"
-	},
-	{
-		"filename": "data\/characters\/pedes_psuedocomitatenses2_lod3_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1853,6 +1877,10 @@
 	},
 	{
 		"filename": "data\/characters\/tiro_limitaneus1_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/characters\/tiro_limitaneus1_lod0_lod1.cas",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -1997,7 +2025,7 @@
 	},
 	{
 		"filename": "data\/descr_banners.txt",
-		"checksum": 3382869254
+		"checksum": 418839469
 	},
 	{
 		"filename": "data\/descr_beliefs.txt",
@@ -2009,7 +2037,7 @@
 	},
 	{
 		"filename": "data\/descr_character.txt",
-		"checksum": 456390540
+		"checksum": 1929084210
 	},
 	{
 		"filename": "data\/descr_climates.txt",
@@ -2041,15 +2069,15 @@
 	},
 	{
 		"filename": "data\/descr_namelists.txt",
-		"checksum": 1758577592
+		"checksum": 3838460735
 	},
 	{
 		"filename": "data\/descr_names.txt",
-		"checksum": 2907938401
+		"checksum": 3124875574
 	},
 	{
 		"filename": "data\/descr_names_lookup.txt",
-		"checksum": 2668461590
+		"checksum": 3743907291
 	},
 	{
 		"filename": "data\/descr_rebel_factions.txt",
@@ -2061,11 +2089,11 @@
 	},
 	{
 		"filename": "data\/descr_sm_faction_logos.txt",
-		"checksum": 876718348
+		"checksum": 4282248100
 	},
 	{
 		"filename": "data\/descr_sm_factions.txt",
-		"checksum": 26174740
+		"checksum": 809394546
 	},
 	{
 		"filename": "data\/descr_sm_factions_difficulty.json",
@@ -2081,7 +2109,11 @@
 	},
 	{
 		"filename": "data\/descr_sounds.txt",
-		"checksum": 1436750708
+		"checksum": 4041042488
+	},
+	{
+		"filename": "data\/descr_sounds_previous.txt",
+		"checksum": 4041042488
 	},
 	{
 		"filename": "data\/descr_standards.txt",
@@ -2109,7 +2141,7 @@
 	},
 	{
 		"filename": "data\/export_descr_buildings.txt",
-		"checksum": 2584172501
+		"checksum": 2717915610
 	},
 	{
 		"filename": "data\/export_descr_character_traits.txt",
@@ -2117,7 +2149,7 @@
 	},
 	{
 		"filename": "data\/export_descr_unit.txt",
-		"checksum": 4178266353
+		"checksum": 4026260051
 	},
 	{
 		"filename": "data\/export_descr_unit_enums.txt",
@@ -2349,6 +2381,22 @@
 	},
 	{
 		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_franks_select.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_gepids.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_gepids_grey.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_gepids_roll.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/menu\/symbols\/fe_buttons_feral\/symbol128_gepids_select.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -2584,10 +2632,6 @@
 		"checksum": "Blacklisted"
 	},
 	{
-		"filename": "data\/models\/data - shortcut.lnk",
-		"checksum": 3331607502
-	},
-	{
 		"filename": "data\/models\/textures\/standard_alemanni.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -2665,6 +2709,14 @@
 	},
 	{
 		"filename": "data\/models\/textures\/standard_franks_ally.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models\/textures\/standard_gepids.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models\/textures\/standard_gepids_ally.tga.dds",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -2808,6 +2860,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models_strat\/symbol_gepids.cas",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models_strat\/symbol_goths.cas",
 		"checksum": "Blacklisted"
 	},
@@ -2936,6 +2992,14 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_gepids.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_gepids_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models_strat\/textures\/#banner_symbol_goths.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -3008,6 +3072,10 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/models_strat\/textures\/#banner_symbol_seleucid.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/models_strat\/textures\/#banner_symbol_slavs.tga.dds",
 		"checksum": "Blacklisted"
 	},
@@ -3061,539 +3129,699 @@
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_battle_end_music.txt",
-		"checksum": 3001343790
+		"checksum": 2964044734
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_battle_music_statemachine.txt",
-		"checksum": 2621596632
+		"checksum": 2072005279
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_battle_notifications.txt",
-		"checksum": 1351395485
-	},
-	{
-		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_building.txt",
-		"checksum": 3771603275
+		"checksum": 3445461002
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_campaign_end.txt",
-		"checksum": 3567548815
-	},
-	{
-		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_character_action.txt",
-		"checksum": 1756179836
+		"checksum": 3534147339
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_character_vocal.txt",
-		"checksum": 1589491535
+		"checksum": 277939939
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_diplomacy_comment.txt",
-		"checksum": 1529930786
-	},
-	{
-		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_generic_unit_anims.txt",
-		"checksum": 2854787615
+		"checksum": 3011513158
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_message_events.txt",
-		"checksum": 3247629473
+		"checksum": 1627288992
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_prebattle_speech.txt",
-		"checksum": 539615670
+		"checksum": 717392731
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_static_music.txt",
-		"checksum": 1999820627
+		"checksum": 2738514690
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_anims.txt",
-		"checksum": 3968774569
+		"checksum": 2680047156
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_berserk.txt",
-		"checksum": 2040571273
+		"checksum": 3229154338
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_celebrate.txt",
-		"checksum": 1613729076
+		"checksum": 611867153
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_charge.txt",
-		"checksum": 3181745635
+		"checksum": 914839321
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_collide.txt",
-		"checksum": 1558724861
+		"checksum": 867854984
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_confirm.txt",
-		"checksum": 1855095528
+		"checksum": 3448601289
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_confirm_single.txt",
-		"checksum": 1614338437
+		"checksum": 2010771190
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_druid_chant.txt",
-		"checksum": 3144011200
+		"checksum": 784659382
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_fighting.txt",
-		"checksum": 99266264
+		"checksum": 1446737057
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_idle.txt",
-		"checksum": 2002774765
+		"checksum": 366722386
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_retreating.txt",
-		"checksum": 2177745194
+		"checksum": 838290592
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_routing.txt",
-		"checksum": 4078653815
+		"checksum": 2285820824
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_screeching_women.txt",
-		"checksum": 3386402032
+		"checksum": 204561153
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_taunting.txt",
-		"checksum": 4134204605
+		"checksum": 351660854
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_voice.txt",
-		"checksum": 1719046600
+		"checksum": 2542881534
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_unit_warcry.txt",
-		"checksum": 3337327473
+		"checksum": 3418077802
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_war_horns.txt",
-		"checksum": 455676547
+		"checksum": 1268831216
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/descr_soundbank_weapon_hit.txt",
-		"checksum": 499421399
+		"checksum": 1190040052
 	},
 	{
-		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_arabic_unit_anims.txt",
-		"checksum": 557043962
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/nonroman\/descr_generic_elements.txt",
+		"checksum": 135875022
 	},
 	{
-		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_barbarian_unit_anims.txt",
-		"checksum": 2767050805
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_aiding_allies.txt",
+		"checksum": 1675068102
 	},
 	{
-		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_female_unit_anims.txt",
-		"checksum": 2115722285
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_battle_context.txt",
+		"checksum": 3883194514
 	},
 	{
-		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_greek_unit_anims.txt",
-		"checksum": 358671612
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_battle_odds.txt",
+		"checksum": 2081281842
 	},
 	{
-		"filename": "data\/sounds\/descrs\/banks\/unit_anims\/descr_soundbank_roman_unit_anims.txt",
-		"checksum": 566831639
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_battle_terrain.txt",
+		"checksum": 899498630
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_battle_type.txt",
+		"checksum": 1659108571
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_enemy_allies.txt",
+		"checksum": 2471868993
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_generic_elements.txt",
+		"checksum": 3080348883
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_main_enemy.txt",
+		"checksum": 2222269674
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_omens.txt",
+		"checksum": 789966460
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_oneliners.txt",
+		"checksum": 3644968193
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_our_allies.txt",
+		"checksum": 1013757557
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_previous_record.txt",
+		"checksum": 3020695460
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_reinforcements.txt",
+		"checksum": 2482827205
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_trait_closers.txt",
+		"checksum": 731080441
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_trait_comments.txt",
+		"checksum": 4054552729
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_trait_openers.txt",
+		"checksum": 3770897155
+	},
+	{
+		"filename": "data\/sounds\/descrs\/banks\/prebattle_speeches\/roman\/descr_troop_comparison.txt",
+		"checksum": 3097847430
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_ai_unit_voices.txt",
-		"checksum": 3195667249
+		"checksum": 1644625225
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_barbarian_general_unit_voices.txt",
-		"checksum": 275218482
+		"checksum": 2322107103
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_barbarian_unit_voices.txt",
-		"checksum": 4055693312
+		"checksum": 1386276519
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_eastern_general_unit_voices.txt",
-		"checksum": 2994546631
+		"checksum": 1910732505
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_eastern_unit_voices.txt",
-		"checksum": 1594662464
+		"checksum": 2214218176
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_female_unit_voices.txt",
-		"checksum": 3006007874
+		"checksum": 450038885
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_roman_general_unit_voices.txt",
-		"checksum": 2655427040
+		"checksum": 530095846
 	},
 	{
 		"filename": "data\/sounds\/descrs\/banks\/unit_voices\/descr_roman_unit_voices.txt",
-		"checksum": 1231282701
+		"checksum": 44772090
 	},
 	{
 		"filename": "data\/sounds\/descrs\/descr_bank_sounds.txt",
-		"checksum": 3205657231
-	},
-	{
-		"filename": "data\/sounds\/descrs\/descr_enum_sounds.txt",
-		"checksum": 732994716
+		"checksum": 2649282544
 	},
 	{
 		"filename": "data\/sounds\/descrs\/descr_misc_sounds.txt",
-		"checksum": 1021253588
+		"checksum": 729225993
 	},
 	{
 		"filename": "data\/sounds\/events.dat",
-		"checksum": 862244829
+		"checksum": 1932437038
 	},
 	{
 		"filename": "data\/sounds\/events.idx",
-		"checksum": 250051959
+		"checksum": 2971163117
 	},
 	{
-		"filename": "data\/sounds\/interface.dat.feral",
-		"checksum": 3255613983
+		"filename": "data\/sounds\/localised\/en\/voice_voiceover.dat.feral",
+		"checksum": 526955375
 	},
 	{
-		"filename": "data\/sounds\/interface.idx.feral",
-		"checksum": 4264484308
+		"filename": "data\/sounds\/localised\/en\/voice_voiceover.idx.feral",
+		"checksum": 3837664946
 	},
 	{
 		"filename": "data\/sounds\/music.dat.feral",
-		"checksum": 1309372981
+		"checksum": 1354193637
 	},
 	{
 		"filename": "data\/sounds\/music.idx.feral",
-		"checksum": 1565951285
-	},
-	{
-		"filename": "data\/sounds\/music\/(barbarian_loading_1)_the_fallen_eagle.opus",
-		"checksum": 3743993075
-	},
-	{
-		"filename": "data\/sounds\/music\/(barbarian_loading_2)_war_in_the_north.opus",
-		"checksum": 4067630855
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_battle_1)_assault_by_sea.opus",
-		"checksum": 3865527434
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_battle_2)_fire_and_ice.opus",
-		"checksum": 3883861840
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_battle_3)_lets_kill_some_romans.opus",
-		"checksum": 3014348010
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_camp_battle_1)_call_of_woden.opus",
-		"checksum": 1588839259
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_intro)_the_great_migrators.opus",
-		"checksum": 1041785217
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_1)_autumn_rains.opus",
-		"checksum": 1841805090
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_10)_snowfall.opus",
-		"checksum": 2938948068
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_11)_warm_hearths.opus",
-		"checksum": 2715570715
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_12)_winters_bard.opus",
-		"checksum": 3097354865
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_2)_dark_forest.opus",
-		"checksum": 570062243
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
-		"checksum": 1030831266
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
-		"checksum": 233232997
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
-		"checksum": 2548632890
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
-		"checksum": 2548143084
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
-		"checksum": 1364177885
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
-		"checksum": 2621030299
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
-		"checksum": 3492168837
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_tension_1)_lamentation.opus",
-		"checksum": 2102494417
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_tension_2)_weeping_skies.opus",
-		"checksum": 1517035321
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_tension_3)_winter_realm.opus",
-		"checksum": 3950394812
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_barbarian_trailer)_the_celts.opus",
-		"checksum": 2769761427
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_credits)_settlers_of_the_apocalypse.opus",
-		"checksum": 2662350740
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_battle_1)_burning_crescent.opus",
-		"checksum": 52272746
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_battle_2)_riders_of_the_east.opus",
-		"checksum": 1743440165
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_battle_3)_warriors_of_ahura.opus",
-		"checksum": 1128343488
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_camp_battle_1)_with_lance_and_mace.opus",
-		"checksum": 2681805803
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_intro)_the_sassanid_empire.opus",
-		"checksum": 2304799704
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_1)_bazaar.opus",
-		"checksum": 442935666
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_2)_ctesiphon.opus",
-		"checksum": 2130451284
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_3)_dying_empires.opus",
-		"checksum": 3937587527
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_4)_empty_throne.opus",
-		"checksum": 4225748990
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_5)_journeying_caravans.opus",
-		"checksum": 4137299993
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
-		"checksum": 1323299736
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_7)_sacred_fires.opus",
-		"checksum": 1096044786
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_8)_sea_of_sand.opus",
-		"checksum": 1161296621
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_strat_map_9)_the_shahanshah.opus",
-		"checksum": 2625106433
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_tension_1)_arid_winds.opus",
-		"checksum": 942776714
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_tension_2)_desert_omens.opus",
-		"checksum": 3636050320
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_eastern_tension_3)_thirsty_sands.opus",
-		"checksum": 544798498
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_frontend_1)_attila.opus",
-		"checksum": 4014785131
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_battle_1)_a_thousand_arrows.opus",
-		"checksum": 103154494
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_battle_2)_scourge_of_god.opus",
-		"checksum": 3973810200
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_battle_3)_the_will_of_tengri.opus",
-		"checksum": 3226115383
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_camp_battle_1)_blood_for_the_sky_god.opus",
-		"checksum": 3075459279
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_cutscene)_the_day_of_reckoning.opus",
-		"checksum": 1335735031
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
-		"checksum": 659932427
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
-		"checksum": 3992625050
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_2)_harbingers.opus",
-		"checksum": 2855808548
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_3)_king_of_the_horde.opus",
-		"checksum": 1175982399
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
-		"checksum": 1255739421
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_5)_nomads.opus",
-		"checksum": 2954625527
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_6)_the_four_winds.opus",
-		"checksum": 762100722
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_7)_the_journey_west.opus",
-		"checksum": 330220477
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
-		"checksum": 1704790782
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
-		"checksum": 62760043
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_tension_1)_on_the_steppes.opus",
-		"checksum": 577735414
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_tension_2)_shaman_says.opus",
-		"checksum": 2356903441
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_hun_tension_3)_to_the_west.opus",
-		"checksum": 2249631975
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_battle_1)_champions_of_god.opus",
-		"checksum": 203443211
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_battle_2)_legions_of_the_west.opus",
-		"checksum": 300766776
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_battle_3)_the_red_horse.opus",
-		"checksum": 3865130815
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_1)_concealed_blades.opus",
-		"checksum": 649645601
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_10)_vineyards.opus",
-		"checksum": 339690049
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_2)_foederati.opus",
-		"checksum": 1071635320
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_3)_forgotten_glory.opus",
-		"checksum": 1951618029
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_4)_hope_in_the_east.opus",
-		"checksum": 2599489809
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_5)_seven_hills.opus",
-		"checksum": 761970661
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_6)_streets_of_roma.opus",
-		"checksum": 2827343932
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
-		"checksum": 3788969266
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_8)_the_last_emperor.opus",
-		"checksum": 1577595199
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_strat_map_9)_the_passage_of_time.opus",
-		"checksum": 4115681070
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_tension_1)_facing_the_horde.opus",
-		"checksum": 2515948571
-	},
-	{
-		"filename": "data\/sounds\/music\/(bi_roman_tension_2)_to_arms.opus",
-		"checksum": 2642298700
-	},
-	{
-		"filename": "data\/sounds\/music\/(eastern_loading_1)_cleopatra.opus",
-		"checksum": 3510073491
-	},
-	{
-		"filename": "data\/sounds\/music\/(greek_loading_1)_the_eternal_city.opus",
-		"checksum": 3517537453
-	},
-	{
-		"filename": "data\/sounds\/music\/(live_acton_trailer).opus",
-		"checksum": 2331399356
-	},
-	{
-		"filename": "data\/sounds\/music\/(roman_camp_battle_bi)_barbarians_at_the_gates.opus",
-		"checksum": 952217878
-	},
-	{
-		"filename": "data\/sounds\/music\/(roman_tension_bi_1)_fate_of_empires.opus",
-		"checksum": 2022802064
+		"checksum": 3570079185
 	},
 	{
 		"filename": "data\/sounds\/sfx.dat.feral",
-		"checksum": 2401631039
+		"checksum": 17241079
 	},
 	{
 		"filename": "data\/sounds\/sfx.idx.feral",
-		"checksum": 343009952
+		"checksum": 925403279
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_battle_end_music.txt",
+		"checksum": 3001343790
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_battle_music_statemachine.txt",
+		"checksum": 2621596632
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_battle_notifications.txt",
+		"checksum": 3445461002
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_campaign_end.txt",
+		"checksum": 3567548815
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_character_vocal.txt",
+		"checksum": 277939939
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_diplomacy_comment.txt",
+		"checksum": 3011513158
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_message_events.txt",
+		"checksum": 1627288992
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_prebattle_speech.txt",
+		"checksum": 717392731
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_static_music.txt",
+		"checksum": 113450575
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_anims.txt",
+		"checksum": 2680047156
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_berserk.txt",
+		"checksum": 3229154338
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_celebrate.txt",
+		"checksum": 611867153
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_charge.txt",
+		"checksum": 914839321
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_collide.txt",
+		"checksum": 867854984
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_confirm.txt",
+		"checksum": 3448601289
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_confirm_single.txt",
+		"checksum": 2010771190
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_druid_chant.txt",
+		"checksum": 784659382
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_fighting.txt",
+		"checksum": 1446737057
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_idle.txt",
+		"checksum": 366722386
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_retreating.txt",
+		"checksum": 838290592
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_routing.txt",
+		"checksum": 2285820824
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_screeching_women.txt",
+		"checksum": 204561153
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_taunting.txt",
+		"checksum": 351660854
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_voice.txt",
+		"checksum": 2542881534
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_unit_warcry.txt",
+		"checksum": 3418077802
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_war_horns.txt",
+		"checksum": 1268831216
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/banks\/descr_soundbank_weapon_hit.txt",
+		"checksum": 1190040052
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/descr_bank_sounds.txt",
+		"checksum": 2649282544
+	},
+	{
+		"filename": "data\/sounds_previous\/descrs\/descr_misc_sounds.txt",
+		"checksum": 2224797981
+	},
+	{
+		"filename": "data\/sounds_previous\/events.dat",
+		"checksum": 862244829
+	},
+	{
+		"filename": "data\/sounds_previous\/events.idx",
+		"checksum": 250051959
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(barbarian_loading_1)_the_fallen_eagle.opus",
+		"checksum": 3743993075
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(barbarian_loading_2)_war_in_the_north.opus",
+		"checksum": 4067630855
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_battle_1)_assault_by_sea.opus",
+		"checksum": 3865527434
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_battle_2)_fire_and_ice.opus",
+		"checksum": 3883861840
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_battle_3)_lets_kill_some_romans.opus",
+		"checksum": 3014348010
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_camp_battle_1)_call_of_woden.opus",
+		"checksum": 1588839259
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_intro)_the_great_migrators.opus",
+		"checksum": 1041785217
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_1)_autumn_rains.opus",
+		"checksum": 1841805090
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_10)_snowfall.opus",
+		"checksum": 2938948068
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_11)_warm_hearths.opus",
+		"checksum": 2715570715
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_12)_winters_bard.opus",
+		"checksum": 3097354865
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_2)_dark_forest.opus",
+		"checksum": 570062243
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_3)_song_of_the_lonely_nord.opus",
+		"checksum": 1030831266
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_4)_fallen_kinsfolk.opus",
+		"checksum": 233232997
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_5)_into_the_unknown.opus",
+		"checksum": 2548632890
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_6)_lays_of_eorthe.opus",
+		"checksum": 2548143084
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_7)_men_of_the_sea.opus",
+		"checksum": 1364177885
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_8)_ode_to_freo.opus",
+		"checksum": 2621030299
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_strat_map_9)_out_of_the_mist.opus",
+		"checksum": 3492168837
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_tension_1)_lamentation.opus",
+		"checksum": 2102494417
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_tension_2)_weeping_skies.opus",
+		"checksum": 1517035321
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_tension_3)_winter_realm.opus",
+		"checksum": 3950394812
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_barbarian_trailer)_the_celts.opus",
+		"checksum": 2769761427
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_credits)_settlers_of_the_apocalypse.opus",
+		"checksum": 2662350740
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_battle_1)_burning_crescent.opus",
+		"checksum": 52272746
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_battle_2)_riders_of_the_east.opus",
+		"checksum": 1743440165
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_battle_3)_warriors_of_ahura.opus",
+		"checksum": 1128343488
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_camp_battle_1)_with_lance_and_mace.opus",
+		"checksum": 2681805803
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_intro)_the_sassanid_empire.opus",
+		"checksum": 2304799704
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_1)_bazaar.opus",
+		"checksum": 442935666
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_2)_ctesiphon.opus",
+		"checksum": 2130451284
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_3)_dying_empires.opus",
+		"checksum": 3937587527
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_4)_empty_throne.opus",
+		"checksum": 4225748990
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_5)_journeying_caravans.opus",
+		"checksum": 4137299993
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_6)_people_of_the_desert.opus",
+		"checksum": 1323299736
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_7)_sacred_fires.opus",
+		"checksum": 1096044786
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_8)_sea_of_sand.opus",
+		"checksum": 1161296621
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_strat_map_9)_the_shahanshah.opus",
+		"checksum": 2625106433
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_tension_1)_arid_winds.opus",
+		"checksum": 942776714
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_tension_2)_desert_omens.opus",
+		"checksum": 3636050320
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_eastern_tension_3)_thirsty_sands.opus",
+		"checksum": 544798498
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_frontend_1)_attila.opus",
+		"checksum": 4014785131
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_battle_1)_a_thousand_arrows.opus",
+		"checksum": 103154494
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_battle_2)_scourge_of_god.opus",
+		"checksum": 3973810200
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_battle_3)_the_will_of_tengri.opus",
+		"checksum": 3226115383
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_camp_battle_1)_blood_for_the_sky_god.opus",
+		"checksum": 3075459279
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_cutscene)_the_day_of_reckoning.opus",
+		"checksum": 1335735031
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_1)_fiddler_of_the_plain.opus",
+		"checksum": 659932427
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_10)_spirit_of_the_sky.opus",
+		"checksum": 3992625050
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_2)_harbingers.opus",
+		"checksum": 2855808548
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_3)_king_of_the_horde.opus",
+		"checksum": 1175982399
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_4)_mengu_koq_tengri.opus",
+		"checksum": 1255739421
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_5)_nomads.opus",
+		"checksum": 2954625527
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_6)_the_four_winds.opus",
+		"checksum": 762100722
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_7)_the_journey_west.opus",
+		"checksum": 330220477
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_8)_under_the_eternal_sky.opus",
+		"checksum": 1704790782
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_strat_map_9)_wanderers_of_the_steppe.opus",
+		"checksum": 62760043
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_tension_1)_on_the_steppes.opus",
+		"checksum": 577735414
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_tension_2)_shaman_says.opus",
+		"checksum": 2356903441
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_hun_tension_3)_to_the_west.opus",
+		"checksum": 2249631975
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_battle_1)_champions_of_god.opus",
+		"checksum": 203443211
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_battle_2)_legions_of_the_west.opus",
+		"checksum": 300766776
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_battle_3)_the_red_horse.opus",
+		"checksum": 3865130815
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_1)_concealed_blades.opus",
+		"checksum": 649645601
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_10)_vineyards.opus",
+		"checksum": 339690049
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_2)_foederati.opus",
+		"checksum": 1071635320
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_3)_forgotten_glory.opus",
+		"checksum": 1951618029
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_4)_hope_in_the_east.opus",
+		"checksum": 2599489809
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_5)_seven_hills.opus",
+		"checksum": 761970661
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_6)_streets_of_roma.opus",
+		"checksum": 2827343932
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_7)_the_fall_of_rome.opus",
+		"checksum": 3788969266
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_8)_the_last_emperor.opus",
+		"checksum": 1577595199
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_strat_map_9)_the_passage_of_time.opus",
+		"checksum": 4115681070
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_tension_1)_facing_the_horde.opus",
+		"checksum": 2515948571
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(bi_roman_tension_2)_to_arms.opus",
+		"checksum": 2642298700
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(eastern_loading_1)_cleopatra.opus",
+		"checksum": 3510073491
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(greek_loading_1)_the_eternal_city.opus",
+		"checksum": 3517537453
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(live_acton_trailer).opus",
+		"checksum": 2331399356
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(roman_camp_battle_bi)_barbarians_at_the_gates.opus",
+		"checksum": 952217878
+	},
+	{
+		"filename": "data\/sounds_previous\/music\/(roman_tension_bi_1)_fate_of_empires.opus",
+		"checksum": 2022802064
 	},
 	{
 		"filename": "data\/string_overrides\/de.strings",
@@ -12409,7 +12637,7 @@
 	},
 	{
 		"filename": "data\/text\/expanded_bi.txt",
-		"checksum": 3569536654
+		"checksum": 1317589394
 	},
 	{
 		"filename": "data\/text\/export_advice.txt",
@@ -12465,7 +12693,7 @@
 	},
 	{
 		"filename": "data\/text\/names.txt",
-		"checksum": 3290248681
+		"checksum": 2743769384
 	},
 	{
 		"filename": "data\/text\/rebel_faction_descr.txt",
@@ -12665,6 +12893,10 @@
 	},
 	{
 		"filename": "data\/ui\/faction_icons\/franks.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/faction_icons\/gepids.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -13269,6 +13501,126 @@
 	},
 	{
 		"filename": "data\/ui\/unit_info\/empire_west_rebels\/vigilia_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/#alan_horse_archers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/#steppe_horde_horse.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/african_peasant_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/alan_horse_archers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/arian_priests_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/assassin_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/diplomat_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/goth_raiders_info .tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/goth_raiders_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/goth_warlords_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/gothic_horse_archers_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/gothic_lancer_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/gothic_spearmen_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/gothic_warrior_nobles_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/gothic_warriors_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/merchant_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_bireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_boats_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_corvus_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_decere_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_large_boats_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_quinquireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/naval_trireme_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/peasant_gothic_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/runaway_slave_spearmen_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/spy_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/steppe_horde_chosen_warriors_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/steppe_horde_horse_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/steppe_horde_peasants_info.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/unit_info\/gepids\/steppe_horde_spearmen_info.tga",
 		"checksum": "Blacklisted"
 	},
 	{
@@ -14136,6 +14488,122 @@
 		"checksum": "Blacklisted"
 	},
 	{
+		"filename": "data\/ui\/units\/gepids\/#african_peasant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#alan_horse_archers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#arian_priests.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#goth_raiders.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#goth_warlords.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#gothic_horse_archers.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#gothic_lancer.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#gothic_spearmen.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#gothic_warrior_nobles.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#gothic_warriors.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_bireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_boats.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_corvus.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_decere.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_large_boats.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_pirates.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_quinquireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#naval_trireme.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#peasant_gothic.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#runaway_slave_spearmen.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#steppe_horde_chosen_warriors.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#steppe_horde_horse.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#steppe_horde_peasants.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#steppe_horde_spearmen.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/#western_peasant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/assassin.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/diplomat.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/merchant.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/ui\/units\/gepids\/spy.tga",
+		"checksum": "Blacklisted"
+	},
+	{
 		"filename": "data\/ui\/units\/sassanid_rebels\/#armoured_camel_riders.tga",
 		"checksum": "Blacklisted"
 	},
@@ -14681,7 +15149,7 @@
 	},
 	{
 		"filename": "data\/world\/maps\/base\/map.rwm",
-		"checksum": 1648458724
+		"checksum": 3812338785
 	},
 	{
 		"filename": "data\/world\/maps\/base\/map_climates.tga",
@@ -14757,11 +15225,11 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_strat.txt",
-		"checksum": 1026090701
+		"checksum": 2912436385
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/descr_win_conditions.txt",
-		"checksum": 3622449199
+		"checksum": 2052964902
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/disasters.tga",
@@ -14821,6 +15289,10 @@
 	},
 	{
 		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_franks.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/imperial_campaign\/map_gepids.tga",
 		"checksum": "Blacklisted"
 	},
 	{

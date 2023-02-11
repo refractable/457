@@ -37,52 +37,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(barbarian_loading_1)_the_fallen_eagle.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the type of game end (victory, loss, destroyed) that this should play for
-			"end type": "victory",
-
-			;;the factions that this entry is valid for
-			"factions":
-				[ "all", ],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_intro)_the_great_migrators.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the type of game end (victory, loss, destroyed) that this should play for
-			"end type": "victory",
-
-			;;the factions that this entry is valid for
-			"factions":
-				[ "roman", ],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_intro)_the_great_migrators.opus",
-				{
-				},
-			],
-		},
-		{
-			;;the type of game end (victory, loss, destroyed) that this should play for
-			"end type": "victory",
-
-			;;the factions that this entry is valid for
-			"factions":
-				[ "barbarian", ],
-
-			"sounds":
-			[
-				"data/sounds/music/(bi_barbarian_trailer)_the_celts.opus",
+				"data/sounds/music/Lose1-Lost_Souls.opus",
 				{
 				},
 			],
@@ -97,7 +52,7 @@
 
 			"sounds":
 			[
-				"data/sounds/music/(bi_eastern_intro)_the_sassanid_empire.opus",
+				"data/sounds/music/Feral_GameWin-Arabic.opus",
 				{
 				},
 			],
@@ -108,11 +63,26 @@
 
 			;;the factions that this entry is valid for
 			"factions":
-				[ "hun", "nomad", ],
+				[ "all", "-roman", "-carthaginian", "-eastern", "slave", ],
 
 			"sounds":
 			[
-				"data/sounds/music/(bi_hun_cutscene)_the_day_of_reckoning.opus",
+				"data/sounds/music/Feral_GameWin-Barbarian_BI.opus",
+				{
+				},
+			],
+		},
+		{
+			;;the type of game end (victory, loss, destroyed) that this should play for
+			"end type": "victory",
+
+			;;the factions that this entry is valid for
+			"factions":
+				[ "roman", ],
+
+			"sounds":
+			[
+				"data/sounds/music/Feral_GameWin-Roman.opus",
 				{
 				},
 			],

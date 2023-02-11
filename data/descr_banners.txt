@@ -212,6 +212,12 @@ ally_texture        models/textures/standard_bosporan_kingdom_ally.tga
 
 faction             thuringians
 standard_texture    models/textures/standard_thuringians.tga
-rebels_texture      models/textures/standard_roman_rebels.tga
-routing_texture     models/textures/standard_routing.tga
+rebels_texture      models/textures/standard_barbarian_rebels.tga
+routing_texture     models/textures/standard_routing_barbarian.tga
 ally_texture        models/textures/standard_thuringians_ally.tga
+
+faction             gepids
+standard_texture    models/textures/standard_gepids.tga
+rebels_texture      models/textures/standard_nomad_rebels.tga
+routing_texture     models/textures/standard_routing_barbarian.tga
+ally_texture        models/textures/standard_gepids_ally.tga

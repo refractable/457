@@ -752,7 +752,6 @@ building equestrian
 				recruit "eques ala"  0 
 				recruit "dromedarii"  0	requires resource camels    
 				recruit "eques clibanarii"  2     
-				recruit "eques bucellarii"  2 
 				recruit "graal knights"  0 requires hidden_resource britain
 				recruit "romano british warlords"  0   
 				stage_races 2 requires factions { roman,}
